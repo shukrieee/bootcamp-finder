@@ -1,0 +1,25 @@
+admissions: Application
+cities:
+- toronto
+commitment: full-time
+cost_description: $7,250
+display_name: Front-End Web Development Immersive
+duration: 9
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: front-end-web-development-immersive
+promises_job: false
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- javascript
+- jquery
+- wordpress
+- responsive-design
+- html
+- css
+- git
+tuition: 7250
+tuition_units: CAD $

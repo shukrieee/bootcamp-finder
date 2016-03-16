@@ -1,0 +1,24 @@
+admissions: Application
+cities:
+- portland
+commitment: full-time
+cost_description: $4,250
+display_name: Web and Mobile Development
+duration: 25
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: web-and-mobile-development
+promises_job: false
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- html
+- css
+- javascript
+- ruby-on-rails
+- php
+- android
+tuition: 4250
+tuition_units: USD $

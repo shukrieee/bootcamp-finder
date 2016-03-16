@@ -1,0 +1,26 @@
+admissions: Application, coding challenge, interviews
+cities:
+- new-york
+commitment: full-time
+cost_description: $16,810
+display_name: Fullstack Academy of Code
+duration: 13
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 97% of graduates eventually land a job - time to hire unknown
+program_slug: fullstack-academy-of-code
+promises_job: false
+reports_outcome: 'No'
+scholarships: For women
+topics:
+- javascript
+- angular-js
+- algorithms
+- html
+- css
+- node-js
+- sql
+- git
+tuition: 16810
+tuition_units: USD $

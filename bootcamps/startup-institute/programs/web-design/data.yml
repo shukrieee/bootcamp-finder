@@ -1,0 +1,26 @@
+admissions: Application, interviews
+cities:
+- new-york
+- chicago
+- boston
+commitment: full-time
+cost_description: $7,100
+display_name: Web Design
+duration: 8
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: web-design
+promises_job: null
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- ux
+- html
+- css
+- ui
+- wireframing
+- javascript
+tuition: 7100
+tuition_units: USD

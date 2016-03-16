@@ -1,0 +1,23 @@
+admissions: Application, interview, prep work
+cities:
+- phoenix
+commitment: full-time
+cost_description: $8,000
+display_name: 'Web Development '
+duration: 12
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: web-development
+promises_job: null
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- javascript
+- css
+- php
+- mysql
+- html
+tuition: 8000
+tuition_units: USD

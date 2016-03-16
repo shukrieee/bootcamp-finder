@@ -1,0 +1,22 @@
+admissions: Application, interview
+cities:
+- salt-lake-city
+commitment: null
+cost_description: $10,500
+display_name: iOS Development Immersive
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: ios-development-immersive
+promises_job: null
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- ux
+- ui
+- objective-c
+- xcode
+tuition: 10500
+tuition_units: USD

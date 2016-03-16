@@ -1,0 +1,24 @@
+admissions: Application, coding challenge, 2 technical interviews
+cities:
+- denver
+- austin
+- seattle
+- san-francisco
+commitment: full-time
+cost_description: $16,000
+display_name: Data Engineering
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: data-engineering
+promises_job: null
+reports_outcome: 'No'
+scholarships: For women, minorities, and veterans
+topics:
+- big-data
+- mapreduce
+- java
+tuition: 16000
+tuition_units: USD

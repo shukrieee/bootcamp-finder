@@ -1,0 +1,28 @@
+admissions: Application, coding test, interview, 3-4 weeks of prep work
+cities:
+- austin
+- san-francisco
+- los-angeles
+commitment: full-time
+cost_description: $16,920
+display_name: Primary
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 96% of graduates land a job within 3 months of graduation
+program_slug: primary
+promises_job: false
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- javascript
+- node-js
+- angular
+- express
+- mongodb
+- algorithms
+- html
+- css
+tuition: 16920
+tuition_units: USD $

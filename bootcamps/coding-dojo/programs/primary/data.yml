@@ -1,0 +1,27 @@
+admissions: Application
+cities:
+- new-york
+- seattle
+- san-francisco
+- los-angeles
+- dallas
+commitment: full-time
+cost_description: $9,450 in Dallas and $13,495 everywhere else
+display_name: Primary
+duration: 14
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 92% of graduates land a job within 3 months of graduation
+program_slug: primary
+promises_job: false
+reports_outcome: 'No'
+scholarships: For college students, women, and veterans
+topics:
+- lamp
+- mean
+- python
+- ruby-on-rails
+- ios
+tuition: 13495
+tuition_units: USD $

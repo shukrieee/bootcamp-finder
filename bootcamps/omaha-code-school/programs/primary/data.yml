@@ -1,0 +1,26 @@
+admissions: Application, exercises, interview
+cities:
+- omaha
+commitment: full-time
+cost_description: $7,500
+display_name: Primary
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: primary
+promises_job: false
+reports_outcome: 'No'
+scholarships: 'Yes'
+topics:
+- wordpress
+- ruby-on-rails
+- html
+- git
+- javascript
+- jquery
+- css
+- testing
+tuition: 7500
+tuition_units: USD

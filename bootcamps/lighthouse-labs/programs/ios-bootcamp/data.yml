@@ -1,0 +1,23 @@
+admissions: Application, interview, 4 weeks of prep work
+cities:
+- vancouver
+- toronto
+commitment: full-time
+cost_description: $8,000 CAD
+display_name: iOS Bootcamp
+duration: 8
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: ios-bootcamp
+promises_job: false
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- cocoa
+- objective-c
+- xcode
+- ios
+tuition: 8000
+tuition_units: CAD

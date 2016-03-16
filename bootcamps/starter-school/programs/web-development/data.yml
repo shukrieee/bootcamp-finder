@@ -1,0 +1,25 @@
+admissions: Application
+cities:
+- chicago
+commitment: full-time
+cost_description: $8,000
+display_name: Web Development
+duration: 10
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: web-development
+promises_job: false
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- ruby-on-rails
+- ux
+- html
+- git
+- javascript
+- jquery
+- css
+tuition: 8000
+tuition_units: USD $

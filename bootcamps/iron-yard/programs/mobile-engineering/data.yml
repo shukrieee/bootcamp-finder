@@ -1,0 +1,28 @@
+admissions: Application, interview
+cities:
+- charlotte
+- houston
+- indianapolis
+- nashville
+- salt-lake-city
+- washington-dc
+- london
+commitment: full-time
+cost_description: "$12,000 or \xA38,000"
+display_name: Mobile Engineering
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: mobile-engineering
+promises_job: true
+reports_outcome: 'No'
+scholarships: For women and veterans
+topics:
+- ios
+- objective-c
+- cocoa
+- testing
+tuition: 12000
+tuition_units: USD

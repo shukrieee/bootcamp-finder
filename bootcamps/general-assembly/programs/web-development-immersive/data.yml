@@ -1,0 +1,37 @@
+admissions: Application
+cities:
+- london
+- sydney
+- boston
+- san-francisco
+- new-york
+- hong-kong
+- los-angeles
+- austin
+- chicago
+- washington-dc
+- seattle
+- atlanta
+- denver
+- melbourne
+- singapore
+commitment: full-time
+cost_description: $13,500
+display_name: Web Development Immersive
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: web-development-immersive
+promises_job: false
+reports_outcome: 'No'
+scholarships: For low-income students
+topics:
+- ruby-on-rails
+- javascript
+- html
+- css
+- sql
+tuition: 13500
+tuition_units: USD $

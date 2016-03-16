@@ -1,0 +1,24 @@
+admissions: Application, interview
+cities:
+- durham
+commitment: null
+cost_description: "$12,000 or \xA38,000"
+display_name: Data Science
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: data-science
+promises_job: null
+reports_outcome: 'No'
+scholarships: For women and veterans
+topics:
+- python
+- html
+- javascript
+- numpy
+- matplotlib
+- data-science
+tuition: null
+tuition_units: null

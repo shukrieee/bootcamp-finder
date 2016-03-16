@@ -1,0 +1,33 @@
+admissions: Application
+cities:
+- atlanta
+- austin
+- boston
+- chicago
+- hong-kong
+- london
+- los-angeles
+- san-francisco
+- seattle
+- sydney
+- washington-dc
+commitment: full-time
+cost_description: $13,500
+display_name: Android Development Immersive
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: android-development-immersive
+promises_job: false
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- java
+- android
+- google-play
+- ui
+- ux
+tuition: 13500
+tuition_units: ''

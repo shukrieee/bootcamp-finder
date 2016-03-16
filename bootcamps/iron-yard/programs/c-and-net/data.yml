@@ -1,0 +1,36 @@
+admissions: Application, interview
+cities:
+- atlanta
+- austin
+- charleston
+- charlotte
+- columbia
+- durham
+- greenville
+- houston
+- indianapolis
+- las-vegas
+- little-rock
+- nashville
+- salt-lake-city
+- washington-dc
+commitment: null
+cost_description: "$12,000 or \xA38,000"
+display_name: 'C and #NET'
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: c-and-net
+promises_job: null
+reports_outcome: 'No'
+scholarships: For women and veterans
+topics:
+- c-sharp
+- net
+- rest
+- testing
+- sql
+tuition: null
+tuition_units: null

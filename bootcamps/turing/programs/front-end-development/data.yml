@@ -1,0 +1,23 @@
+admissions: Application, interview
+cities:
+- denver
+commitment: null
+cost_description: $17,500
+display_name: Front-end Development
+duration: 28
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 95% of graduates land a job within 3 months of graduation
+program_slug: front-end-development
+promises_job: null
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- javascript
+- react
+- ember-js
+- html
+- css
+tuition: 17500
+tuition_units: null

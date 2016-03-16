@@ -1,0 +1,25 @@
+admissions: Application, coding tests, interviews
+cities:
+- san-francisco
+- remote
+commitment: full-time
+cost_description: $17,780
+display_name: Hack Reactor Core
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 99% of graduates land a job within 3 months of graduation
+program_slug: hack-reactor-core
+promises_job: false
+reports_outcome: 'No'
+scholarships: For veterans
+topics:
+- javascript
+- html
+- css
+- react
+- node-js
+- algorithms
+tuition: 17780
+tuition_units: USD $

@@ -1,0 +1,22 @@
+admissions: Application, interview
+cities:
+- chicago
+- san-francisco
+commitment: full-time
+cost_description: $12,995 in SF and $10,995 in Chicago
+display_name: Primary
+duration: 8
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 90% of graduates eventually land a job - time to hire unknown
+program_slug: primary
+promises_job: false
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- ios
+- xcode
+- storyboard
+tuition: 9000
+tuition_units: USD $

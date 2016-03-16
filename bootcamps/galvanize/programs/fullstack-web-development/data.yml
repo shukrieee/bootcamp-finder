@@ -1,0 +1,29 @@
+admissions: Application, coding challenge, interviews
+cities:
+- denver
+- austin
+- boulder
+- seattle
+- san-francisco
+- fort-collins
+commitment: full-time
+cost_description: $21,000
+display_name: Fullstack Web Development
+duration: 24
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 97% of graduates eventually land a job - time to hire unknown
+program_slug: fullstack-web-development
+promises_job: false
+reports_outcome: 'No'
+scholarships: For women, minorities, veterans
+topics:
+- javascript
+- node-js
+- html
+- css
+- express
+- sql
+tuition: 21000
+tuition_units: USD

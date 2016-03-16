@@ -1,0 +1,26 @@
+admissions: Application
+cities:
+- nashville
+commitment: full-time
+cost_description: $10,500
+display_name: Web Developer Bootcamp
+duration: 24
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 90% of graduates land a job within 90 days of graduation
+program_slug: web-developer-bootcamp
+promises_job: false
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- javascript
+- node-js
+- ruby-on-rails
+- net
+- c-sharp
+- html
+- git
+- css
+tuition: 10500
+tuition_units: USD $

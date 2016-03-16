@@ -1,0 +1,26 @@
+admissions: Application, interview, aptitude test
+cities:
+- minneapolis
+- louisville
+- akron
+commitment: full-time
+cost_description: $10,000
+display_name: .Net/C# Bootcamp
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 95% of graduates land a job within 3 months of graduation
+program_slug: netc-bootcamp
+promises_job: false
+reports_outcome: 'No'
+scholarships: 'No'
+topics:
+- net
+- c-sharp
+- html
+- css
+- git
+- javascript
+tuition: 10000
+tuition_units: USD $

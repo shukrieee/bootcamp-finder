@@ -1,0 +1,29 @@
+admissions: Application, coding challenge, interview
+cities:
+- austin
+- new-york
+- chicago
+- seattle
+- san-francisco
+- san-diego
+commitment: full-time
+cost_description: $13,950 in NYC & SF and $12,700 everywhere else
+display_name: Primary
+duration: 10
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: primary
+promises_job: false
+reports_outcome: 'No'
+scholarships: For women, minorities, and veterans
+topics:
+- ruby-on-rails
+- javascript
+- jquery
+- git
+- html
+- css
+tuition: 13950
+tuition_units: USD $
