@@ -6,7 +6,7 @@ All the data used in Thinkful's
 To update the data for your bootcamp, fork this repo and make a pull request.
 
 ### Permissions
-We ask that only employees or those closely affiliated with a bootcamp update its data. Once a PR is submitted, Thinkful we verify the data and push the changes live. If you have any questions please contact bootcamps@thinkful.com.
+We ask that only employees or those closely affiliated with a bootcamp update its data. Once a PR is submitted, Thinkful will verify the data and push the changes live. If you have any questions please contact bootcamps@thinkful.com.
 
 ### Adding a school
 Copy the file structure of a bootcamp’s folder and fill out the data according to the specifics below. Then create a PR adding that folder to the main ‘bootcamps’ directory.
