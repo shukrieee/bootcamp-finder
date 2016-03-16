@@ -19,7 +19,7 @@ There is no file size or dimension limit, but a good logo will be large enough t
 ### Updating your school’s description
 - Descriptions should be no longer than 1000 characters and no links will be allowed in the text.
 - Copy should be written in the third person.
-- Descriptions should be as objective as possible. We will not accepted phrases like “one of the best bootcamps” but will accept “Rated a top 10 bootcamp by TNW”.
+- Descriptions should be as objective as possible. We will not accept phrases like “one of the best bootcamps” but will accept “Rated a top 10 bootcamp by TNW”.
 
 ### Updating individual stats
 - Founded dates are to be listed as years
