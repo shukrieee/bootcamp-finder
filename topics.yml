@@ -4,8 +4,6 @@
   slug: ajax
 - display_name: Android
   slug: android
-- display_name: Angular
-  slug: angular
 - display_name: Angular-JS
   slug: angular-js
 - display_name: APIs
