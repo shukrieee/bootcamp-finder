@@ -1,4 +1,4 @@
-At Devschool we combine a guided, progressive, real world approach to
+Devschool combines an expert-guided, progressive, real world approach to
 teaching software and web development. Instead of creating artificial
 hoops, courses and classrooms, they focus on having students build a real
 application. Every student builds a different application and every student
