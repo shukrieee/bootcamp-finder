@@ -1,7 +1,7 @@
 admissions: Application, Interview (personality and goals)
 cities:
 - puerto-vallarta
-- online
+- remote
 commitment: part or full-time
 cost_description: $5988 covers the course and job placement
 display_name: Primary
@@ -20,7 +20,6 @@ topics:
 - html
 - bootstrap
 - algorithms
-- ruby
 - ruby-on-rails
 - javascript
 - fullstack-javascript
@@ -29,7 +28,6 @@ topics:
 - angular-js
 - git
 - postgresql
-- vim
 - command-line
 - tdd
 - unix
