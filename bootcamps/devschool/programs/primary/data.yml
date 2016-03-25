@@ -18,19 +18,15 @@ scholarships: 'Yes'
 topics:
 - css
 - html
-- bootstrap
 - algorithms
 - ruby-on-rails
 - javascript
-- fullstack-javascript
 - d3
 - react
 - angular-js
 - git
 - postgresql
-- command-line
 - tdd
 - unix
-- heroku
 tuition: 5988
 tuition_units: USD $

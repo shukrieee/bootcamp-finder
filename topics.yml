@@ -16,8 +16,6 @@
   slug: bash
 - display_name: Big Data
   slug: big-data
-- display_name: Bootstrap
-  slug: bootstrap
 - display_name: C#
   slug: c-sharp
 - display_name: Clojure
@@ -26,8 +24,6 @@
   slug: clustering
 - display_name: Cocoa
   slug: cocoa
-- display_name: command line
-  slug: command-line
 - display_name: CSS
   slug: css
 - display_name: D3
@@ -52,8 +48,6 @@
   slug: firebase
 - display_name: Flask
   slug: flask
-- display_name: Fullstack Javascript
-  slug: fullstack-javascript
 - display_name: Google Play
   slug: google-play
 - display_name: Git
@@ -62,8 +56,6 @@
   slug: grunt
 - display_name: Hadoop
   slug: hadoop
-- display_name: Heroku
-  slug: heroku
 - display_name: HTML
   slug: html
 - display_name: iOS
