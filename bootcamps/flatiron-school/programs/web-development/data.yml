@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: 95% of graduates land jobs within 120 days of graduation
 program_slug: web-development
 promises_job: false
-reports_outcome: 'Yes'
 scholarships: For women and minorities
 topics:
 - ruby-on-rails
@@ -23,3 +22,5 @@ topics:
 - git
 tuition: 15000
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

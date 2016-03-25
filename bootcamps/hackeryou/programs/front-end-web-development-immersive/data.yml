@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: front-end-web-development-immersive
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - javascript
@@ -23,3 +22,5 @@ topics:
 - git
 tuition: 7250
 tuition_units: CAD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

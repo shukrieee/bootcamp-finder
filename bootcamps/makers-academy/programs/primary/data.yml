@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: primary
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - html
@@ -22,3 +21,5 @@ topics:
 - testing
 tuition: 8000
 tuition_units: "GBP \xA3"
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

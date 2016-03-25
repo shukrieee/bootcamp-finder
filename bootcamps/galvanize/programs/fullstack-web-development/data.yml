@@ -16,7 +16,6 @@ guarantee: 'No'
 placement: 97% of graduates eventually land a job - time to hire unknown
 program_slug: fullstack-web-development
 promises_job: false
-reports_outcome: 'No'
 scholarships: For women, minorities, veterans
 topics:
 - javascript
@@ -27,3 +26,5 @@ topics:
 - sql
 tuition: 21000
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

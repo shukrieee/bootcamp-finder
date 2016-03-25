@@ -14,7 +14,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: data-engineering
 promises_job: null
-reports_outcome: 'No'
 scholarships: For women, minorities, and veterans
 topics:
 - big-data
@@ -22,3 +21,5 @@ topics:
 - java
 tuition: 16000
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

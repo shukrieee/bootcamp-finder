@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: web-application-development
 promises_job: false
-reports_outcome: 'No'
 scholarships: For veterans
 topics:
 - html
@@ -24,3 +23,5 @@ topics:
 - git
 tuition: 13500
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

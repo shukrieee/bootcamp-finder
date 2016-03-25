@@ -21,7 +21,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: android-development-immersive
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - java
@@ -31,3 +30,5 @@ topics:
 - ux
 tuition: 13500
 tuition_units: ''
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

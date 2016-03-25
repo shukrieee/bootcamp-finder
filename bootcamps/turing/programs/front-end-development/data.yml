@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: 95% of graduates land a job within 3 months of graduation
 program_slug: front-end-development
 promises_job: null
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - javascript
@@ -21,3 +20,5 @@ topics:
 - css
 tuition: 17500
 tuition_units: null
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

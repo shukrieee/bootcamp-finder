@@ -12,7 +12,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: data-science-bootcamp
 promises_job: false
-reports_outcome: 'No'
 scholarships: For women and veterans
 topics:
 - data-science
@@ -23,3 +22,5 @@ topics:
 - matplotlib
 tuition: 14000
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

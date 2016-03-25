@@ -13,7 +13,6 @@ placement: 100% of our graduates have jobs within 120 days
   and make an average of almost $70,000 nation-wide
 program_slug: primary
 promises_job: false
-reports_outcome: 'Yes'
 scholarships: 'Yes'
 topics:
 - css
@@ -30,3 +29,5 @@ topics:
 - unix
 tuition: 5988
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

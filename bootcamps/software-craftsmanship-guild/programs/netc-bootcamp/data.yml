@@ -13,7 +13,6 @@ guarantee: 'No'
 placement: 95% of graduates land a job within 3 months of graduation
 program_slug: netc-bootcamp
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - net
@@ -24,3 +23,5 @@ topics:
 - javascript
 tuition: 10000
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

@@ -25,7 +25,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: web-development-immersive
 promises_job: false
-reports_outcome: 'No'
 scholarships: For low-income students
 topics:
 - ruby-on-rails
@@ -35,3 +34,5 @@ topics:
 - sql
 tuition: 13500
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

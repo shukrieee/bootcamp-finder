@@ -24,7 +24,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: python-and-django
 promises_job: null
-reports_outcome: 'No'
 scholarships: For women and veterans
 topics:
 - python
@@ -35,3 +34,5 @@ topics:
 - mvc
 tuition: null
 tuition_units: null
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

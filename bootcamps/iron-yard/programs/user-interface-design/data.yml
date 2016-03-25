@@ -12,7 +12,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: user-interface-design
 promises_job: null
-reports_outcome: 'No'
 scholarships: For women and veterans
 topics:
 - html
@@ -22,3 +21,5 @@ topics:
 - ui
 tuition: null
 tuition_units: null
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

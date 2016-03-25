@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: fullstack-javascript-web-development
 promises_job: false
-reports_outcome: 'No'
 scholarships: For women, minorities, and veterans
 topics:
 - python
@@ -23,3 +22,5 @@ topics:
 - css
 tuition: 14300
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

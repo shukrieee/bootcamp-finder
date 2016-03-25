@@ -16,7 +16,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: primary
 promises_job: false
-reports_outcome: 'No'
 scholarships: For women, minorities, and veterans
 topics:
 - ruby-on-rails
@@ -27,3 +26,5 @@ topics:
 - css
 tuition: 13950
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

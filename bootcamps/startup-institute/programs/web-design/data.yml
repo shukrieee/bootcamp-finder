@@ -13,7 +13,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: web-design
 promises_job: null
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - ux
@@ -24,3 +23,5 @@ topics:
 - javascript
 tuition: 7100
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

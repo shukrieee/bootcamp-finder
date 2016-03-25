@@ -13,7 +13,6 @@ placement: 98% of graduates eventually get hired with an average salary of $105k
   SF and $89k in NY - time to hire unknown
 program_slug: primary
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - algorithms
@@ -27,3 +26,5 @@ topics:
 - html
 tuition: 16380
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: byte-academy-bootcamp
 promises_job: null
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - python
@@ -22,3 +21,5 @@ topics:
 - css
 tuition: 10000
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

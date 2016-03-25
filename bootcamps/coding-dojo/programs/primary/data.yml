@@ -15,7 +15,6 @@ guarantee: 'No'
 placement: 92% of graduates land a job within 3 months of graduation
 program_slug: primary
 promises_job: false
-reports_outcome: 'No'
 scholarships: For college students, women, and veterans
 topics:
 - lamp
@@ -25,3 +24,5 @@ topics:
 - ios
 tuition: 13495
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

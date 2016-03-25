@@ -24,7 +24,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: rails-engineering
 promises_job: true
-reports_outcome: 'No'
 scholarships: For women and veterans
 topics:
 - javascript
@@ -34,3 +33,5 @@ topics:
 - sql
 tuition: 12000
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

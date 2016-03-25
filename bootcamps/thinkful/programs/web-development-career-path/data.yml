@@ -12,7 +12,6 @@ guarantee: Yes - Thinkful guarantees you a job within 4 months of graduation or 
 placement: 93% of graduates land an engineering job within 4 months of graduation.
 program_slug: web-development-career-path
 promises_job: true
-reports_outcome: 'Yes'
 scholarships: For women and veterans
 topics:
 - angular-js
@@ -24,3 +23,5 @@ topics:
 - ux
 tuition: 1400
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
