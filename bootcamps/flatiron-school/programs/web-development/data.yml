@@ -22,8 +22,8 @@ topics:
 - git
 tuition: 15000
 tuition_units: USD $
-reports_graduation_and_placement_rates: "No"
-outcomes_verified: "No"
+reports_graduation_and_placement_rates: "Yes"
+outcomes_verified: "Yes"
 reviews:
 - Avi knows his stuff and as such, for non-experienced programmers, you should embrace the course to listen to him explain the theory and concept in which why and how Ruby and Rails interact within one another.
 - In Rails, I feel like I now know what its metaprogramming is creating and why it’s beneficial. I feel like I can actually use this stuff.
