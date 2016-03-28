@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: front-end-web-development-immersive
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - javascript
@@ -23,3 +22,8 @@ topics:
 - git
 tuition: 7250
 tuition_units: CAD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- I have not only gotten an incredible education in all things front-end development, but the amount and quality of support from amazing mentors and instructors is what really sets HackerYou apart.
+- It’s nice when you can tell that your experience in the course is just as important to them as it is to you.

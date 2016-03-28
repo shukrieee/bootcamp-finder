@@ -24,7 +24,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: c-and-net
 promises_job: null
-reports_outcome: 'No'
 scholarships: For women and veterans
 topics:
 - c-sharp
@@ -34,3 +33,5 @@ topics:
 - sql
 tuition: null
 tuition_units: null
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

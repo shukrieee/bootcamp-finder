@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: 94% of graduates eventually land a job - time to hire unknown
 program_slug: full-stack-design-bootcamp
 promises_job: null
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - design
@@ -23,3 +22,5 @@ topics:
 - prototyping
 tuition: 11800
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

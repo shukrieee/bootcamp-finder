@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: primary
 promises_job: null
-reports_outcome: 'No'
 scholarships: For women
 topics:
 - javascript
@@ -21,3 +20,5 @@ topics:
 - git
 tuition: 10000
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

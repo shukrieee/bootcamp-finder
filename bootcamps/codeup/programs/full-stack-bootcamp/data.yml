@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: 97% of graduates land a job within 3 months of graduation
 program_slug: full-stack-bootcamp
 promises_job: true
-reports_outcome: 'No'
 scholarships: For women
 topics:
 - javascript
@@ -21,3 +20,5 @@ topics:
 - html
 tuition: 16000
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

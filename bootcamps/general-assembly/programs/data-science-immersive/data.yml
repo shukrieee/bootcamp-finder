@@ -22,7 +22,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: data-science-immersive
 promises_job: null
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - git
@@ -33,3 +32,5 @@ topics:
 - data-science
 tuition: 14500
 tuition_units: null
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

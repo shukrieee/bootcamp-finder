@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: primary
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'Yes'
 topics:
 - wordpress
@@ -24,3 +23,9 @@ topics:
 - testing
 tuition: 7500
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- OCS is structured in a very deliberate way. Learn the basics, and then build on top with more advanced topics. 
+- The school’s philosophy encourages people of all learning styles to work in whatever environment fits them best: even if that means heading to a coffee shop down the street.
+- No question or comment is ever too dumb

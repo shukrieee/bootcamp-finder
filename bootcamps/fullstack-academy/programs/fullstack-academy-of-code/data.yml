@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: 97% of graduates eventually land a job - time to hire unknown
 program_slug: fullstack-academy-of-code
 promises_job: false
-reports_outcome: 'No'
 scholarships: For women
 topics:
 - javascript
@@ -24,3 +23,8 @@ topics:
 - git
 tuition: 16810
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- They are not only terrific mentors, but also deeply committed to hiring quality staff. There is no bureaucracy – expect innovation.
+- FSA didn’t only give me skills and networks, but changed my life in a meaningful way.

@@ -12,7 +12,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: ios-bootcamp
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - cocoa
@@ -21,3 +20,5 @@ topics:
 - ios
 tuition: 8000
 tuition_units: CAD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

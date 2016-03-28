@@ -18,7 +18,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: code-immersion
 promises_job: null
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - ruby-on-rails
@@ -27,3 +26,5 @@ topics:
 - javascript
 tuition: 6750
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

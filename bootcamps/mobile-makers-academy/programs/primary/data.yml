@@ -12,7 +12,6 @@ guarantee: 'No'
 placement: 90% of graduates eventually land a job - time to hire unknown
 program_slug: primary
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - ios
@@ -20,3 +19,9 @@ topics:
 - storyboard
 tuition: 9000
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- Working on a team for three weeks is actual, real-life work experience that we’re getting in the classroom, and that’s something that universities totally miss. I felt lost when I graduated from college, but this program helps a lot.
+- The way Mobile Makers integrates you, they not only teach you, they teach you how to figure out problems using external resources like CocoaPods, Stack Overflow and the Apple Documentation.
+- The great lectures combined with constant practice of the concepts building on each other was very effective. However don’t come unprepared with 0 coding experience. If you’re struggling to get the basics, you won’t get as much out of the course.

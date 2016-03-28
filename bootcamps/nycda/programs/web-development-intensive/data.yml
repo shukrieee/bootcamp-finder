@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: web-development-intensive
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - javascript
@@ -22,3 +21,7 @@ topics:
 - css
 tuition: 10000
 tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- The instructors are very experienced. The html and css was taught by someone who works for squarespace.com, he was amazing.

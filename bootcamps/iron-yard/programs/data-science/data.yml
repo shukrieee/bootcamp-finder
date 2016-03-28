@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: data-science
 promises_job: null
-reports_outcome: 'No'
 scholarships: For women and veterans
 topics:
 - python
@@ -22,3 +21,5 @@ topics:
 - data-science
 tuition: null
 tuition_units: null
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

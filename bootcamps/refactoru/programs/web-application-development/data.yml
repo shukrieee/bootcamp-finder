@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: web-application-development
 promises_job: false
-reports_outcome: 'No'
 scholarships: For veterans
 topics:
 - html
@@ -24,3 +23,9 @@ topics:
 - git
 tuition: 13500
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- For my first job, I got hired to build an enterprise-ready version of an application that I did as part of my coursework at RefactorU.
+- RefactorU provided an amazing learning environment where I was inspired by both the knowledge and passion of the instructors, as well as the drive and intelligence of my fellow students.
+- RefactorU was an amazing experience and I learned everything I needed to a successful web developer.

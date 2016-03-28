@@ -13,7 +13,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: ios-mobile
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - cocoa
@@ -22,3 +21,5 @@ topics:
 - xcode
 tuition: 6500
 tuition_units: EUR
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

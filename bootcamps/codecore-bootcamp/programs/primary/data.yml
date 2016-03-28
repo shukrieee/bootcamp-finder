@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: primary
 promises_job: false
-reports_outcome: 'No'
 scholarships: For women
 topics:
 - javascript
@@ -22,3 +21,8 @@ topics:
 - css
 tuition: 8600
 tuition_units: CAD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- From my experience CodeCore will open you up to the world of coding and the possibilities that brings.
+- I think it is possible to learn all of these things yourself, but when you are put into a bootcamp atmosphere and are allowed to access proven professionals for guidance and tutoring, it excels that learning immensely.

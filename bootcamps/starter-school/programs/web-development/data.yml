@@ -11,7 +11,6 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: web-development
 promises_job: false
-reports_outcome: 'No'
 scholarships: 'No'
 topics:
 - ruby-on-rails
@@ -23,3 +22,7 @@ topics:
 - css
 tuition: 8000
 tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- The point of Starter School is to give you a taste of the full spectrum of building a software product. Other bootcamps and software development schools do a great job of making you into a developer, but you don’t always see the bigger picture.
