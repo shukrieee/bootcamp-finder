@@ -3,7 +3,7 @@ cities:
 - boston
 - charlotte
 - seattle
-- silicon-valley
+- san-francisco
 commitment: full-time
 cost_description: $7,995
 display_name: Data Analytics Bootcamp
@@ -16,13 +16,7 @@ program_slug: data-analytics-bootcamp
 promises_job: false
 scholarships: Partial scholarships available
 topics:
-- data analytics
-- r
-- sql
-- statistics
-- tableau
-- data visualization
-- excel
+- data-science
 tuition: 7995
 tuition_units: USD
 reports_graduation_and_placement_rates: "No"
