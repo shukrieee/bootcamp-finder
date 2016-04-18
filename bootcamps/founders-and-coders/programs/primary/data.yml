@@ -1,0 +1,35 @@
+admissions: Application
+cities:
+- london
+commitment: full-time
+cost_description: "free"
+display_name: Primary
+duration: 16
+duration_units: weeks
+financing: 'No'
+guarantee: 'Yes'
+placement: '31/32 of our recent graduates are working as software developers'
+program_slug: primary
+promises_job: true
+scholarships: 'Yes'
+topics:
+- Testing
+- JavaScript
+- Node.js
+- Hapi.js
+- React
+- Redux
+- Redis
+- PostgreSQL
+- AWS
+- HTML
+- CSS
+- Git
+tuition: 0
+tuition_units: "GBP \xA3"
+reports_graduation_and_placement_rates: "Yes"
+outcomes_verified: "Yes"
+reviews:
+- Founders & Coders has been life changing
+- Great space, amazing people - it has been extremely rewarding!
+- What I learnt in the space of 16 weeks still leaves me astounded
