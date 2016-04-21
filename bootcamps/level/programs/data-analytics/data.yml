@@ -7,7 +7,7 @@ cities:
 commitment: full-time
 cost_description: $7,995
 display_name: Data Analytics Bootcamp
-duration: 9
+duration: 8
 duration_units: weeks
 financing: 'Yes'
 guarantee: 'No'
@@ -16,7 +16,13 @@ program_slug: data-analytics-bootcamp
 promises_job: false
 scholarships: Partial scholarships available
 topics:
-- data-science
+- data-analytics
+- statistics
+- sql
+- r
+- tableau
+- machine-learning
+- big-data
 tuition: 7995
 tuition_units: USD
 reports_graduation_and_placement_rates: "No"
