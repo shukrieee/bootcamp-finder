@@ -16,12 +16,12 @@ program_slug: data-analytics-bootcamp
 promises_job: false
 scholarships: Partial scholarships available
 topics:
-- data-analytics
+- r
+- regression
 - statistics
 - sql
-- r
-- tableau
 - machine-learning
+- data-science
 - big-data
 tuition: 7995
 tuition_units: USD
