@@ -3,22 +3,23 @@ cities:
 - vancouver
 - toronto
 commitment: full-time
-cost_description: $8,000 CAD
-display_name: iOS Bootcamp
+cost_description: $9,000 CAD
+display_name: iOS Development Bootcamp
 duration: 8
 duration_units: weeks
 financing: 'Yes'
 guarantee: 'No'
-placement: Undisclosed
+placement: Over 95% of graduates are hired within 90 days!
 program_slug: ios-bootcamp
 promises_job: false
 scholarships: 'No'
 topics:
-- cocoa
-- objective-c
-- xcode
-- ios
-tuition: 8000
+- iOS
+- Swift
+- Cocoa
+- Objective-C
+- Xcode
+tuition: 9000
 tuition_units: CAD
-reports_graduation_and_placement_rates: "No"
-outcomes_verified: "No"
+reports_graduation_and_placement_rates: "Yes"
+outcomes_verified: "Yes"
