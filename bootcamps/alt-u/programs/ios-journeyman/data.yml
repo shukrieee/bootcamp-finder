@@ -15,12 +15,12 @@ program_slug: ios-journeyman
 promises_job: null
 scholarships: null
 topics:
-- iOS
-- UX 
-- Swift
-- Cocoa
-- XCode
-- Testing
+- ios
+- ux
+- swift
+- cocoa
+- xcode
+- testing
 tuition: null
 tuition_units: null
 reports_graduation_and_placement_rates: "No"
