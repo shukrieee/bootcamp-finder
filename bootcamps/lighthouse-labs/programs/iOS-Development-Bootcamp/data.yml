@@ -14,11 +14,11 @@ program_slug: ios-bootcamp
 promises_job: false
 scholarships: 'No'
 topics:
-- iOS
-- Swift
-- Cocoa
-- Objective-C
-- Xcode
+- ios
+- swift
+- cocoa
+- objective-c
+- xcode
 tuition: 9000
 tuition_units: CAD
 reports_graduation_and_placement_rates: "Yes"

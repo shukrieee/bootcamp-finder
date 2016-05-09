@@ -13,18 +13,14 @@ program_slug: primary
 promises_job: true
 scholarships: 'Yes'
 topics:
-- Testing
-- JavaScript
-- Node.js
-- Hapi.js
-- React
-- Redux
-- Redis
-- PostgreSQL
-- AWS
-- HTML
-- CSS
-- Git
+- testing
+- javascript
+- node-js
+- react
+- postgresql
+- html
+- css
+- git
 tuition: 0
 tuition_units: "GBP \xA3"
 reports_graduation_and_placement_rates: "Yes"

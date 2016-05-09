@@ -14,12 +14,12 @@ program_slug: web-development-bootcamp
 promises_job: false
 scholarships: 'No'
 topics:
-- JavaScript
-- Ruby on Rails
-- CSS
-- HTML
-- Node.JS
-- SQL
+- javascript
+- ruby-on-rails
+- css
+- html
+- node-js
+- sql
 tuition: 9000
 tuition_units: CAD
 reports_graduation_and_placement_rates: "Yes"

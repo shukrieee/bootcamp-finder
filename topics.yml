@@ -60,6 +60,8 @@
   slug: html
 - display_name: iOS
   slug: ios
+- display_name: Swift
+  slug: swift
 - display_name: Jasmine
   slug: jasmine
 - display_name: Java
