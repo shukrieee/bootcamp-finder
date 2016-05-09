@@ -1,0 +1,37 @@
+admissions: Registration
+cities:
+- dallas
+- orlando
+- saint louis
+commitment: null
+cost_description: "$5,000"
+display_name: 'iOS Journeyman'
+duration: 5
+duration_units: days
+financing: 'No'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: ios-journeyman
+promises_job: null
+scholarships: null
+topics:
+- iOS
+- Swift
+- Auto Layout
+- Cocoa
+- Xcode
+- Agile Development
+- Debugging
+- Unit Tests
+- Async Operations
+- User Interface Development
+- Data persistence
+- Core Data
+- NSURLSession
+- Collection Views
+- 3D Touch
+- Camera and Photos
+tuition: null
+tuition_units: null
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
