@@ -2,7 +2,7 @@ admissions: Registration
 cities:
 - dallas
 - orlando
-- saint louis
+- saint-louis
 commitment: null
 cost_description: "$5,000"
 display_name: 'iOS Master'
@@ -16,26 +16,11 @@ promises_job: null
 scholarships: null
 topics:
 - iOS
+- UX 
 - Swift
-- Advanced Auto Layout
-- Agile Development
-- Debugging
-- Unit Tests
-- Async Operations
-- Data persistence
-- Core Data
-- NSURLSession
-- Collection Views
-- 3D Touch
-- Camera and Photos
-- Functional programming with Swift
-- Child view controllers
-- MapKit
-- Protocol-Oriented programming
-- AVFoundation
-- tvOS
-- watchOS
-- CoreText
+- Cocoa
+- XCode
+- Testing
 tuition: null
 tuition_units: null
 reports_graduation_and_placement_rates: "No"

@@ -104,6 +104,8 @@
   slug: raleigh-durham
 - display_name: Remote
   slug: remote
+- display_name: Saint Louis
+  slug: saint-louis
 - display_name: Salt Lake City
   slug: salt-lake-city
 - display_name: San Antonio
