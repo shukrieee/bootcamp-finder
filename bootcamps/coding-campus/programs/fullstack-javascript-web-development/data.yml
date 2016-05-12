@@ -1,4 +1,4 @@
-admissions: Application
+admissions: Application, Aptitude Test, Admissions Challenge
 cities:
 - provo
 - salt lake city
@@ -10,21 +10,19 @@ duration: 12
 duration_units: weeks
 financing: 'Yes'
 guarantee: 'No'
-placement: Undisclosed
+placement: 99%
 program_slug: fullstack-javascript-web-development
 promises_job: false
-scholarships: For women, minorities, veterans and financial need
+scholarships: $1400+ Women, Minority, Military and Financial Hardship Scholarships available. Applications are administered upon enrollment.
 topics:
-- python
-- django
 - javascript
-- node-js
-- angular-js
-- mongoDB
-- express
-- jQuery
 - html
 - css
+- mongoDB
+- express
+- angular-js
+- node-js
+- jQuery
 tuition: 14300
 tuition_units: USD
 reports_graduation_and_placement_rates: "No"
