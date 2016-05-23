@@ -3,7 +3,7 @@ cities:
 - austin
 - columbia
 commitment: null
-cost_description: "$12,000 or \xA38,000"
+cost_description: "$13,900"
 display_name: User Interface Design
 duration: 12
 duration_units: weeks
@@ -12,14 +12,14 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: user-interface-design
 promises_job: null
-scholarships: For women and veterans
+scholarships: Diversity scholarship available
 topics:
 - html
 - css
 - wireframing
 - typography
 - ui
-tuition: null
+tuition: 13900
 tuition_units: null
 reports_graduation_and_placement_rates: "No"
 outcomes_verified: "No"
