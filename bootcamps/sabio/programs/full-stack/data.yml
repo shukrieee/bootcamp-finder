@@ -1,7 +1,6 @@
 admissions: Application, Interview, Coding assessment after pre-work 
 cities:
-- los angeles
-- newport beach
+- los-angeles
 commitment: full-time
 cost_description: $14,500
 display_name: Full Stack
