@@ -15,7 +15,7 @@ cities:
 - salt-lake-city
 - washington-dc
 commitment: full-time
-cost_description: "$12,000 or \xA38,000"
+cost_description: "$13,900"
 display_name: Rails Engineering
 duration: 12
 duration_units: weeks
@@ -24,14 +24,14 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: rails-engineering
 promises_job: true
-scholarships: For women and veterans
+scholarships: Diversity scholarship available
 topics:
 - javascript
 - html
 - css
 - ruby-on-rails
 - sql
-tuition: 12000
+tuition: 13900
 tuition_units: USD
 reports_graduation_and_placement_rates: "No"
 outcomes_verified: "No"

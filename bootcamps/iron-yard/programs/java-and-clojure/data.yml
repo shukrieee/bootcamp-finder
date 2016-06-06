@@ -15,7 +15,7 @@ cities:
 - salt-lake-city
 - washington-dc
 commitment: null
-cost_description: "$12,000 or \xA38,000"
+cost_description: "$13,900"
 display_name: Java and Clojure
 duration: 12
 duration_units: weeks
@@ -24,7 +24,7 @@ guarantee: 'No'
 placement: Undisclosed
 program_slug: java-and-clojure
 promises_job: null
-scholarships: For women and veterans
+scholarships: Diversity scholarship available
 topics:
 - java
 - clojure
