@@ -1,6 +1,8 @@
-admissions: Application
+admissions: Application, Aptitude Test, Admissions Challenge
 cities:
 - provo
+- salt lake city
+- online
 commitment: full-time
 cost_description: $14,300
 display_name: Fullstack JavaScript Web Development
@@ -8,21 +10,26 @@ duration: 12
 duration_units: weeks
 financing: 'Yes'
 guarantee: 'No'
-placement: Undisclosed
+placement: 99%
 program_slug: fullstack-javascript-web-development
-promises_job: false
-scholarships: For women, minorities, and veterans
+promises_job: true
+scholarships: $1400+ Women, Minority, Military and Financial Hardship Scholarships available. Applications are administered upon enrollment.
 topics:
-- python
-- django
 - javascript
-- node-js
-- angular-js
 - html
 - css
+- mongodb
+- express-js
+- angular-js
+- node-js
+- jquery
+- ios
+- testing
+- mvc
+- git
 tuition: 14300
 tuition_units: USD
-reports_graduation_and_placement_rates: "No"
-outcomes_verified: "No"
+reports_graduation_and_placement_rates: "Yes"
+outcomes_verified: "Yes"
 reviews:
 - So many doors have opened for me since going through the program. I now have a job that I absolutely love...I get to code and seek out cool companies all the time!

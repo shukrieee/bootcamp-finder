@@ -1,40 +1,10 @@
-Coding Campus offers students the opportunity for a lot of personalized
-attention. The last few classes have had under 10 students (though they are
-growing) with two instructors each! One of the instructors even got his
-education chops as a CS professor in Idaho. Additionally, each student has a
-mentor. The mentors are local volunteers who help build the students' network
-in Provo's dev community and provides them with career advice as well.
+Through their elite curriculum, small class sizes and expert faculty Provo-based V School has designed their Full-Stack Web Development program to transform students with little or no coding background, into a well paid computer engineers.
 
-The Coding Campus program focuses on Python due to the language's popularity
-in Utah, the number of companies that use the language, and the fact that many
-prominent computer science programs at universities use it as a starter
-language for students.
+Based on industry and job trends, they've chosen JavaScript as the weapon of choice. 5 days a week, 8-10 hours a day for 12 weeks, students fully immerse in both front and back end web development, tackling the ins and outs of these languages: HTML, CSS, JavaScript, MongoDB, Express, AngularJS, Node.js and jQuery.
 
-Before you set foot on campus, you will have about a month of pre-work to
-complete for the course. The content is hosted mostly through GitHub, but
-Coding Campus hosts a number of in-person study groups with a mentor to help
-you get through the content (don't worry, you can Google Hangout in as well).
+V School students graduate the program trained in understanding, manipulating, creating and querying databases + APIs. On the client side, students leave the program versed in responsive web design and dynamic interfaces (Agile / SCRUM)
+Few if any coding academies can boast a 100% job fulfillment rate. V School proudly can.
 
-On a day to day basis, students come in for breakfast at 8:30 am and
-instruction starts at around 9:00 am. Each week this instructional period will
-introduce the theme and product for the week. The amount of instruction time
-varies week to week and project to project. The projects will also vary in
-terms of the number of people working together from individual projects to
-pair and team projects. At noon, there is a presentation from a local company
-or a tech talk, and once a week the entire school goes out to lunch together.
+The bar for admission is set high with an aptitude test, admissions challenge and pre course assignment to ensure only the most dedicated 12% are accepted. 
 
-You get the strong community feeling from Coding Campus whether it is the
-bootcamp community, the Provo Community or the developer community. The school
-has a weekly lunch together, they worked with a local elementary school girl
-to build an app to educate her peers about food allergies, and continually
-help build pieces for Pontoon (an open source project for Mozilla. The perks
-like free gym membership don't hurt the bootcamp community either.
-
-You can apply online on their website. The online application will ask you
-about your current programming experience, background, and why you want to
-learn. After the online application, you will be asked to have a phone or in-
-person interview. They are looking for students who have previous programming
-experience or have been exploring programming for awhile. On the other end of
-the spectrum, they are looking for students with less programming experience,
-but a lot of drive.
-
+The V School core team has been helping students find technical jobs for more than a decade. You’ll learn how to prepare a technical resume, interview with confidence, negotiate job offers and create a personal presence / brand on GitHub + Linked-in. 
