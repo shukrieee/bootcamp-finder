@@ -1,8 +1,8 @@
 admissions: Application, Aptitude Test, Admissions Challenge
 cities:
 - provo
-- salt lake city
-- online
+- salt-lake-city
+- remote
 commitment: full-time
 cost_description: $14,300
 display_name: Fullstack JavaScript Web Development
