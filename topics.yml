@@ -1,85 +1,49 @@
 - display_name: Algorithms
   slug: algorithms
-- display_name: Ajax
-  slug: ajax
 - display_name: Android
   slug: android
 - display_name: Angular-JS
   slug: angular-js
 - display_name: APIs
   slug: apis
-- display_name: ASP.NET
-  slug: asp-net
-- display_name: Backbone.js
-  slug: backbone-js
-- display_name: Bash
-  slug: bash
 - display_name: Big Data
   slug: big-data
 - display_name: C#
   slug: c-sharp
 - display_name: Clojure
   slug: clojure
-- display_name: Clustering
-  slug: clustering
 - display_name: Cocoa
   slug: cocoa
 - display_name: CSS
   slug: css
 - display_name: D3
   slug: d3
-- display_name: D3.js
-  slug: d3-js
 - display_name: Data Science
   slug: data-science
-- display_name: DevTools
-  slug: devtools
 - display_name: Django
   slug: django
-- display_name: Docker
-  slug: docker
 - display_name: Ember.js
   slug: ember-js
 - display_name: Express
   slug: express
-- display_name: Express
-  slug: express-js
-- display_name: Firebase
-  slug: firebase
-- display_name: Flask
-  slug: flask
-- display_name: Google Play
-  slug: google-play
 - display_name: Git
   slug: git
-- display_name: Grunt
-  slug: grunt
-- display_name: Hadoop
-  slug: hadoop
 - display_name: HTML
   slug: html
 - display_name: iOS
   slug: ios
 - display_name: Swift
   slug: swift
-- display_name: Jasmine
-  slug: jasmine
 - display_name: Java
   slug: java
 - display_name: JavaScript
   slug: javascript
-- display_name: Jekyll
-  slug: jekyll
 - display_name: jQuery
   slug: jquery
-- display_name: JSON
-  slug: json
 - display_name: LAMP
   slug: lamp
 - display_name: Laravel
   slug: laravel
-- display_name: LESS
-  slug: less
 - display_name: Machine Learning
   slug: machine-learning
 - display_name: MapReduce
@@ -88,8 +52,6 @@
   slug: matplotlib
 - display_name: MEAN
   slug: mean
-- display_name: Mockups
-  slug: mockup
 - display_name: MongoDB
   slug: mongodb
 - display_name: MVC
@@ -100,20 +62,10 @@
   slug: net
 - display_name: Node
   slug: node-js
-- display_name: NoSQL
-  slug: nosql
 - display_name: NumPy
   slug: numpy
-- display_name: OAuth
-  slug: oauth
 - display_name: Objective-C
   slug: objective-c
-- display_name: OOP
-  slug: oop
-- display_name: ORMS
-  slug: orms
-- display_name: PhotoShop
-  slug: photoshop
 - display_name: PHP
   slug: php
 - display_name: Prototyping
@@ -122,8 +74,6 @@
   slug: postgresql
 - display_name: Python
   slug: python
-- display_name: R
-  slug: r
 - display_name: React
   slug: react
 - display_name: Regresssion
@@ -134,28 +84,16 @@
   slug: responsive-design
 - display_name: REST
   slug: rest
-- display_name: RSpec
-  slug: rspec
 - display_name: Ruby on Rails
   slug: ruby-on-rails
-- display_name: SASS
-  slug: sass
-- display_name: Scala
-  slug: scala
 - display_name: SDKs
   slug: sdks
 - display_name: Sinatra
   slug: sinatra
-- display_name: Socket.io
-  slug: socket-io
-- display_name: Spark
-  slug: spark
 - display_name: SQL
   slug: sql
 - display_name: Statistics
   slug: statistics
-- display_name: Storyboard
-  slug: storyboard
 - display_name: TDD
   slug: tdd
 - display_name: Testing
@@ -172,8 +110,6 @@
   slug: ux
 - display_name: Visual Studio
   slug: visual-studio
-- display_name: Web Development
-  slug: web-development
 - display_name: Wireframing
   slug: wireframing
 - display_name: WordPress

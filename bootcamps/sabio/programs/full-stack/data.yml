@@ -15,27 +15,20 @@ promises_job: false
 scholarships: yes
 topics:
 - algorithms
-- ajax
 - angular-js
 - apis
-- asp-net
 - c-sharp
 - css
-- devtools
 - html
 - javascript
 - jquery
-- json
 - mvc
 - net
-- oop
-- orms
 - responsive-design
 - rest
 - sdks
 - sql
 - visual-studio
-- web-development
 tuition: 14500
 tuition_units: USD $
 reports_graduation_and_placement_rates: "Yes"
