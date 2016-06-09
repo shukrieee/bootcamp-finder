@@ -74,6 +74,8 @@
   slug: postgresql
 - display_name: Python
   slug: python
+- display_name: R
+  slug: r
 - display_name: React
   slug: react
 - display_name: Regresssion
