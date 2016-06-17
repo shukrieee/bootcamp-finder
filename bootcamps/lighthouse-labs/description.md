@@ -4,4 +4,4 @@ Based out of Canada’s most dynamic tech hubs, you’ll be immersed into full-s
 
 Our industry driven curriculum and rigorous education standards have created the ultimate result for our graduates: over 95% employment rate.
 
-Read the Lighthouse Labs [Student Outcomes Report](https://www.lighthouselabs.ca/lighthouse_labs_student_outcomes_report.pdf) to learn more about their graduate employment rates, or visit [their website](www.lighthouselabs.ca) for more info.
+Read the Lighthouse Labs [Student Outcomes Report](https://www.lighthouselabs.ca/lighthouse_labs_student_outcomes_report.pdf) to learn more about their graduate employment rates.
