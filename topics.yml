@@ -2,6 +2,8 @@
   slug: algorithms
 - display_name: Android
   slug: android
+- display_name: Ionic
+  slug: ionic
 - display_name: Angular-JS
   slug: angular-js
 - display_name: APIs
