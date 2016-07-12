@@ -2,7 +2,7 @@ admissions: Open to anyone
 cities:
 - remote
 commitment: full-time
-cost_description: $1,400 per month
+cost_description: $1,500 per month
 display_name: Web Development Career Path
 duration: 6
 duration_units: months
@@ -24,4 +24,4 @@ topics:
 tuition: 1400
 tuition_units: USD
 reports_graduation_and_placement_rates: "Yes"
-outcomes_verified: "No"
+outcomes_verified: "Yes"
