@@ -1,0 +1,32 @@
+admissions: Application, interview, prep work
+cities:
+- London
+commitment: null
+cost_description: "£8000"
+display_name: 'Web Development'
+duration: 12
+duration_units: weeks
+financing: 'No'
+guarantee: "Yes - You pay 50% of your fees before the course and 50% once you’ve landed a job. If you fail to get a developer role within 6 months, you won't pay the outstanding 50%."
+placement: Undisclosed
+program_slug: web-development
+promises_job: true
+scholarships: 50% scholarships available
+topics:
+- php
+- rest
+- sql
+- express
+- git
+- html
+- javascript
+- lamp
+- mysql
+- mvc
+- wordpress
+- symfony
+- apis
+tuition: 8000
+tuition_units: GBP
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
