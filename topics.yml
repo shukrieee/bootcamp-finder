@@ -120,3 +120,5 @@
   slug: wordpress
 - display_name: XCode
   slug: xcode
+- display_name: Symfony
+  slug: symfony
