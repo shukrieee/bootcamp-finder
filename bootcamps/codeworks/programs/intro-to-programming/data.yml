@@ -1,0 +1,25 @@
+admissions: Open to anyone
+cities:
+- remote
+commitment: part-time
+cost_description: Free
+display_name: Intro to programming
+duration: 4
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: intro-to-programming
+promises_job: false
+scholarships:
+topics:
+- javascript
+- html
+- css
+- jquery
+tuition: 0
+tuition_units: EUR €
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "Yes"
+reviews:
+- I thought learning to code was hard, but Codeworks changed my mind.
