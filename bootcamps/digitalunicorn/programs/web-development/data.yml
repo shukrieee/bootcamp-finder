@@ -1,6 +1,6 @@
 admissions: Application, interview, prep work
 cities:
-- London
+- london
 commitment: null
 cost_description: "£8000"
 display_name: 'Web Development'
