@@ -7,3 +7,4 @@ will customize each phase of the course, so you can learn other JavaScript
 frameworks and build advanced capstone projects from scratch. You'll also gain
 valuable real-world experience working in a team setting as you collaborate
 with other students over GitHub and Slack.
+
