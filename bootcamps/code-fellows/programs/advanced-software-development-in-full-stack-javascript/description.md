@@ -1,18 +1,10 @@
-The Ruby program is a 12 week, full time, intensive program, designed give you
-the equivalent skillset and experience of an entry-level Ruby developer.
-Because we focus heavily on collaboration, you are required to be on campus
-Monday Thru Friday, 9AM-6PM throughout the duration of the program. There is
-certainly a fair amount of work to be done beyond those hours (many students
-choose to stay late and come in on weekends), but that’s the minimum.
+Build full-stack web applications with server-side Node.js and modern, front-end libraries and frameworks, including AngularJS.
 
-Prior to arriving to campus, you’ll also complete 4 weeks (80-120 hours in
-total) of prework assignments at home. This, plus the following 12 weeks of
-on-campus learning, amounts to a 16 week commitment.
+In this intensive course, you will study professional software development techniques and practices to advance your skills in JavaScript. This course includes professional development curriculum that will get you ready for your job search, plus job search assistance after graduation.
 
-The Flatiron School prepares students for its web development bootcamp with
-150 hours of pre-work, which can be completed remotely before beginning the
-intensive. The pre-work prepares even those without any web development
-experience to spend their time on campus studying more advanced topics such as
-Ruby. The Flatiron School’s web development curriculum also includes plenty of
-intensive career counseling and interview training.
+At the end of this course, you will be able to:
 
+- Build back-end (server-side) web applications using Node.js and standard developer and server tools to build consistent and maintainable REST APIs.
+- Build front-end (client-side) web applications using AngularJS and Webpack to create a user interface.
+- Understand Computer Science fundamentals to differentiate between algorithmic solutions when building applications.
+- Create a successful online brand, network, create an impressive resume, succeed in personal and technical interviews, and conduct a successful job search.

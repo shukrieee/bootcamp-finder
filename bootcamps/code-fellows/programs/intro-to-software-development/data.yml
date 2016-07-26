@@ -1,4 +1,4 @@
-admissions: Open to Anyone
+admissions: Open
 cities:
 - Portland
 - Seattle
@@ -17,7 +17,6 @@ scholarships: none
 topics:
 - html
 - css
-- javascript
 - git
 - atom
 tuition: 99

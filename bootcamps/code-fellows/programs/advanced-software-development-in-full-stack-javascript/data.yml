@@ -1,30 +1,37 @@
-admissions: Application, interview, coding challenge, 150 hours of prep work
+admissions: Application, phone interview, code challenge
 cities:
-- new-york
-commitment: full-time
-cost_description: $15,000
-display_name: Full Stack Web Development
-duration: 12
-duration_units: weeks
+- Portland
+- Seattle
+commitment: full-time or part-time
+cost_description: $12000
+display_name: Code 401: Advanced Software Development in Full-Stack JavaScript
+duration: 10 or 20
+duration_units: Weeks
 financing: 'Yes'
 guarantee: 'No'
-placement: 95% of graduates land jobs within 120 days of graduation
-program_slug: web-development
-promises_job: false
-scholarships: For women and minorities
+placement: 90%+ placement rate
+program_slug: code-401-full-stack-javascript
+promises_job:
+scholarships: For women, U.S. veterans, and minorities
 topics:
-- ruby-on-rails
-- algorithms
+- javascript
 - html
 - css
-- javascript
-- sql
+- sass
+- unix
+- mongodb
+- express
+- angular-js
+- node-js
 - git
-tuition: 15000
+- nosql
+- rest
+- algorithms
+- jasmine
+- ajax
+- json
+tuition: 12000
 tuition_units: USD $
 reports_graduation_and_placement_rates: "Yes"
-outcomes_verified: "Yes"
+outcomes_verified:
 reviews:
-- Avi knows his stuff and as such, for non-experienced programmers, you should embrace the course to listen to him explain the theory and concept in which why and how Ruby and Rails interact within one another.
-- In Rails, I feel like I now know what its metaprogramming is creating and why it’s beneficial. I feel like I can actually use this stuff.
-- Avi's teaching style is that of a seasoned, enthusiastic practitioner, and his excitement for programming and teaching shines through in your interactions with him.

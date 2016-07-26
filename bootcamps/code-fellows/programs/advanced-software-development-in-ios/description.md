@@ -1,18 +1,10 @@
-The Ruby program is a 12 week, full time, intensive program, designed give you
-the equivalent skillset and experience of an entry-level Ruby developer.
-Because we focus heavily on collaboration, you are required to be on campus
-Monday Thru Friday, 9AM-6PM throughout the duration of the program. There is
-certainly a fair amount of work to be done beyond those hours (many students
-choose to stay late and come in on weekends), but that’s the minimum.
+Take your app ideas from concept to completion and learn the languages, tools, frameworks, and best practices used by mobile developers around the world.
 
-Prior to arriving to campus, you’ll also complete 4 weeks (80-120 hours in
-total) of prework assignments at home. This, plus the following 12 weeks of
-on-campus learning, amounts to a 16 week commitment.
+Throughout this intensive course, you will study professional techniques and practices to advance your skills in iOS development. This course includes professional development curriculum that will get you ready for your job search, plus job search assistance after graduation.
 
-The Flatiron School prepares students for its web development bootcamp with
-150 hours of pre-work, which can be completed remotely before beginning the
-intensive. The pre-work prepares even those without any web development
-experience to spend their time on campus studying more advanced topics such as
-Ruby. The Flatiron School’s web development curriculum also includes plenty of
-intensive career counseling and interview training.
+At the end of this course, you will be able to:
 
+- Create mobile apps in Objective-C and Swift, Apple's new programming language.
+- Use industry tools and frameworks such as Cocoa, Xcode, UIKit, Git, and more.
+- Know how to properly use UIKit, asynchronous code, CoreImage, NSURLSession and JSON, MapKit and CoreLocation, AutoLayout, Source Control, Core Data, Animation, and the app submission process.
+- Create a successful online brand, network, create an impressive resume, succeed in personal and technical interviews, and conduct a successful job search.
