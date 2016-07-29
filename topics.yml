@@ -80,6 +80,8 @@
   slug: prototyping
 - display_name: PostgreSQL
   slug: postgresql
+- display_name: Pyramid
+  slug: pyramid
 - display_name: Python
   slug: python
 - display_name: R
