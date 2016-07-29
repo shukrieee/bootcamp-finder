@@ -1,11 +1,11 @@
 admissions: Open
 cities:
-- Portland
-- Seattle
-- New York
+- portland
+- seattle
+- new-york
 commitment: 12 hours
 cost_description: $99
-display_name: Code 101: Intro to Software Development &amp; Careers in Tech
+display_name: Code 101: Intro to Software Development & Careers in Tech
 duration: 1
 duration_units: day
 financing: 'No'
