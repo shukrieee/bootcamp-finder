@@ -1,7 +1,7 @@
 admissions: Application, phone interview, code challenge
 cities:
-- Portland
-- Seattle
+- portland
+- seattle
 commitment: full-time or part-time
 cost_description: $4500
 display_name: Code 301: Intermediate Software Development
