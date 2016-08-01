@@ -2,7 +2,7 @@ admissions: "Application, phone interview, code challenge"
 cities:
 - portland
 - seattle
-commitment: "full-time or part-time"
+commitment: full-time
 cost_description: $12000
 display_name: "Advanced Software Development in Python"
 duration: 10
