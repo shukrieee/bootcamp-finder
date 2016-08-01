@@ -1,18 +1,18 @@
-admissions: Application, phone interview, code challenge
+admissions: "Application, phone interview, code challenge"
 cities:
 - portland
 - seattle
-commitment: full-time or part-time
+commitment: "full-time or part-time"
 cost_description: $12000
-display_name: Advanced Software Development in Full-Stack JavaScript
-duration: 10 or 20
+display_name: "Advanced Software Development in Full-Stack JavaScript"
+duration: 10
 duration_units: Weeks
 financing: 'Yes'
 guarantee: 'No'
 placement: 90%+ placement rate
 program_slug: code-401-full-stack-javascript
 promises_job:
-scholarships: For women, U.S. veterans, and minorities
+scholarships: "For women, U.S. veterans, and minorities"
 topics:
 - javascript
 - html

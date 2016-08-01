@@ -1,11 +1,11 @@
-admissions: Application, phone interview, code challenge
+admissions: "Application, phone interview, code challenge"
 cities:
 - portland
 - seattle
-commitment: full-time or part-time
+commitment: "full-time or part-time"
 cost_description: $4500
-display_name: Intermediate Software Development
-duration: 4 or 8
+display_name: "Intermediate Software Development"
+duration: 4
 duration_units: weeks
 financing: 'Yes'
 guarantee: 'No'
@@ -20,7 +20,7 @@ topics:
 - apis
 - git
 - mvc
-- responsive design
+- responsive-design
 - algorithms
 - ajax
 - sql
