@@ -5,7 +5,7 @@ cities:
 - new-york
 commitment: 12 hours
 cost_description: $99
-display_name: Intro to Software Development & Careers in Tech
+display_name: "Intro to Software Development & Careers in Tech"
 duration: 1
 duration_units: day
 financing: 'No'
