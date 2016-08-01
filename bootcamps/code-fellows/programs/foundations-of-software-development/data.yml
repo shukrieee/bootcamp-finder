@@ -2,7 +2,7 @@ admissions: "Application, phone interview, code challenge"
 cities:
 - portland
 - seattle
-commitment: "full-time or part-time"
+commitment: full-time
 cost_description: $3500
 display_name: "Foundations of Software Development"
 duration: 4
