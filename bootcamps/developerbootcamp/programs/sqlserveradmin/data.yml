@@ -1,0 +1,28 @@
+admissions: Application
+cities:
+- chelmsford
+- chicago
+- dallas
+- houston
+- irvine
+- san jose
+- remote
+commitment: full-time
+cost_description: varies by track
+display_name: Developer Bootcamp
+duration: 3-4
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement:
+program_slug: SQL Server Administrator Bootcamp
+promises_job:
+scholarships:
+topics:
+- sql server administration
+- sql programming
+- relational database fundamentals
+tuition:
+tuition_units:
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

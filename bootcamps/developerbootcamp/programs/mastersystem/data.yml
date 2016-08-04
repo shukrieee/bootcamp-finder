@@ -1,0 +1,31 @@
+admissions: Application
+cities:
+- chelmsford
+- chicago
+- dallas
+- houston
+- irvine
+- san jose
+- remote
+commitment: full-time
+cost_description: varies by track
+display_name: Developer Bootcamp
+duration: 7-8
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement:
+program_slug: Master System Administrator Bootcamp
+promises_job:
+scholarships:
+topics:
+- windows server administration
+- active directory
+- linux administration
+- linux fundamentals
+- sql programming
+- sql server administration
+tuition:
+tuition_units:
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
