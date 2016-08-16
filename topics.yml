@@ -24,6 +24,7 @@
   slug: d3
 - display_name: Data Science
   slug: data-science
+  description: Learn Data Science at any of these bootcamps. Most data science bootcamps teach Python and are best for people with some background in programming.
 - display_name: Django
   slug: django
 - display_name: Ember.js
