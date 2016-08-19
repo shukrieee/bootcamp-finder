@@ -1,29 +1,24 @@
 admissions: Application
 cities:
-- chelmsford
 - chicago
 - dallas
 - houston
-- irvine
-- san jose
+- san-jose
 - remote
 commitment: full-time
 cost_description: $4090
-display_name: Developer Bootcamp
+display_name: Java Developer Bootcamp
 duration: 3
 duration_units: weeks
 financing: 'No'
 guarantee: 'No'
-placement:
-program_slug: Java Programmer Bootcamp
-promises_job:
-scholarships:
+placement: 'No'
+program_slug: javaprogrammer
+promises_job: 'No'
+scholarships: 'No'
 topics:
 - java
-- web services
-- jee
-- frameworks
-tuition:
-tuition_units:
+tuition: 4090
+tuition_units: null
 reports_graduation_and_placement_rates: "No"
 outcomes_verified: "No"
