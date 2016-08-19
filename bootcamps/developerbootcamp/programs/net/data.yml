@@ -1,0 +1,30 @@
+admissions: Application
+cities:
+- chelmsford
+- chicago
+- dallas
+- houston
+- irvine
+- san jose
+- remote
+commitment: full-time
+cost_description: varies by track
+display_name: Developer Bootcamp
+duration: 6-10
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement:
+program_slug: Microsoft .NET Developer Bootcamp
+promises_job:
+scholarships:
+topics:
+- asp.net
+- asp.net mvc
+- c#
+- vb.net
+- windows forms
+tuition:
+tuition_units:
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

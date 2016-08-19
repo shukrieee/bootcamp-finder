@@ -1,0 +1,29 @@
+admissions: Application
+cities:
+- chelmsford
+- chicago
+- dallas
+- houston
+- irvine
+- san jose
+- remote
+commitment: full-time
+cost_description: $4090
+display_name: Developer Bootcamp
+duration: 3
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement:
+program_slug: SharePoint Deployment Specialist Bootcamp
+promises_job:
+scholarships:
+topics:
+- sharepoint administration
+- sharepoint power user
+- html5
+- jquery
+tuition:
+tuition_units:
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
