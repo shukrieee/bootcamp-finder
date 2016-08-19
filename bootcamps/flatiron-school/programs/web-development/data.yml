@@ -7,10 +7,10 @@ display_name: Full Stack Web Development
 duration: 12
 duration_units: weeks
 financing: 'Yes'
-guarantee: 'No'
+guarantee: 'Yes'
 placement: 95% of graduates land jobs within 120 days of graduation
 program_slug: web-development
-promises_job: false
+promises_job: true
 scholarships: For women and minorities
 topics:
 - ruby-on-rails
