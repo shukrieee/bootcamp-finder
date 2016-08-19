@@ -114,6 +114,8 @@
   slug: san-antonio
 - display_name: San Diego
   slug: san-diego
+- display_name: San Jose
+  slug: san-jose
 - display_name: San Francisco
   slug: san-francisco
 - display_name: Seattle
