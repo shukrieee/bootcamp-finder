@@ -190,6 +190,9 @@
 - display_name: Visual Studio
   slug: visual-studio
   description: "Learn which bootcamps will teach you to use Visual Studio and get started with the Microsoft suite"
+- display_name: Windows Administrator
+  slug: windows-admin
+  description: "Find a program that will help you become an expert on Windows Administrator and Exchange Server."
 - display_name: Wireframing
   slug: wireframing
   description: "Learn about bootcamps that include important product work like wireframing in their syllabus"
