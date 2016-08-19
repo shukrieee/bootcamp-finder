@@ -1,31 +1,24 @@
 admissions: Application
 cities:
-- chelmsford
 - chicago
 - dallas
 - houston
-- irvine
-- san jose
+- san-jose
 - remote
 commitment: full-time
-cost_description: $7790
-display_name: Developer Bootcamp
+cost_description: $7,790
+display_name: Master SQL Server Developer Bootcamp
 duration: 6
 duration_units: weeks
 financing: 'No'
 guarantee: 'No'
-placement:
-program_slug: Master SQL Server Developer Bootcamp
-promises_job:
-scholarships:
+placement: null
+program_slug: mastersql
+promises_job: 'No'
+scholarships: null
 topics:
-- sql programming
-- reporting services
-- integration services
-- analyis services
-- sql server administration
-- asp.net
-tuition:
-tuition_units:
+- sql 
+tuition: 7790
+tuition_units: null
 reports_graduation_and_placement_rates: "No"
 outcomes_verified: "No"
