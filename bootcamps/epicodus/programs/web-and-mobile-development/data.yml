@@ -1,10 +1,12 @@
 admissions: Application
 cities:
 - portland
+- seattle
+- philadelphia
 commitment: full-time
-cost_description: $4,250
+cost_description: $4,800
 display_name: Web and Mobile Development
-duration: 25
+duration: 27
 duration_units: weeks
 financing: 'No'
 guarantee: 'No'
@@ -18,10 +20,14 @@ topics:
 - javascript
 - ruby-on-rails
 - php
+- drupal
+- .NET
+- design
+- java
 - android
-tuition: 4250
+tuition: 4800
 tuition_units: USD $
-reports_graduation_and_placement_rates: "No"
+reports_graduation_and_placement_rates: "Yes"
 outcomes_verified: "No"
 reviews:
 - The most valuable skills we learn there teach us how to teach ourselves.

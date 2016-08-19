@@ -1,4 +1,9 @@
-Epicodus, a mostly Ruby on Rails bootcamp, is serious about applicants
+Epicodus bills itself as "a vocational school for aspiring programmers".
+Its students typically take four five-week classroom courses, do two weeks
+of job and internship prep, and finish their studies with a five-week internship.
+Tuition is $4,800.
+
+Epicodus is serious about applicants
 demonstrating teamwork and having tried programming before attending. They are
 the core components of their application and the reason why is apparent
 throughout their curriculum. Like many other bootcamps, they prefer that you
@@ -16,12 +21,8 @@ discuss any insights from the past day. While this may seem inconsequential,
 many development teams use this tactic to kick off a day of work on a project
 and its great to get in the habit as a beginner.
 
-Perhaps the most interesting part of the Epicodus bootcamp is the Epicodus
-Internship and the reason they stress teamwork. For the last month of the
-program, Epicodus teams up with clients to provide the real experience of
-developing an application for a client. While not always true, Epicodus
-prefers that the projects are open source (great because you will be able to
-show off the code to future employers), for a good cause (great for the soul),
-and local clients (great because you will experience working with a client
-face to face).
-
+Perhaps the most interesting part of the Epicodus bootcamp is the
+internship. For the last 5 weeks of the program, students intern with software
+companies to learn how development works in the real world. Participating
+employers come in all types, sizes, and missions: they've had employers range
+from a one-person startup to a Fortune 100 company to a non-profit.
