@@ -20,5 +20,5 @@ topics:
 - sql
 tuition: null
 tuition_units: null
-reports_graduation_and_placement_rates: "No"
-outcomes_verified: "No"
+reports_graduation_and_placement_rates: 'No'
+outcomes_verified: 'No'
