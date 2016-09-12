@@ -1,0 +1,36 @@
+admissions: Application, phone interview, code challenge
+cities:
+- portland
+- seattle
+commitment: full-time
+cost_description: $12,000
+display_name: Advanced Software Development in Full-Stack JavaScript
+duration: 10
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 90%+ placement rate
+program_slug: code-401-full-stack-javascript
+promises_job: null
+scholarships: For women, U.S. veterans, and minorities
+topics:
+- javascript
+- html
+- css
+- sass
+- unix
+- mongodb
+- express
+- angular-js
+- node-js
+- git
+- nosql
+- rest
+- algorithms
+- jasmine
+- ajax
+- json
+tuition: 12000
+tuition_units: USD
+reports_graduation_and_placement_rates: "Yes"
+outcomes_verified: "No"
