@@ -1,0 +1,1 @@
+Data Society is the most comprehensive online on-demand data science curriculum designed for professionals who need to solve problems quickly. Download reusable R code templates, reference guides, and cheat sheets, and learn how to apply powerful data science methods back into your work. All on a schedule that works for you.
