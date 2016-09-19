@@ -14,7 +14,7 @@ promises_job: 'No'
 scholarships: 'No'
 topics:
 - javascript
-- ruby
+- ruby-on-rails
 - git
 - css
 - html
