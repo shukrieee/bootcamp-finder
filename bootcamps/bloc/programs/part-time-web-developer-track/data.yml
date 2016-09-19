@@ -1,0 +1,24 @@
+admissions: Open
+cities:
+- remote
+commitment: part-time
+cost_description: Students pay a flat fee of $8,800 and can take the 540-hour course in 27 weeks or 54 weeks.
+display_name: Web Developer Track
+duration: 54
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 'No'
+program_slug: web-developer-track
+promises_job: 'No'
+scholarships: 'No'
+topics:
+- javascript
+- ruby
+- git
+- css
+- html
+tuition: 8800
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
