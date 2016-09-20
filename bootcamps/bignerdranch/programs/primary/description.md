@@ -1,0 +1,1 @@
+Developers looking to expand their skills in iOS or Android development, front-end or back-end web, or design can learn the tools they need in one week or less from Big Nerd Ranch. We offer distraction-free training at our locations in Georgia and California. You'll be able to learn new skills and improve your career while getting away from it all, room and board included.
