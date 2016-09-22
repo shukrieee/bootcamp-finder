@@ -4,7 +4,7 @@ The Iron Yard launched its first code school campus in Greenville, S.C. in 2013 
 
 We work with employers of all sizes in each market where a campus is located. Our comprehensive career support program helps match trained graduates with those employers. We often build our programs and courses for specific locations around employer needs in that specific area. 
 
-Claim one of several Bootcamp Finder scholarships to The Iron Yard by enrolling through the links below:
+Claim one of several scholarships to The Iron Yard by applying through the links below:
 * [Diversity Scholarship](https://www.theironyard.com/courses/scholarships/diversity?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic), any campus, worth $1,000
 * [Charlotte Community Forward Scholarship](https://www.theironyard.com/courses/scholarships/community-forward/charlotte?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic), Charlotte, NC, full tuition
 * [Detroit Community Forward Scholarship](https://www.theironyard.com/courses/scholarships/community-forward/detroit?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic), Detroit, MI, full tuition
