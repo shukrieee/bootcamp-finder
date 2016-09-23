@@ -1,0 +1,3 @@
+Our "Advanced Python Programming" is great for developers that want to move their Python knowledge to the next level. It's not intended for beginner coders, because many of the basic concepts are going to be taken for granted. You will jump directly into the most advanced Python topics, and also get a full immersion into Web applications development with the Flask framework.
+You will be learning HTTP concepts, and you will write and entire RESTful API as part of this course.
+The program aims to teach you things that you won't find in most of the common resources, like: good practices based on experience, conventions, most used tools, etc.
