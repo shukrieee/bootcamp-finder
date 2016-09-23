@@ -24,3 +24,4 @@ from Datascope Analytics, an elite data science firm in Chicago, the bootcamp
 is designed for individuals with a bit of programming experience and a good
 head for creative statistical applications.
 
+Apply for Metis' $3,000 scholarships for women, underrepresented groups, and US military veterans through their [application here](http://www.thisismetis.com/student_applications/new/?utm_source=bootcamp-finder).
