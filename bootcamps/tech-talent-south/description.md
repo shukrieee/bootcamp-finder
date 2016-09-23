@@ -30,5 +30,7 @@ developing their own app idea, to techies looking to join the startup
 community.
 
 Apply to one of Tech Talent South's scholarships through the links below:
-* [Female Only Scholarship](http://form.jotformpro.com/form/40617774908969/?utm_source=bootcamp-finder)
-* [Rockstar Scholarship](https://form.jotform.com/41735358393967/?utm_source=bootcamp-finder)
+<ul>
+  <li>[Female Only Scholarship](http://form.jotformpro.com/form/40617774908969/?utm_source=bootcamp-finder)</li>
+  <li>[Rockstar Scholarship](https://form.jotform.com/41735358393967/?utm_source=bootcamp-finder)</li>
+</ul>
