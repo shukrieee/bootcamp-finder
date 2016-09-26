@@ -29,7 +29,7 @@ looking to build out their skillset, to people who are passionate about
 developing their own app idea, to techies looking to join the startup
 community.
 
-Apply to one of Tech Talent South's scholarships through the links below:
+Tech Talent South gives students partial, need-based scholarships. Apply to one of the scholarships through the links below:
 <ul>
   <li><a href="http://form.jotformpro.com/form/40617774908969/?utm_source=bootcamp-finder">Female Only Scholarship</a></li>
   <li><a href="https://form.jotform.com/41735358393967/?utm_source=bootcamp-finder">Rockstar Scholarship</a></li>
