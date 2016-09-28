@@ -26,3 +26,5 @@ internship. For the last 5 weeks of the program, students intern with software
 companies to learn how development works in the real world. Participating
 employers come in all types, sizes, and missions: they've had employers range
 from a one-person startup to a Fortune 100 company to a non-profit.
+
+Epicodus has an exclusive scholarship with Bootcamp Finder. If you apply through [this link](http://www.epicodus.com/apply/?utm_source=bootcamp-finder) and specify that you found out about the school through Bootcamp Finder, you will receive $150 towards your tuition. Before applying, make sure that you have thoroughly read Epicodus' website and FAQ's.
