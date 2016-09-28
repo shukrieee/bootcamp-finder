@@ -1,0 +1,30 @@
+admissions: Application, coding challenge, interview
+cities:
+- los angeles
+commitment: full-time
+cost_description: $17,200
+display_name: Primary
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 96% hiring rate
+program_slug: primary
+promises_job: false
+scholarships: For women, under-represented minorities, and veterans
+topics:
+- javascript
+- jquery
+- react
+- node-js
+- algorithms
+- html
+- css
+- hiring support
+tuition: 17200
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- I can say without doubt that you will get a job. I received my first offer after 2 days, and after 2 weeks I accepted another offer for more than I was making in NYC as a consultant.
+- I could not have made such a huge career transition to engineering without Codesmith. The teachers and curriculum are top-notch and Codesmith has created a community where people genuinely care for each other through the entire process.
