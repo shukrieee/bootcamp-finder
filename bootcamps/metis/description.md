@@ -1,7 +1,7 @@
 Metis accelerates your career in data science. Our immersive courses, designed
 by world-class industry practitioners, provide you with intensive, on-site
 instruction, access to an extensive network of speakers and mentors, and
-ongoing career coaching and job placement support. Our goal is to prepare you
+ongoing career coaching and job placement support.  Our goal is to prepare you
 to succeed as a data scientist.
 
 To help you succeed, we commit to:
