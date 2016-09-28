@@ -6,15 +6,15 @@ We work with employers of all sizes in each market where a campus is located. Ou
 
 Claim one of several scholarships to The Iron Yard by applying through the links below:
 <ul>
-  <li><a href="https://www.theironyard.com/courses/scholarships/diversity?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">Diversity Scholarship</a>, any campus, worth $1,000</li>
+  <li><a rel="nofollow" target="_blank" href="https://www.theironyard.com/courses/scholarships/diversity?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">Diversity Scholarship</a>, any campus, worth $1,000</li>
 
-  <li><a href="https://www.theironyard.com/courses/scholarships/community-forward/charlotte?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">Charlotte Community Forward Scholarship</a>, Charlotte, NC, full tuition</li>
+  <li><a rel="nofollow" target="_blank" href="https://www.theironyard.com/courses/scholarships/community-forward/charlotte?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">Charlotte Community Forward Scholarship</a>, Charlotte, NC, full tuition</li>
 
-  <li><a href="https://www.theironyard.com/courses/scholarships/community-forward/detroit?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">Detroit Community Forward Scholarship</a>, Detroit, MI, full tuition</li>
+  <li><a rel="nofollow" target="_blank" href="https://www.theironyard.com/courses/scholarships/community-forward/detroit?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">Detroit Community Forward Scholarship</a>, Detroit, MI, full tuition</li>
 
-  <li><a href="https://www.theironyard.com/courses/scholarships/community-forward/twin-cities?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">Twin Cities Community Forward Scholarship</a>, Minneapolis, MN, full tuition</li>
+  <li><a rel="nofollow" target="_blank" href="https://www.theironyard.com/courses/scholarships/community-forward/twin-cities?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">Twin Cities Community Forward Scholarship</a>, Minneapolis, MN, full tuition</li>
 
-  <li><a href="https://www.theironyard.com/courses/scholarships/community-forward/san-antonio?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">San Antonio Community Forward Scholarship</a>, San Antonio, TX, full tuition</li>
+  <li><a rel="nofollow" target="_blank" href="https://www.theironyard.com/courses/scholarships/community-forward/san-antonio?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">San Antonio Community Forward Scholarship</a>, San Antonio, TX, full tuition</li>
 
-  <li><a href="https://www.theironyard.com/courses/scholarships/community-forward/dc?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">DC Community Forward Scholarship</a>, Washington, DC, full tuition</li>
+  <li><a rel="nofollow" target="_blank" href="https://www.theironyard.com/courses/scholarships/community-forward/dc?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic">DC Community Forward Scholarship</a>, Washington, DC, full tuition</li>
 </ul>

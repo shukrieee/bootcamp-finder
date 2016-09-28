@@ -26,7 +26,7 @@ There is no file size or dimension limit, but a good logo will be large enough t
 - Price should be listed in full or per month, depending on your payment schedule. If payments are monthly, please list “per month” after the price
 - Topics, cities, and admissions data should be separated by commas if there are multiple
 - When adding topics, please only include those listed in topics.yml. If one of your program’s main topics is not listed, and you think it should be, you can include a change to topics.yml in your pull request.
-- If your bootcamp is online, please include “Online” within the cities section
+- If your bootcamp is online, please include “remote” within the cities section
 - Admissions data should include anything that is required to be accepted i.e. interviews, applications, prep work, etc. If you do not have an admissions process, please mark the field as “Open to anyone”
 - We will only accept placement statistics updated within the past 6 months. If you do not make your placement statistics publicly available, or they are not up to date, please mark the field as “Undisclosed”
 - If your program guarantees a job, please list the details within the section i.e. “Yes - within 10 months of graduation or your money back”
