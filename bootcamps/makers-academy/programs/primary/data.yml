@@ -18,12 +18,12 @@ topics:
 - css
 - git
 - ruby-on-rails
-- Testing
+- testing
 - jquery
 - jasmine
 - mocha
 - node
-- angular-JS
+- angular-js
 tuition: 8000
 tuition_units: "GBP \xA3"
 reports_graduation_and_placement_rates: "No"
