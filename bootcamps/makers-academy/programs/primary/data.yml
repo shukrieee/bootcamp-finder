@@ -22,7 +22,7 @@ topics:
 - jquery
 - jasmine
 - mocha
-- node
+- node-js
 - angular-js
 tuition: 8000
 tuition_units: "GBP \xA3"
