@@ -88,6 +88,9 @@
 - display_name: MEAN
   slug: mean
   description: "Learn which bootcamps cover the MEAN web stack: Mongo, Express, Angular and Node.JS"
+- display_name: Mocha
+  slug: mocha
+  description: "Find out which bootcamps will teach you JavaScript testing using the Mocha framework."
 - display_name: MongoDB
   slug: mongodb
   description: "Compare bootcamps that cover the most web-scale database of them all: MongoDB"
