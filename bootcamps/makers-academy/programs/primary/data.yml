@@ -13,12 +13,17 @@ program_slug: primary
 promises_job: false
 scholarships: 'No'
 topics:
+- javascript
 - html
 - css
 - git
 - ruby-on-rails
-- javascript
 - testing
+- jquery
+- jasmine
+- mocha
+- node
+- angular-js
 tuition: 8000
 tuition_units: "GBP \xA3"
 reports_graduation_and_placement_rates: "No"
