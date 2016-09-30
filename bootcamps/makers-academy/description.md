@@ -15,4 +15,4 @@ Applying is simple, just fill out an application online. While they don't
 guarantee job placement, they do have partnerships with companies in London
 who visit on the final day of the bootcamp for students seeking employment.
 
-Makers Academy offers a £250 scholarship to Remote and Onsite students who apply through Bootcamp Finder. Use this [application link](https://goo.gl/c1NOhd) and specify that you discovered Makers Academy through Bootcamp Finder on the dropdown at the bottom of the page.
+Makers Academy offers a £250 scholarship to Remote and Onsite students who apply through Bootcamp Finder. Use this <a href="https://goo.gl/c1NOhd" rel="nofollow" target="_blank">application link</a> and specify that you discovered Makers Academy through Bootcamp Finder on the dropdown at the bottom of the page.
