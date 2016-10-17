@@ -25,7 +25,7 @@ topics:
 - git
 - python
 - flask
-- postgreSQL
+- postgresql
 tuition: 12950
 tuition_units: USD
 reports_graduation_and_placement_rates: "No"

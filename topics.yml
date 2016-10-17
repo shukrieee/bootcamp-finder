@@ -46,6 +46,9 @@
 - display_name: Express
   slug: express
   description: "Compare bootcamps offering Express and start building web applications with Node.JS and ExpressJS"
+- display_name: Flask
+  slug: flask
+  description: "Compare bootcamps teaching flask as their Python framework and start building Python apps"
 - display_name: Git
   slug: git
   description: "Learn which bootcamps cover git so you can version and track your source code"
