@@ -9,4 +9,4 @@ The bar for admission is set high with an aptitude test, admissions challenge an
 
 The V School core team has been helping students find technical jobs for more than a decade. You’ll learn how to prepare a technical resume, interview with confidence, negotiate job offers and create a personal presence / brand on GitHub + Linked-in. 
 
-V School sponsors a scholarship for students who find them through Bootcamp Finder. Claim 15% off tuition by applying through [http://vschool.io/en/apply/](this link) and listing "Bootcamp Finder" in the "How did you hear about us?" option.
+V School sponsors a scholarship for students who find them through Bootcamp Finder. Claim 15% off tuition by applying through <a href="http://vschool.io/en/apply/" rel="nofollow" target="_blank">this link</a> and listing "Bootcamp Finder" in the "How did you hear about us?" option.
