@@ -1,4 +1,8 @@
-<div class="scam-banner" ><p style="color:white; max-width:none;margin-bottom:5px; margin-top:5px; padding-left:10%;padding-right:10%">Bootcamp Finder has been notified that DevSchool.Rocks is a scam. Make sure to research all coding bootcamps you are interested in.</p></div>
+<div style="left:0; position:fixed; width:100%; top:300px; text-align:center; background-color:red; z-index:5">
+  <p style="color:white; max-width:none; margin-bottom:5px; margin-top:5px; padding-left:10%; padding-right:10%">
+  Bootcamp Finder has been notified that DevSchool.Rocks is a scam. Make sure to research all coding bootcamps you are interested in.
+  </p>
+</div>
 
 We have been notified that DevSchool.Rocks is a scam. They have been reported to the Federal Trade Commission, the Consumer Financial Protection Bureau, their respective state attorneys general, the and FBI's Cyber Division. Please see <a href="
 http://www.inc.com/salvador-rodriguez/devschool-coding-bootcamps.html" rel="nofollow" target="_blank">
