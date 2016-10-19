@@ -1,3 +1,9 @@
+<div class="scam-banner" ><p style="color:white; max-width:none;margin-bottom:5px; margin-top:5px; padding-left:10%;padding-right:10%">Bootcamp Finder has been notified that DevSchool.Rocks is a scam. Make sure to research all coding bootcamps you are interested in.</p></div>
+
+We have been notified that DevSchool.Rocks is a scam. They have been reported to the Federal Trade Commission, the Consumer Financial Protection Bureau, their respective state attorneys general, the and FBI's Cyber Division. Please see <a href="
+http://www.inc.com/salvador-rodriguez/devschool-coding-bootcamps.html" rel="nofollow" target="_blank">
+Inc.com</a> for more information.
+
 Devschool combines an expert-guided, progressive, real world approach to
 teaching software and web development. Instead of creating artificial
 hoops, courses and classrooms, they focus on having students build real
