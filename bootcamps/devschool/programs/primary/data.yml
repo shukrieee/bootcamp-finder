@@ -1,0 +1,38 @@
+admissions: Application, Interview (personality and goals)
+cities:
+- puerto-vallarta
+- remote
+commitment: part or full-time
+cost_description: $5988 covers the course and job placement
+display_name: Primary
+duration: 12-16
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'Yes'
+placement: 100% of our graduates have jobs within 120 days
+  and make an average of almost $70,000 nation-wide
+program_slug: primary
+promises_job: false
+scholarships: 'Yes'
+topics:
+- css
+- html
+- algorithms
+- ruby-on-rails
+- javascript
+- d3
+- react
+- angular-js
+- git
+- postgresql
+- tdd
+- unix
+tuition: 5988
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- Through Codementor, I found Jim and made him my long term mentor through months 2-3 of Dev Bootcamp and I ended up getting a partial refund at DBC and joined the brand new (then) Devschool. I really liked how the curriculum wasn't written out ahead of time when what I wanted to build and learn was anything but static. I would recommend Devschool to anyone who wants to cut through the cruft and really, really learn the skills they will need to build modern web applications.
+- I would highly recommend Jim and Devschool for any prospective students out there! I have been a student for about 4 months and have learned a ton. Initially I wanted to find a program to help me transition from IT support to a developer and find a programmer job. I now have that developer job and I owe a big thanks to Devschool for helping me develop the required skills to get it.
+- Devschool is Like Being an Intern While Learning
+- Devschool trained me, and then got me a job in 7 days!
