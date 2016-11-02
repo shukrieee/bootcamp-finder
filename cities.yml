@@ -6,6 +6,7 @@
   slug: asheville
 - display_name: Atlanta
   slug: atlanta
+  description: Atlanta has an up-and-coming tech scene, with lots of major "non-tech" companies adding many new tech jobs. Coding bootcamps in Atlanta benefit from major employers in the area including Delta Airlines and Home Depot.
 - display_name: Austin
   slug: austin
 - display_name: Baltimore
@@ -64,6 +65,7 @@
   slug: london
 - display_name: Los Angeles
   slug: los-angeles
+  description: Learn to code in sunny southern California. Coding bootcamps in Los Angeles offer a hands-on approach to learning for students aiming to be developers.
 - display_name: Newport Beach
   slug: newport-beach
 - display_name: Louisville
@@ -86,6 +88,7 @@
   slug: new-orleans
 - display_name: New York
   slug: new-york
+  description: New York is known for being the financial capital of the world, but it has a rapidly growing tech scene. Coding bootcamps in New York are educating people to work in the growing software industry.
 - display_name: Omaha
   slug: omaha
 - display_name: Orlando
@@ -106,6 +109,7 @@
   slug: raleigh-durham
 - display_name: Remote
   slug: remote
+  description: Remote coding bootcamps are everywhere. Students can get their education from anywhere, untethered from any physical location. In recent years, thousands of students have moved towards learning with online coding bootcamps.
 - display_name: Saint Louis
   slug: saint-louis
 - display_name: Salt Lake City
@@ -118,8 +122,10 @@
   slug: san-jose
 - display_name: San Francisco
   slug: san-francisco
+  description: Learn from top coding bootcamps in the San Francisco Bay Area. The city and its outlying suburbs are home to some of the most notable tech companies in the world.
 - display_name: Seattle
   slug: seattle
+  description: Seattle and its surrounding areas have a robust tech scene. Coding bootcamps in Seattle can help you get the skills to tap into this healthy market.
 - display_name: Singapore
   slug: singapore
 - display_name: Sydney
