@@ -22,6 +22,7 @@
 - display_name: "C#"
   slug: c-sharp
   meta-description: "Find which bootcamps cover C# (C Sharp) and start learning today!"
+  description: "Learn C# programming from bootcamps that specialize in teaching you this performance-driven language. Open a world of opportunities, including web apps, gaming, and desktop apps."
 - display_name: Clojure
   slug: clojure
   meta-description: "Learn Clojure and functional programming through these bootcamps"
@@ -67,6 +68,7 @@
 - display_name: JavaScript
   slug: javascript
   meta-description: "Check out the bootcamps offering JavaScript and learn the most used web technology!"
+  description: "JavaScript bootcamps prepare you to be a web developer. Learning JavaScript will prepare you to work with any browser, and build full-stack apps that people can use around the world."
 - display_name: jQuery
   slug: jquery
   meta-description: "Compare bootcamps offering jQuery instruction and start building dynamic web pages today!"
@@ -82,6 +84,7 @@
 - display_name: Machine Learning
   slug: machine-learning
   meta-description: "Learn which bootcamps will show you the intricacies of Machine Learning!"
+  description: "Machine learning bootcamps will give you the tools you need to build a thinking robot capable of destroying humanity. Use your powers for good as you learn the skills needed to break into the machine learning industry."
 - display_name: MapReduce
   slug: mapreduce
   meta-description: "Compare bootcamps offering MapReduce education and start crunching data today!"
@@ -109,6 +112,7 @@
 - display_name: Node
   slug: node-js
   meta-description: "Learn which bootcamps will teach you how to build web applications using Node.JS"
+  description: "Check out these Node.js bootcamps, which teach you the premiere backend framework for JavaScript. Node.js is taking the programming world by storm, these bootcamps can give you the skills to join the trend."
 - display_name: NoSQL
   slug: nosql
   meta-description: "Compare bootcamps that teach you how to use NoSQL databases"
@@ -133,6 +137,7 @@
 - display_name: Python
   slug: python
   meta-description: "Compare bootcamps based in Python, one of the most versatile programming languages"
+  description: "Python bootcamps will prepare you to work with a developer-favorite language. Python can be used for data science, web development, and much more."
 - display_name: R
   slug: r
   meta-description: "Get your stats on and learn which bootcamps will teach you R-lang"
@@ -154,6 +159,7 @@
 - display_name: Ruby on Rails
   slug: ruby-on-rails
   meta-description: "Compare between Rails bootcamps and see which one fits your interests best"
+  description: "Ruby on Rails bootcamps will teach you one of the most beloved web development frameworks. Rails is still used for thousands of popular web apps and can be a good way to start learning."
 - display_name: Sass
   slug: sass
   meta-description: "Learn which bootcamps offer SASS to style your websites"
