@@ -41,15 +41,19 @@
 - display_name: CSS
   slug: css
   meta-description: "Learn CSS with these bootcamps and become a front end expert!"
+  description: "Cascading Style Sheets make web pages look great. These bootcamps will teach you how to style pages."
 - display_name: D3
   slug: d3
   meta-description: "Find out which bootcamps will teach you D3 and learn how to build dynamic web infographics"
+  description: "D3 is a visualization library that lets you build infographics, interactive charts, and more. Learn how at these bootcamps."
 - display_name: Data Science
   slug: data-science
   meta-description: "Learn Data Science at any of these bootcamps. Turn code and smarts into insight!"
+  descritpion: "Data Science lets you make sense of mountains of information. Learn the technology to make that happen at these bootcamps."
 - display_name: Django
   slug: django
   meta-description: "Compare bootcamps that cover Django and start building websites with Python today!"
+  description: "Django is a tested and reliable web development framework for Python. These bootcamps teach you to build web apps with Django."
 - display_name: Ember.js
   slug: ember-js
   meta-description: "Learn which bootcamps offer Ember.JS and learn how to build single page applications"
