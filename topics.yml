@@ -97,12 +97,15 @@
 - display_name: JSON
   slug: json
   meta-description: "Learn which bootcamps will teach you JSON and all about RESTful APIs"
+  description: "JSON, or JavaScript Object Notation, is a method for storing data using JavaScript. These bootcamps will teach you JSON."
 - display_name: LAMP
   slug: lamp
   meta-description: "Learn which bootcamps cover the LAMP web stack: Linux, Apache, MySQL and PHP"
+  description: "These bootcamps will help you light the way with the LAMP stack: Linux, Apache, MySQL, and PHP."
 - display_name: Laravel
   slug: laravel
   meta-description: "Compare bootcamps teaching PHP's most used framework: Laravel"
+  description: "PHP is the most commonly used backend language on the internet. Laravel is its most popular framework. These bootcamps teach it."
 - display_name: Machine Learning
   slug: machine-learning
   meta-description: "Learn which bootcamps will show you the intricacies of Machine Learning!"
@@ -110,27 +113,35 @@
 - display_name: MapReduce
   slug: mapreduce
   meta-description: "Compare bootcamps offering MapReduce education and start crunching data today!"
+  description: "Work with huge amounts of data using MapReduce. Get your learning started at these bootcamps."
 - display_name: matplotlib
   slug: matplotlib
   meta-description: "Learn which bootcamps cover matplotlib, Python's plotting library"
+  description: "matplotlib is Python's plotting library. If you're looking to work with data in matplotlib, check out these bootcamps."
 - display_name: MEAN
   slug: mean
   meta-description: "Learn which bootcamps cover the MEAN web stack: Mongo, Express, Angular and Node.JS"
+  description: "The all-JavaScript MEAN stack is taking over web development. These bootcamps will teach you JavaScript with Mongo, Express, Angular, and Node."
 - display_name: Mocha
   slug: mocha
   meta-description: "Find out which bootcamps will teach you JavaScript testing using the Mocha framework."
+  description: "Writing good JavaScript requires testing. These bootcamps will teach you to test your JavaScript using Mocha."
 - display_name: MongoDB
   slug: mongodb
   meta-description: "Compare bootcamps that cover the most web-scale database of them all: MongoDB"
+  description: "MongoDB is one of the most popular new ways to have a web-scale database. Learn to use it at these bootcamps."
 - display_name: MVC
   slug: mvc
   meta-description: "Learn which bootcamps will teach you all about the Model View Controller pattern"
+  description: "The Model-View-Controller design pattern helped change the world of web development. These bootcamps teach MVC."
 - display_name: MySQL
   slug: mysql
   meta-description: "Compare bootcamps covering the MySQL database, the biggest open source database."
+  description: "MySQL is the biggest open source database tool. Learn how to use this common technology at these bootcamps."
 - display_name: .NET
   slug: net
   meta-description: "Compare bootcamps that teach .NET and get started with Microsoft's stack"
+  description: "The .NET framework is at the center of Microsoft's stack. Get going with this giant's technology at the following bootcamps."
 - display_name: Node
   slug: node-js
   meta-description: "Learn which bootcamps will teach you how to build web applications using Node.JS"
