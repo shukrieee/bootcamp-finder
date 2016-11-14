@@ -57,27 +57,35 @@
 - display_name: Ember.js
   slug: ember-js
   meta-description: "Learn which bootcamps offer Ember.JS and learn how to build single page applications"
+  description: "Ember.js allows you to build dynamic single-page application using the MVVM design pattern. These bootcamps teach Ember.js."
 - display_name: Express
   slug: express
   meta-description: "Compare bootcamps offering Express and start building web applications with Node.JS and ExpressJS"
+  description: "Build backends in JavaScript using Express. These bootcamps teach Express, usually as part of a MEAN or MERN stack."
 - display_name: Flask
   slug: flask
   meta-description: "Compare bootcamps teaching flask as their Python framework and start building Python apps"
+  description: "Flask is a popular Python framework used for web development. Make web apps using Python at these bootcamps."
 - display_name: Git
   slug: git
   meta-description: "Learn which bootcamps cover git so you can version and track your source code"
+  description: "Git is a crucial version control tool for many modern developers. These bootcamps will teach you to use Git."
 - display_name: HTML
   slug: html
   meta-description: "Compare bootcamps that offer HTML instruction and start building websites today!"
+  description: "HTML is the most basic language involved in web development — every site uses it. These bootcamps take the time to cover HTML."
 - display_name: iOS
   slug: ios
   meta-description: "Compare bootcamps offering iOS and start building iPhone and iPad apps today!"
+  description: "Since the rise of the iPhone, iOS developers have reached an audience of millions. Start doing the same at these bootcamps."
 - display_name: Jasmine
   slug: jasmine
   meta-description: "Learn which bootcamps cover Jasmine so you can improve your JavaScript"
+  description: "JavaScript testing is a key part of development. These bootcamps teach you how to test using Jasmine."
 - display_name: Java
   slug: java
   meta-description: "Compare bootcamps offering Java and learn the most used backend technology!"
+  description: "Java is a robust, fast, and popular language used everywhere. Get started with Java at these bootcamps."
 - display_name: JavaScript
   slug: javascript
   meta-description: "Check out the bootcamps offering JavaScript and learn the most used web technology!"
@@ -85,6 +93,7 @@
 - display_name: jQuery
   slug: jquery
   meta-description: "Compare bootcamps offering jQuery instruction and start building dynamic web pages today!"
+  description: "jQuery is arguably the most popular and common library used for creating dynamic web pages. Learn jQuery at these bootcamps."
 - display_name: JSON
   slug: json
   meta-description: "Learn which bootcamps will teach you JSON and all about RESTful APIs"
