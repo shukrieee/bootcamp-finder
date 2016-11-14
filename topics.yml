@@ -25,6 +25,7 @@
 - display_name: Big Data
   slug: big-data
   meta-description: "Compare bootcamps that cover Big Data and start your career processing data today!"
+  description: "Big data keeps track of all the information in the world. Get ahead with these bootcamps."
 - display_name: "C#"
   slug: c-sharp
   meta-description: "Find which bootcamps cover C# (C Sharp) and start learning today!"
@@ -32,9 +33,11 @@
 - display_name: Clojure
   slug: clojure
   meta-description: "Learn Clojure and functional programming through these bootcamps"
+  description: "Clojure is a dialect of the beloved Lisp programming language. While it's not the most popular, these bootcamps will get you started."
 - display_name: Cocoa
   slug: cocoa
   meta-description: "Find out which bootcamps cover Cocoa application development and start building OSX apps today!"
+  description: "Cocoa is Apple's native API for macOS. Learn to build Mac apps with these bootcamps."
 - display_name: CSS
   slug: css
   meta-description: "Learn CSS with these bootcamps and become a front end expert!"
