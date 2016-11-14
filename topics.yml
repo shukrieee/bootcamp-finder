@@ -1,21 +1,27 @@
 - display_name: Ajax
   slug: ajax
   meta-description: "Compare bootcamps that teach AJAX requests. Most web development programs will cover the basics!"
+  description: "Find out which bootcamps teach you AJAX. AJAX lets you write pages that change without needing to be reloaded."
 - display_name: Algorithms
   slug: algorithms
   meta-description: "Find which bootcamps teach algorithm fundamentals so you can have a strong CS foundation and be job-ready"
+  description: "The following bootcamps teach algorithms in programming. Using math to solve problems is the key to building some apps."
 - display_name: Android
   slug: android
   meta-description: "Compare Android app development bootcamps. Learn how to build phone applications!"
+  description: "Android is the most popular mobile development platform. Write code in Java for people to use in the palm of their hands!"
 - display_name: Ionic
   slug: ionic
   meta-description: "Find out which bootcamps teach Ionic Framework and learn how to build hybrid applications!"
+  description: "These bootcamps teach the Ionic mobile app framework. Use it to build hybrid mobile apps."
 - display_name: Angular-JS
   slug: angular-js
   meta-description: "Compare bootcamps that teach AngularJS and start your web development journey today!"
+  description: "AngularJS is a popular frontend JavaScript framework written by Google. Use it to build elegant, interactive pages."
 - display_name: APIs
   slug: apis
   meta-description: "Learn which bootcamps cover APIs, RESTful and otherwise."
+  description: "APIs, or Application Programming Interfaces, allow apps to talk to each other. Learn which bootcamps teach this crucial skill."
 - display_name: Big Data
   slug: big-data
   meta-description: "Compare bootcamps that cover Big Data and start your career processing data today!"
