@@ -181,21 +181,27 @@
 - display_name: R
   slug: r
   meta-description: "Get your stats on and learn which bootcamps will teach you R-lang"
+  description: "R is one of the top languages for data science. Start crunching data with R by learning with these bootcamps."
 - display_name: React
   slug: react
   meta-description: "Compare bootcamps teaching the React frontend framework and start building web apps like Facebook does!"
+  description: "React is a frontend web development framework built by Facebook. Build web apps and learn a marketable skill with these React bootcamps."
 - display_name: Regresssion
   slug: regression
   meta-description: "Compare bootcamps teaching basic statistic concepts such as regressions"
+  description: "Regression is a basic concept in statistics. These bootcamps will cover it."
 - display_name: Design
   slug: design
   meta-description: "Learn which bootcamps cover design concepts and build beautiful and usable web applications"
+  description: "Design bootcamps teach you to make beautiful web pages and apps. Check them out."
 - display_name: responsive design
   slug: responsive-design
   meta-description: "Compare bootcamps teaching responsive design and join the legion of mobile-first developers"
+  description: "Responsive design allows your pages to adjust to the size of the screen they're displayed on. Learn to be mobile-first and responsive at these bootcamps."
 - display_name: REST
   slug: rest
   meta-description: "See which bootcamps cover REST APIs and start building well-formed Single Page Applications"
+  description: "Representational state transfer APIs (REST) allow apps to talk to each other. Learn this crucial skill at these bootcamps."
 - display_name: Ruby on Rails
   slug: ruby-on-rails
   meta-description: "Compare between Rails bootcamps and see which one fits your interests best"
@@ -203,6 +209,7 @@
 - display_name: Sass
   slug: sass
   meta-description: "Learn which bootcamps offer SASS to style your websites"
+  description: "Sass is a CSS pre-processor. In plain English, that means you can add logic to your stylesheets. Learn Sass at these bootcamps."
 - display_name: SDKs
   slug: sdks
   meta-description: "See which bootcamps cover which SDKs and build mobile applications"
