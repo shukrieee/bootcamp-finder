@@ -149,24 +149,31 @@
 - display_name: NoSQL
   slug: nosql
   meta-description: "Compare bootcamps that teach you how to use NoSQL databases"
+  description: "Some people prefer to work without SQL. The bootcamps on this page will teach you to use NoSQL databases."
 - display_name: NumPy
   slug: numpy
   meta-description: "Learn which bootcamps cover the Python NumPy library and start analyzing data"
+  description: "NumPy is Python's mathematical analysis extension. Start analyzing data by learning with the following bootcamps."
 - display_name: Objective-C
   slug: objective-c
   meta-description: "Compare bootcamps teaching Objective-C and begin building iPhone and iPad apps for iOS"
+  description: "If you want to build high-performance apps for iOS, you want Objective-C. Learn to write Objective-C code at these bootcamps."
 - display_name: PHP
   slug: php
   meta-description: "Learn which bootcamps teach the most approachable language, PHP"
+  description: "PHP is the most-used language on the internet. These are the bootcamps that will get you started with PHP."
 - display_name: Prototyping
   slug: prototyping
   meta-description: "Compare bootcamps that will teach you prototyping effectively"
+  description: "Building and understanding prototypes is a key to programming effectively. Learn to do it at these bootcamps."
 - display_name: PostgreSQL
   slug: postgresql
   meta-description: "Compare bootcamps covering PostgreSQL and learn to use the best open source database!"
+  description: "Compare the bootcamps that teach PostgreSQL, an open-source database. PostgreSQL is an object-relational database."
 - display_name: Pyramid
   slug: pyramid
   meta-description: "Learn which bootcamps will teach you the Python framework Pyramid and start building web apps"
+  description: "Pyramid is a web development framework for Python. Get started writing web apps in a popular language at these bootcamps."
 - display_name: Python
   slug: python
   meta-description: "Compare bootcamps based in Python, one of the most versatile programming languages"
