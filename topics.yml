@@ -213,54 +213,72 @@
 - display_name: SDKs
   slug: sdks
   meta-description: "See which bootcamps cover which SDKs and build mobile applications"
+  description: "SDKs, or software development kits, allow you to build apps for certain platforms, usually mobile. Learn to work with SDKs at these bootcamps."
 - display_name: Sinatra
   slug: sinatra
   meta-description: "Learn which Ruby bootcamps cover the Sinatra framework"
+  description: "Sinatra is a well-known Ruby framework. Learn to write more dynamic Ruby at these Sinatra bootcamps."
 - display_name: SQL
   slug: sql
   meta-description: "Compare bootcamps that teach SQL and become an expert in database querying!"
+  description: "SQL is everywhere. Start querying an SQL database at these bootcamps."
 - display_name: Statistics
   slug: statistics
   meta-description: "Learn which bootcamps cover the statistics necessary for a heavy data workload"
+  description: "Coding is one thing, understanding statistics is another. Learn statistics at these bootcamps."
 - display_name: Swift
   slug: swift
   meta-description: "Compare Swift bootcamps and start building iPhone and iPad applications!"
+  description: "Swift is Apple's developer-friendly language used to write iOS apps. These Swift bootcamps will get your code on the App Store."
 - display_name: TDD
   slug: tdd
   meta-description: "Learn which bootcamps teach Test Driven Development and join the TDD cult today!"
+  description: "TDD, or test-driven development, is a well-regarded paradigm for building apps. Learn TDD at these bootcamps."
 - display_name: Testing
   slug: testing
   meta-description: "Compare bootcamps that have testing as a part of their curriculum."
+  description: "Testing is a key part of deploying any new software. These bootcamps heavily feature testing in their curricula."
 - display_name: Typography
   slug: typography
   meta-description: "Learn which bootcamps cover typography and make sure the dots eventually connect."
+  descriptions: "Typography is everywhere. Do you want to be the person who makes our thoughts appear on the screen? Check out these typography bootcamps."
 - display_name: UI
   slug: ui
   meta-description: "Learn about bootcamps that will teach you User Interface design"
+  description: "UI, or user interface, is what bridges the gap between code and the user. Build that bridge at these UI bootcamps."
 - display_name: User Research
   slug: user-research
   meta-description: "Compare bootcamps that include important product work like user research in their syllabus"
+  description: "User research is an important part of the feedback loop between developers and their users. Learn to conduct user research at these bootcamps."
 - display_name: Unix
   slug: unix
   meta-description: "Learn which bootcamps will set you up for success within the UNIX shell and beyond"
+  description: "UNIX is a decades-old programming shell that's still crucial in the industry. These bootcamps will teach you to work with UNIX."
 - display_name: UX
   slug: ux
   meta-description: "Compare bootcamps that include important product work like user experience in their curriculum"
+  description: "UX, or user experience, can make or break an app. Learn to build great UX at these bootcamps."
 - display_name: Visual Studio
   slug: visual-studio
   meta-description: "Learn which bootcamps will teach you to use Visual Studio and get started with the Microsoft suite"
+  description: "Microsoft Visual Studio is beloved by many programmers. Start using Visual Studio at these bootcamps."
 - display_name: Windows Administrator
   slug: windows-admin
   meta-description: "Find a program that will help you become an expert on Windows Administrator and Exchange Server."
+  description: "Thousands of enterprises depend on Windows Administrators. Become a Windows Administrator at these bootcamps."
 - display_name: Wireframing
   slug: wireframing
   meta-description: "Learn about bootcamps that include important product work like wireframing in their syllabus"
+  description: "Before you make an app, you might want to wireframe it. Learn to wireframe apps at these bootcamps."
 - display_name: WordPress
   slug: wordpress
   meta-description: "Compare bootcamps covering instruction in the world's most used CMS, WordPress"
+  description: "Wordpress is all over the internet, it's the most popular CMS in the world. These bootcamps will teach you to work with Wordpress."
 - display_name: XCode
   slug: xcode
   meta-description: "Learn about bootcamps that teach XCode and start building your Apple applications today!"
+  description: "Apple developers use XCode to put their apps together. Write for Apple products by learning XCode at these bootcamps."
 - display_name: Symfony
   slug: symfony
   meta-description: "Compare bootcamps that cover PHP's framework Symfony"
+  description: "Symfony is a well-known PHP framework. Since PHP is used on a major portion of the websites on the web, work with them by learning at these Symfony bootcamps."
