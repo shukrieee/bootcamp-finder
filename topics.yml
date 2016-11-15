@@ -1,213 +1,284 @@
 - display_name: Ajax
   slug: ajax
-  description: "Compare bootcamps that teach AJAX requests. Most web development programs will cover the basics!"
+  meta-description: "Compare bootcamps that teach AJAX requests. Most web development programs will cover the basics!"
+  description: "Find out which bootcamps teach you AJAX. AJAX lets you write pages that change without needing to be reloaded."
 - display_name: Algorithms
   slug: algorithms
-  description: "Find which bootcamps teach algorithm fundamentals so you can have a strong CS foundation and be job-ready"
+  meta-description: "Find which bootcamps teach algorithm fundamentals so you can have a strong CS foundation and be job-ready"
+  description: "The following bootcamps teach algorithms in programming. Using math to solve problems is the key to building some apps."
 - display_name: Android
   slug: android
-  description: "Compare Android app development bootcamps. Learn how to build phone applications!"
+  meta-description: "Compare Android app development bootcamps. Learn how to build phone applications!"
+  description: "Android is the most popular mobile development platform. Write code in Java for people to use in the palm of their hands!"
 - display_name: Ionic
   slug: ionic
-  description: "Find out which bootcamps teach Ionic Framework and learn how to build hybrid applications!"
+  meta-description: "Find out which bootcamps teach Ionic Framework and learn how to build hybrid applications!"
+  description: "These bootcamps teach the Ionic mobile app framework. Use it to build hybrid mobile apps."
 - display_name: Angular-JS
   slug: angular-js
-  description: "Compare bootcamps that teach AngularJS and start your web development journey today!"
+  meta-description: "Compare bootcamps that teach AngularJS and start your web development journey today!"
+  description: "AngularJS is a popular frontend JavaScript framework written by Google. Use it to build elegant, interactive pages."
 - display_name: APIs
   slug: apis
-  description: "Learn which bootcamps cover APIs, RESTful and otherwise."
+  meta-description: "Learn which bootcamps cover APIs, RESTful and otherwise."
+  description: "APIs, or Application Programming Interfaces, allow apps to talk to each other. Learn which bootcamps teach this crucial skill."
 - display_name: Big Data
   slug: big-data
-  description: "Compare bootcamps that cover Big Data and start your career processing data today!"
+  meta-description: "Compare bootcamps that cover Big Data and start your career processing data today!"
+  description: "Big data keeps track of all the information in the world. Get ahead with these bootcamps."
 - display_name: "C#"
   slug: c-sharp
-  description: "Find which bootcamps cover C# (C Sharp) and start learning today!"
+  meta-description: "Find which bootcamps cover C# (C Sharp) and start learning today!"
+  description: "Learn C# programming from bootcamps that specialize in teaching you this performance-driven language. Open a world of opportunities, including web apps, gaming, and desktop apps."
 - display_name: Clojure
   slug: clojure
-  description: "Learn Clojure and functional programming through these bootcamps"
+  meta-description: "Learn Clojure and functional programming through these bootcamps"
+  description: "Clojure is a dialect of the beloved Lisp programming language. While it's not the most popular, these bootcamps will get you started."
 - display_name: Cocoa
   slug: cocoa
-  description: "Find out which bootcamps cover Cocoa application development and start building OSX apps today!"
+  meta-description: "Find out which bootcamps cover Cocoa application development and start building OSX apps today!"
+  description: "Cocoa is Apple's native API for macOS. Learn to build Mac apps with these bootcamps."
 - display_name: CSS
   slug: css
-  description: "Learn CSS with these bootcamps and become a front end expert!"
+  meta-description: "Learn CSS with these bootcamps and become a front end expert!"
+  description: "Cascading Style Sheets make web pages look great. These bootcamps will teach you how to style pages."
 - display_name: D3
   slug: d3
-  description: "Find out which bootcamps will teach you D3 and learn how to build dynamic web infographics"
+  meta-description: "Find out which bootcamps will teach you D3 and learn how to build dynamic web infographics"
+  description: "D3 is a visualization library that lets you build infographics, interactive charts, and more. Learn how at these bootcamps."
 - display_name: Data Science
   slug: data-science
-  description: "Learn Data Science at any of these bootcamps. Turn code and smarts into insight!"
+  meta-description: "Learn Data Science at any of these bootcamps. Turn code and smarts into insight!"
+  descritpion: "Data Science lets you make sense of mountains of information. Learn the technology to make that happen at these bootcamps."
 - display_name: Django
   slug: django
-  description: "Compare bootcamps that cover Django and start building websites with Python today!"
+  meta-description: "Compare bootcamps that cover Django and start building websites with Python today!"
+  description: "Django is a tested and reliable web development framework for Python. These bootcamps teach you to build web apps with Django."
 - display_name: Ember.js
   slug: ember-js
-  description: "Learn which bootcamps offer Ember.JS and learn how to build single page applications"
+  meta-description: "Learn which bootcamps offer Ember.JS and learn how to build single page applications"
+  description: "Ember.js allows you to build dynamic single-page application using the MVVM design pattern. These bootcamps teach Ember.js."
 - display_name: Express
   slug: express
-  description: "Compare bootcamps offering Express and start building web applications with Node.JS and ExpressJS"
+  meta-description: "Compare bootcamps offering Express and start building web applications with Node.JS and ExpressJS"
+  description: "Build backends in JavaScript using Express. These bootcamps teach Express, usually as part of a MEAN or MERN stack."
 - display_name: Flask
   slug: flask
-  description: "Compare bootcamps teaching flask as their Python framework and start building Python apps"
+  meta-description: "Compare bootcamps teaching flask as their Python framework and start building Python apps"
+  description: "Flask is a popular Python framework used for web development. Make web apps using Python at these bootcamps."
 - display_name: Git
   slug: git
-  description: "Learn which bootcamps cover git so you can version and track your source code"
+  meta-description: "Learn which bootcamps cover git so you can version and track your source code"
+  description: "Git is a crucial version control tool for many modern developers. These bootcamps will teach you to use Git."
 - display_name: HTML
   slug: html
-  description: "Compare bootcamps that offer HTML instruction and start building websites today!"
+  meta-description: "Compare bootcamps that offer HTML instruction and start building websites today!"
+  description: "HTML is the most basic language involved in web development — every site uses it. These bootcamps take the time to cover HTML."
 - display_name: iOS
   slug: ios
-  description: "Compare bootcamps offering iOS and start building iPhone and iPad apps today!"
+  meta-description: "Compare bootcamps offering iOS and start building iPhone and iPad apps today!"
+  description: "Since the rise of the iPhone, iOS developers have reached an audience of millions. Start doing the same at these bootcamps."
 - display_name: Jasmine
   slug: jasmine
-  description: "Learn which bootcamps cover Jasmine so you can improve your JavaScript"
+  meta-description: "Learn which bootcamps cover Jasmine so you can improve your JavaScript"
+  description: "JavaScript testing is a key part of development. These bootcamps teach you how to test using Jasmine."
 - display_name: Java
   slug: java
-  description: "Compare bootcamps offering Java and learn the most used backend technology!"
+  meta-description: "Compare bootcamps offering Java and learn the most used backend technology!"
+  description: "Java is a robust, fast, and popular language used everywhere. Get started with Java at these bootcamps."
 - display_name: JavaScript
   slug: javascript
-  description: "Check out the bootcamps offering JavaScript and learn the most used web technology!"
+  meta-description: "Check out the bootcamps offering JavaScript and learn the most used web technology!"
+  description: "JavaScript bootcamps prepare you to be a web developer. Learning JavaScript will prepare you to work with any browser, and build full-stack apps that people can use around the world."
 - display_name: jQuery
   slug: jquery
-  description: "Compare bootcamps offering jQuery instruction and start building dynamic web pages today!"
+  meta-description: "Compare bootcamps offering jQuery instruction and start building dynamic web pages today!"
+  description: "jQuery is arguably the most popular and common library used for creating dynamic web pages. Learn jQuery at these bootcamps."
 - display_name: JSON
   slug: json
-  description: "Learn which bootcamps will teach you JSON and all about RESTful APIs"
+  meta-description: "Learn which bootcamps will teach you JSON and all about RESTful APIs"
+  description: "JSON, or JavaScript Object Notation, is a method for storing data using JavaScript. These bootcamps will teach you JSON."
 - display_name: LAMP
   slug: lamp
-  description: "Learn which bootcamps cover the LAMP web stack: Linux, Apache, MySQL and PHP"
+  meta-description: "Learn which bootcamps cover the LAMP web stack: Linux, Apache, MySQL and PHP"
+  description: "These bootcamps will help you light the way with the LAMP stack: Linux, Apache, MySQL, and PHP."
 - display_name: Laravel
   slug: laravel
-  description: "Compare bootcamps teaching PHP's most used framework: Laravel"
+  meta-description: "Compare bootcamps teaching PHP's most used framework: Laravel"
+  description: "PHP is the most commonly used backend language on the internet. Laravel is its most popular framework. These bootcamps teach it."
 - display_name: Machine Learning
   slug: machine-learning
-  description: "Learn which bootcamps will show you the intricacies of Machine Learning!"
+  meta-description: "Learn which bootcamps will show you the intricacies of Machine Learning!"
+  description: "Machine learning bootcamps will give you the tools you need to build a thinking robot capable of destroying humanity. Use your powers for good as you learn the skills needed to break into the machine learning industry."
 - display_name: MapReduce
   slug: mapreduce
-  description: "Compare bootcamps offering MapReduce education and start crunching data today!"
+  meta-description: "Compare bootcamps offering MapReduce education and start crunching data today!"
+  description: "Work with huge amounts of data using MapReduce. Get your learning started at these bootcamps."
 - display_name: matplotlib
   slug: matplotlib
-  description: "Learn which bootcamps cover matplotlib, Python's plotting library"
+  meta-description: "Learn which bootcamps cover matplotlib, Python's plotting library"
+  description: "matplotlib is Python's plotting library. If you're looking to work with data in matplotlib, check out these bootcamps."
 - display_name: MEAN
   slug: mean
-  description: "Learn which bootcamps cover the MEAN web stack: Mongo, Express, Angular and Node.JS"
+  meta-description: "Learn which bootcamps cover the MEAN web stack: Mongo, Express, Angular and Node.JS"
+  description: "The all-JavaScript MEAN stack is taking over web development. These bootcamps will teach you JavaScript with Mongo, Express, Angular, and Node."
 - display_name: Mocha
   slug: mocha
-  description: "Find out which bootcamps will teach you JavaScript testing using the Mocha framework."
+  meta-description: "Find out which bootcamps will teach you JavaScript testing using the Mocha framework."
+  description: "Writing good JavaScript requires testing. These bootcamps will teach you to test your JavaScript using Mocha."
 - display_name: MongoDB
   slug: mongodb
-  description: "Compare bootcamps that cover the most web-scale database of them all: MongoDB"
+  meta-description: "Compare bootcamps that cover the most web-scale database of them all: MongoDB"
+  description: "MongoDB is one of the most popular new ways to have a web-scale database. Learn to use it at these bootcamps."
 - display_name: MVC
   slug: mvc
-  description: "Learn which bootcamps will teach you all about the Model View Controller pattern"
+  meta-description: "Learn which bootcamps will teach you all about the Model View Controller pattern"
+  description: "The Model-View-Controller design pattern helped change the world of web development. These bootcamps teach MVC."
 - display_name: MySQL
   slug: mysql
-  description: "Compare bootcamps covering the MySQL database, the biggest open source database."
+  meta-description: "Compare bootcamps covering the MySQL database, the biggest open source database."
+  description: "MySQL is the biggest open source database tool. Learn how to use this common technology at these bootcamps."
 - display_name: .NET
   slug: net
-  description: "Compare bootcamps that teach .NET and get started with Microsoft's stack"
+  meta-description: "Compare bootcamps that teach .NET and get started with Microsoft's stack"
+  description: "The .NET framework is at the center of Microsoft's stack. Get going with this giant's technology at the following bootcamps."
 - display_name: Node
   slug: node-js
-  description: "Learn which bootcamps will teach you how to build web applications using Node.JS"
+  meta-description: "Learn which bootcamps will teach you how to build web applications using Node.JS"
+  description: "Check out these Node.js bootcamps, which teach you the premiere backend framework for JavaScript. Node.js is taking the programming world by storm, these bootcamps can give you the skills to join the trend."
 - display_name: NoSQL
   slug: nosql
-  description: "Compare bootcamps that teach you how to use NoSQL databases"
+  meta-description: "Compare bootcamps that teach you how to use NoSQL databases"
+  description: "Some people prefer to work without SQL. The bootcamps on this page will teach you to use NoSQL databases."
 - display_name: NumPy
   slug: numpy
-  description: "Learn which bootcamps cover the Python NumPy library and start analyzing data"
+  meta-description: "Learn which bootcamps cover the Python NumPy library and start analyzing data"
+  description: "NumPy is Python's mathematical analysis extension. Start analyzing data by learning with the following bootcamps."
 - display_name: Objective-C
   slug: objective-c
-  description: "Compare bootcamps teaching Objective-C and begin building iPhone and iPad apps for iOS"
+  meta-description: "Compare bootcamps teaching Objective-C and begin building iPhone and iPad apps for iOS"
+  description: "If you want to build high-performance apps for iOS, you want Objective-C. Learn to write Objective-C code at these bootcamps."
 - display_name: PHP
   slug: php
-  description: "Learn which bootcamps teach the most approachable language, PHP"
+  meta-description: "Learn which bootcamps teach the most approachable language, PHP"
+  description: "PHP is the most-used language on the internet. These are the bootcamps that will get you started with PHP."
 - display_name: Prototyping
   slug: prototyping
-  description: "Compare bootcamps that will teach you prototyping effectively"
+  meta-description: "Compare bootcamps that will teach you prototyping effectively"
+  description: "Building and understanding prototypes is a key to programming effectively. Learn to do it at these bootcamps."
 - display_name: PostgreSQL
   slug: postgresql
-  description: "Compare bootcamps covering PostgreSQL and learn to use the best open source database!"
+  meta-description: "Compare bootcamps covering PostgreSQL and learn to use the best open source database!"
+  description: "Compare the bootcamps that teach PostgreSQL, an open-source database. PostgreSQL is an object-relational database."
 - display_name: Pyramid
   slug: pyramid
-  description: "Learn which bootcamps will teach you the Python framework Pyramid and start building web apps"
+  meta-description: "Learn which bootcamps will teach you the Python framework Pyramid and start building web apps"
+  description: "Pyramid is a web development framework for Python. Get started writing web apps in a popular language at these bootcamps."
 - display_name: Python
   slug: python
-  description: "Compare bootcamps based in Python, one of the most versatile programming languages"
+  meta-description: "Compare bootcamps based in Python, one of the most versatile programming languages"
+  description: "Python bootcamps will prepare you to work with a developer-favorite language. Python can be used for data science, web development, and much more."
 - display_name: R
   slug: r
-  description: "Get your stats on and learn which bootcamps will teach you R-lang"
+  meta-description: "Get your stats on and learn which bootcamps will teach you R-lang"
+  description: "R is one of the top languages for data science. Start crunching data with R by learning with these bootcamps."
 - display_name: React
   slug: react
-  description: "Compare bootcamps teaching the React frontend framework and start building web apps like Facebook does!"
+  meta-description: "Compare bootcamps teaching the React frontend framework and start building web apps like Facebook does!"
+  description: "React is a frontend web development framework built by Facebook. Build web apps and learn a marketable skill with these React bootcamps."
 - display_name: Regresssion
   slug: regression
-  description: "Compare bootcamps teaching basic statistic concepts such as regressions"
+  meta-description: "Compare bootcamps teaching basic statistic concepts such as regressions"
+  description: "Regression is a basic concept in statistics. These bootcamps will cover it."
 - display_name: Design
   slug: design
-  description: "Learn which bootcamps cover design concepts and build beautiful and usable web applications"
+  meta-description: "Learn which bootcamps cover design concepts and build beautiful and usable web applications"
+  description: "Design bootcamps teach you to make beautiful web pages and apps. Check them out."
 - display_name: responsive design
   slug: responsive-design
-  description: "Compare bootcamps teaching responsive design and join the legion of mobile-first developers"
+  meta-description: "Compare bootcamps teaching responsive design and join the legion of mobile-first developers"
+  description: "Responsive design allows your pages to adjust to the size of the screen they're displayed on. Learn to be mobile-first and responsive at these bootcamps."
 - display_name: REST
   slug: rest
-  description: "See which bootcamps cover REST APIs and start building well-formed Single Page Applications"
+  meta-description: "See which bootcamps cover REST APIs and start building well-formed Single Page Applications"
+  description: "Representational state transfer APIs (REST) allow apps to talk to each other. Learn this crucial skill at these bootcamps."
 - display_name: Ruby on Rails
   slug: ruby-on-rails
-  description: "Compare between Rails bootcamps and see which one fits your interests best"
+  meta-description: "Compare between Rails bootcamps and see which one fits your interests best"
+  description: "Ruby on Rails bootcamps will teach you one of the most beloved web development frameworks. Rails is still used for thousands of popular web apps and can be a good way to start learning."
 - display_name: Sass
   slug: sass
-  description: "Learn which bootcamps offer SASS to style your websites"
+  meta-description: "Learn which bootcamps offer SASS to style your websites"
+  description: "Sass is a CSS pre-processor. In plain English, that means you can add logic to your stylesheets. Learn Sass at these bootcamps."
 - display_name: SDKs
   slug: sdks
-  description: "See which bootcamps cover which SDKs and build mobile applications"
+  meta-description: "See which bootcamps cover which SDKs and build mobile applications"
+  description: "SDKs, or software development kits, allow you to build apps for certain platforms, usually mobile. Learn to work with SDKs at these bootcamps."
 - display_name: Sinatra
   slug: sinatra
-  description: "Learn which Ruby bootcamps cover the Sinatra framework"
+  meta-description: "Learn which Ruby bootcamps cover the Sinatra framework"
+  description: "Sinatra is a well-known Ruby framework. Learn to write more dynamic Ruby at these Sinatra bootcamps."
 - display_name: SQL
   slug: sql
-  description: "Compare bootcamps that teach SQL and become an expert in database querying!"
+  meta-description: "Compare bootcamps that teach SQL and become an expert in database querying!"
+  description: "SQL is everywhere. Start querying an SQL database at these bootcamps."
 - display_name: Statistics
   slug: statistics
-  description: "Learn which bootcamps cover the statistics necessary for a heavy data workload"
+  meta-description: "Learn which bootcamps cover the statistics necessary for a heavy data workload"
+  description: "Coding is one thing, understanding statistics is another. Learn statistics at these bootcamps."
 - display_name: Swift
   slug: swift
-  description: "Compare Swift bootcamps and start building iPhone and iPad applications!"
+  meta-description: "Compare Swift bootcamps and start building iPhone and iPad applications!"
+  description: "Swift is Apple's developer-friendly language used to write iOS apps. These Swift bootcamps will get your code on the App Store."
 - display_name: TDD
   slug: tdd
-  description: "Learn which bootcamps teach Test Driven Development and join the TDD cult today!"
+  meta-description: "Learn which bootcamps teach Test Driven Development and join the TDD cult today!"
+  description: "TDD, or test-driven development, is a well-regarded paradigm for building apps. Learn TDD at these bootcamps."
 - display_name: Testing
   slug: testing
-  description: "Compare bootcamps that have testing as a part of their curriculum."
+  meta-description: "Compare bootcamps that have testing as a part of their curriculum."
+  description: "Testing is a key part of deploying any new software. These bootcamps heavily feature testing in their curricula."
 - display_name: Typography
   slug: typography
-  description: "Learn which bootcamps cover typography and make sure the dots eventually connect."
+  meta-description: "Learn which bootcamps cover typography and make sure the dots eventually connect."
+  descriptions: "Typography is everywhere. Do you want to be the person who makes our thoughts appear on the screen? Check out these typography bootcamps."
 - display_name: UI
   slug: ui
-  description: "Learn about bootcamps that will teach you User Interface design"
+  meta-description: "Learn about bootcamps that will teach you User Interface design"
+  description: "UI, or user interface, is what bridges the gap between code and the user. Build that bridge at these UI bootcamps."
 - display_name: User Research
   slug: user-research
-  description: "Compare bootcamps that include important product work like user research in their syllabus"
+  meta-description: "Compare bootcamps that include important product work like user research in their syllabus"
+  description: "User research is an important part of the feedback loop between developers and their users. Learn to conduct user research at these bootcamps."
 - display_name: Unix
   slug: unix
-  description: "Learn which bootcamps will set you up for success within the UNIX shell and beyond"
+  meta-description: "Learn which bootcamps will set you up for success within the UNIX shell and beyond"
+  description: "UNIX is a decades-old programming shell that's still crucial in the industry. These bootcamps will teach you to work with UNIX."
 - display_name: UX
   slug: ux
-  description: "Compare bootcamps that include important product work like user experience in their curriculum"
+  meta-description: "Compare bootcamps that include important product work like user experience in their curriculum"
+  description: "UX, or user experience, can make or break an app. Learn to build great UX at these bootcamps."
 - display_name: Visual Studio
   slug: visual-studio
-  description: "Learn which bootcamps will teach you to use Visual Studio and get started with the Microsoft suite"
+  meta-description: "Learn which bootcamps will teach you to use Visual Studio and get started with the Microsoft suite"
+  description: "Microsoft Visual Studio is beloved by many programmers. Start using Visual Studio at these bootcamps."
 - display_name: Windows Administrator
   slug: windows-admin
-  description: "Find a program that will help you become an expert on Windows Administrator and Exchange Server."
+  meta-description: "Find a program that will help you become an expert on Windows Administrator and Exchange Server."
+  description: "Thousands of enterprises depend on Windows Administrators. Become a Windows Administrator at these bootcamps."
 - display_name: Wireframing
   slug: wireframing
-  description: "Learn about bootcamps that include important product work like wireframing in their syllabus"
+  meta-description: "Learn about bootcamps that include important product work like wireframing in their syllabus"
+  description: "Before you make an app, you might want to wireframe it. Learn to wireframe apps at these bootcamps."
 - display_name: WordPress
   slug: wordpress
-  description: "Compare bootcamps covering instruction in the world's most used CMS, WordPress"
+  meta-description: "Compare bootcamps covering instruction in the world's most used CMS, WordPress"
+  description: "Wordpress is all over the internet, it's the most popular CMS in the world. These bootcamps will teach you to work with Wordpress."
 - display_name: XCode
   slug: xcode
-  description: "Learn about bootcamps that teach XCode and start building your Apple applications today!"
+  meta-description: "Learn about bootcamps that teach XCode and start building your Apple applications today!"
+  description: "Apple developers use XCode to put their apps together. Write for Apple products by learning XCode at these bootcamps."
 - display_name: Symfony
   slug: symfony
-  description: "Compare bootcamps that cover PHP's framework Symfony"
+  meta-description: "Compare bootcamps that cover PHP's framework Symfony"
+  description: "Symfony is a well-known PHP framework. Since PHP is used on a major portion of the websites on the web, work with them by learning at these Symfony bootcamps."
