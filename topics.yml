@@ -61,7 +61,7 @@
 - display_name: Express
   slug: express
   meta-description: "Compare bootcamps offering Express and start building web applications with Node.JS and ExpressJS"
-  description: "Build backends in JavaScript using Express. These bootcamps teach Express, usually as part of a MEAN or MERN stack."
+  description: "Learn Express to use JavaScript for backend development. These bootcamps teach Express, usually as part of a MEAN or MERN stack."
 - display_name: Flask
   slug: flask
   meta-description: "Compare bootcamps teaching flask as their Python framework and start building Python apps"
@@ -105,7 +105,7 @@
 - display_name: Laravel
   slug: laravel
   meta-description: "Compare bootcamps teaching PHP's most used framework: Laravel"
-  description: "PHP is the most commonly used backend language on the internet. Laravel is its most popular framework. These bootcamps teach it."
+  description: "PHP is still the most commonly used backend language on the internet. Laravel is its most popular framework. These bootcamps teach it."
 - display_name: Machine Learning
   slug: machine-learning
   meta-description: "Learn which bootcamps will show you the intricacies of Machine Learning!"
@@ -129,7 +129,7 @@
 - display_name: MongoDB
   slug: mongodb
   meta-description: "Compare bootcamps that cover the most web-scale database of them all: MongoDB"
-  description: "MongoDB is one of the most popular new ways to have a web-scale database. Learn to use it at these bootcamps."
+  description: "MongoDB is one of the most popular ways to have a web-scale database. Learn to use it at these bootcamps."
 - display_name: MVC
   slug: mvc
   meta-description: "Learn which bootcamps will teach you all about the Model View Controller pattern"
