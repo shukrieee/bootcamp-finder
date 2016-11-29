@@ -1,33 +1,8 @@
-Tech Talent South provides beginner-focused programs teaching web development
-and coding to adults and children throughout the Southeast. Our goal is to
-bring code education to our region and empower people who are on a mission to
-do something big!
+Tech Talent South (TTS) is a Charlotte-based coding bootcamp dedicated to fostering talent in technology throughout the southeast United States and aid the region in evolving its high-tech hubs. To make this dream a reality, TTS has launched campuses in high-growth technology cities including Charlotte, Atlanta, Raleigh, Asheville, New Orleans, Dallas, Jacksonville, Phoenix, San Antonio, Winston-Salem, and Columbus. These campuses are in the heart of each of their respective tech communities and provide students with amazing opportunities to make connections in the local tech scenes.
 
-Based out of Atlanta, Georgia, Tech Talent South seeks to position America's
-Southeast as another of the country's information technology hubs. To prepare
-people in the area for the digital revolution, TTS offers training in computer
-programming and website design, while focusing on some facets of
-entrepreneurialism. Partnered with groups such as the Technology Association
-of Georgia and Hands on Tech Atlanta, we educate students of all ages about
-bringing their ideas for websites, e-commerce, and software applications to
-fruition and provide opportunities to network with individuals who can assist
-them in reaching their goals.
+TTS truly values community and fostering a strong ecosystem through dynamic and collaborative educational and networking events that bring local startup/tech companies and local professionals together. TTS students are able to immerse themselves in the community, fostering lasting personal and career related relationships with the best people in the community.
 
-One of Tech Talent South's signature offerings is the eight-week code
-immersion program for adults. With full-time and part-time options, this
-series of courses teaches students about computer programming and web
-development. Among the topics taught are coding in Ruby on Rails, creating
-websites in HTML and CSS, utilizing JavaScript, and launching minimally viable
-products. In addition to this coursework, Tech Talent South employs
-professionals to aid students in honing their ideas and converting them into
-feasible products. Some of the other programs offered by TTS include game
-development classes, youth coding camps, college “cram sessions”, Intro to Web
-Design & Creation.
-
-Our graduates range from doctors looking for a new change, to designers
-looking to build out their skillset, to people who are passionate about
-developing their own app idea, to techies looking to join the startup
-community.
+Our coding courses feature the most practical and widely used languages, as well as Ruby on Rails (ROR) an insanely popular Internet application framework. ROR has been utilized in creating tools for some of our favorite applications like Hulu and Twitter. Students also learn HTML/CSS and interactivity-enhancing JavaScript to create websites with superior web experience. The Full Time Code Immersion Class meets four mornings a week and includes office hours with instructors and the full access to shared working spaces. The Part Time class meets two nights a week and is perfect for those currently working Full Time.
 
 Tech Talent South gives students partial, need-based scholarships. Apply to one of the scholarships through the links below:
 <ul>
