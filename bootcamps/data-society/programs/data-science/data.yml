@@ -3,9 +3,8 @@ cities:
 - remote
 - boston
 - melbourne
-- washington DC
-- new york
-- online
+- washington-dc
+- new-york
 commitment: part-time
 cost_description: $349 lifetime / $149 per year
 display_name: Data Science for Analysts Bootcamp
@@ -18,16 +17,13 @@ program_slug: data-science-for-analysts
 promises_job: false
 scholarships: Payment plans available
 topics:
-- data analytics
 - r
-- data science
+- data-science
 - statistics
-- machine learning
-- data visualization
+- machine-learning
 - regression
-- predictive analytics
 - algorithms
-- big data
+- big-data
 tuition: 349
 tuition_units: USD
 reports_graduation_and_placement_rates: "No"
@@ -36,6 +32,3 @@ reviews:
 - I was a beginner to R and I was able to keep up with the pace, structure, and fully understood the lectures. Data Society has been incredibly supportive by reaching out to me monthly to check in, offering me advice, sharing their experiences, and answering any questions I have had.
 - The information was useful for seasoned data users, but also gives managers with no programming experience a better understanding of analytic approaches and ways to incorporate them in various lines of work.
 - I have never read or heard any explanations on data mining techniques as accessible and clear as in the Data Society courses.
-
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
