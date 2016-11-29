@@ -15,3 +15,4 @@ solutions for Wall Street, Byte Consulting’s deep expertise in the space has
 crafted Byte Academy to serve both seasoned professionals and people just
 starting their career.
 
+Students who apply to Byte Academy through Bootcamp Finder are eligible for a $500 scholarship towards tuition. Apply to the <a href="https://byteacademy.fluidreview.com/" rel="nofollow" target="_blank">Byte Academy scholarship</a> and list "Bootcamp Finder" as your response to "how did you hear about us" in the application form.
