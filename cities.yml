@@ -69,6 +69,7 @@
 - display_name: Greensboro
   slug: greensboro
 - display_name: Greenville
+  slug: greenville
 - display_name: Hong Kong
   slug: hong-kong
   description: Hong Kong coding bootcamps help train people in one of the biggest commercial centers of East Asia. Learn to code in Hong Kong and dive into the tremendous financial industry, tech industry, or carve your own path.
@@ -122,7 +123,7 @@
   slug: miami-beach
 - display_name: Minneapolis
   slug: minneapolis
-  description: With a few coding bootcamps in Minneapolis, mainly focusing on the Microsoft stack, the city has a base of technical jobs that you can get as a developer. Learn to code in Minneapolis and break into the local tech industry. 
+  description: With a few coding bootcamps in Minneapolis, mainly focusing on the Microsoft stack, the city has a base of technical jobs that you can get as a developer. Learn to code in Minneapolis and break into the local tech industry.
 - display_name: Montreal
   slug: montreal
 - display_name: Nashville
