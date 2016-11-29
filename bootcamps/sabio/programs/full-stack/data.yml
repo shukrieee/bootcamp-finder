@@ -12,12 +12,13 @@ guarantee: 'No'
 placement: 95%
 program_slug: full-stack
 promises_job: false
-scholarships: yes
+scholarships: GI Bill fully supported, others for women and underrepresented groups
 topics:
 - algorithms
 - angular-js
 - apis
 - c-sharp
+- node-js
 - css
 - html
 - javascript
