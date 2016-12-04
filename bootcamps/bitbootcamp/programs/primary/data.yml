@@ -2,10 +2,12 @@ admissions: Application, 2 coding tests, interview
 cities:
 - new-york
 - san-francisco
+- washington-dc
+- cleveland
 commitment: full-time
-cost_description: 18% of first year salary and $5,000 refundable deposit
+cost_description: $6000
 display_name: Primary
-duration: 12
+duration: 6
 duration_units: weeks
 financing: 'Yes'
 guarantee: 'No'
