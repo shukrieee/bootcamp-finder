@@ -1,16 +1,3 @@
-App Academy has done a great job of interlacing computer science knowledge
-with the practical skill you need to be a web developer. You can see this
-throughout their curriculum but also in the way they teach. They believe in
-real world learning so 90% of your time will be working on labs with a
-partner.
+Data School is run by Kevin Markham, a former lead instructor for General Assembly's data science course. In his experience as a teacher, Markham has trained other data science instructors along with dozens of students. With a focus on Python, Data School's main course dives deep into machine learning.
 
-Expect to go through a more rigorous interview process to get in to this
-bootcamp. First you will submit your application and receive a coding
-challenge within 2 days of submission. Depending on how that goes, you might
-be asked to answer a second coding problem. Then you will be asked to have an
-interview. Expect to answer coding questions during the interview. They will
-get back to you within two days of the interview with a final decision. They
-provide resources for beginning programmers to learn how to approach these
-problems, but take your time! They are considered the most important parts of
-your application.
-
+Targeted to an audience of people new to the field, the course seeks to make Python coding accessible, while still diving deep into complex data analysis. According to Markham, his mission in creating Data School is: "I love to teach data science, and I created Data School after finding that most data science educational resources are inaccessible to people new to the field. Thus, I strive to make my resources accessible to data scientists at all levels of knowledge and experience."
