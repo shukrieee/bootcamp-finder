@@ -1,4 +1,1 @@
-App Academy’s 12-week bootcamps teach everything from JavaScript to Ruby on
-Rails. At least 98% of App Academy graduates find jobs as software developers,
-with average annual salaries of $89,000 (New York) and $105,000 (California).
-
+Springboard's Data Science Intensive is built for you to take it anywhere, guided by self-learning and expert mentorship. Students complete 7 projects over the course of the curriculum, which is expected to require 120 hours of commitment. Graduates earn a certificate of completion, signed by their mentor.
