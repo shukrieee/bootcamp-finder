@@ -1,4 +1,1 @@
-App Academy’s 12-week bootcamps teach everything from JavaScript to Ruby on
-Rails. At least 98% of App Academy graduates find jobs as software developers,
-with average annual salaries of $89,000 (New York) and $105,000 (California).
-
+BitBootCamp's Data Science and Machine Learning program focuses on the problem of scaling large decision-making algorithms. According to them, the problem is no longer creating the right algorithm, but making it run in quickly and accessibly in production. The 8 week program aims to equip you with knowledge needed to produce working decision science algorithms.
