@@ -1,4 +1,1 @@
-App Academy’s 12-week bootcamps teach everything from JavaScript to Ruby on
-Rails. At least 98% of App Academy graduates find jobs as software developers,
-with average annual salaries of $89,000 (New York) and $105,000 (California).
-
+This introductory 8 week program offered by The Data Incubator is designed to take working professionals and equip them with modern data science techniques. The average student will enter not know much about processing large batches of data, then leave with the knowledge to use data science techniques in their day-to-day functions.
