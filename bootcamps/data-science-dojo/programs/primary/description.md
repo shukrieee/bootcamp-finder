@@ -1,4 +1,3 @@
-App Academy’s 12-week bootcamps teach everything from JavaScript to Ruby on
-Rails. At least 98% of App Academy graduates find jobs as software developers,
-with average annual salaries of $89,000 (New York) and $105,000 (California).
+Data Science Dojo is on a mission to make data science accessible to everyone, not just professional data scientists. Students for their one-week intensive course come from all disciplines, united by the common goal to apply data to their daily work. Data Science Dojo believes that any person working with large data sets, including marketers, project managers, and executives can benefit from being able to crunch the numbers using R.
 
+They have taught over 1,500 graduates from over 100 companies. [Data Science Dojo offers scholarships](http://datasciencedojo.com/bootcamp/fellowship/) to exceptional students and students who work at nonprofits.
