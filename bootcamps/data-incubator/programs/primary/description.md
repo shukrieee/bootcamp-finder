@@ -1,0 +1,1 @@
+This introductory 8 week program offered by The Data Incubator is designed to take working professionals and equip them with modern data science techniques. The average student will enter not know much about processing large batches of data, then leave with the knowledge to use data science techniques in their day-to-day functions.
