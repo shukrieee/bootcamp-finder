@@ -1,10 +1,10 @@
-
 admissions: Open to anyone
 cities:
 - remote
 - atlanta
 - raleigh
 - raleigh-durham
+- washington-dc
 commitment: part-time
 cost_description: $1,500 per month
 display_name: Flexible Data Science Bootcamp
