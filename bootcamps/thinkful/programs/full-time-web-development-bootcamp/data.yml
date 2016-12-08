@@ -1,6 +1,10 @@
 admissions: Open to anyone
 cities:
 - remote
+- atlanta
+- raleigh
+- raleigh-durham
+- washington-dc
 commitment: full-time
 cost_description: $14,000
 display_name: Full-time Web Development Bootcamp
