@@ -1,4 +1,4 @@
-admissions: Open to anyone
+admissions: Complete prep course or coding challenge, anyone can take the prep course.
 cities:
 - remote
 - atlanta
@@ -6,7 +6,7 @@ cities:
 - raleigh-durham
 - washington-dc
 commitment: part-time
-cost_description: $1,500 per month
+cost_description: $1,500 per month, $500 prep course, prep course tuition is applied to bootcamp tuition upon acceptance.
 display_name: Flexible Data Science Bootcamp
 duration: 6
 duration_units: months
