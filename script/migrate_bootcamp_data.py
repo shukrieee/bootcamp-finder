@@ -32,12 +32,14 @@ def convert_program_data(bootcamp_slug, program_slug):
     data.update({'description': u'{}'.format(description.decode('utf-8'))})
 
     # Ensure program_slug is correct
-    assert data.get('program_slug') == program_slug, \
-        'Invalid slug for {}: {} ({})'.format(
-            program_slug, data.get('program_slug'), bootcamp_slug)
+    if data.get('program_slug') != program_slug:
+        logger.warn(
+            'Updating program slug for {} from {} to {}'.format(
+                bootcamp_slug, program_slug, data.get('program_slug')))
+
+    slug = data.pop('program_slug')
 
     # Rename/remove keys to fit new style
-    data.pop('program_slug')
     data.pop('tution_units', None)
     data.pop('reviews', None)
     data.pop('promises_job', None)
@@ -50,7 +52,7 @@ def convert_program_data(bootcamp_slug, program_slug):
     data['reports_outcomes'] = boolify_key(data, 'reports_outcomes')
     data['outcomes_verified'] = boolify_key(data, 'outcomes_verified')
 
-    return data
+    return slug, data
 
 
 def convert_bootcamp_data(slug):
@@ -86,8 +88,8 @@ def convert_bootcamp_data(slug):
     all_programs = os.listdir('{}/programs'.format(legacy_folder))
     for program in all_programs:
         try:
-            program_dict = convert_program_data(slug, program)
-            data['programs'][program] = program_dict
+            slug, program_dict = convert_program_data(slug, program)
+            data['programs'][slug] = program_dict
         except AssertionError as exc:
             success = False
             logger.error(
