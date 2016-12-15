@@ -1,3 +1,0 @@
-Our "Introduction to Python Programming" is a great choice for beginners developers. You will be learning a strong foundation of concepts that will allow you grow as a professional coder. Even though it's focused in the Python programming language, concepts acquired in this course will let you jump to pretty much any other technology.
-It includes a solid explanation of Object Oriented Programming concepts, and many other industry standard good practices and tools.
-The program aims to teach you things that you won't find in most of the common resources, like: good practices based on experience, conventions, most used tools, etc.

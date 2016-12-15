@@ -1,8 +1,309 @@
+description: !!python/unicode 'Code Fellows offers world-class software development
+  training in Seattle, Portland, and New York, with more locations to come.
+
+
+  In the one-day Code 101, students can test run a tech career. Code 201 is all about
+  giving students a strong foundation in web development through creating websites
+  with HTML, CSS, JavaScript, and modern frameworks and libraries. Code 301 students
+  learn more advanced technical skills of software development, including working
+  with APIs, building interactive websites, and coding in higher level HTML5, CSS3,
+  and JavaScript.
+
+
+  Code 401 curriculum focuses on a specific area of study: full-stack JavaScript,
+  iOS development, or Python programming. The Professional Development curriculum
+  in every Code 401 equips students with networking and interview skills vital to
+  a successful job search.
+
+
+  The Diversity Scholarship Fund provides additional support for women, veterans,
+  and underserved populations who want to pursue careers in software development.
+
+  '
 display_name: Code Fellows
 founded_year: 2013
+meta-description: Code Fellows reviews and cost information. Find out about Code Fellows
+  in Seattle, Portland, and Chicago acceptance rates.
 primary_email: admissions@codefellows.com
+programs:
+  code-101:
+    admissions: Open
+    cities:
+    - portland
+    - seattle
+    - new-york
+    commitment: part-time
+    cost_description: $99
+    description: !!python/unicode 'Code 101 is designed for anyone considering a new
+      career in software development. In this one-day workshop, you will get a taste
+      of a day in the life of a software developer, with a sneak peek of the Code
+      Fellows learning experience, overview of how websites are built, and hands-on
+      training to code a webpage using industry-standard tools and professional coding
+      practices.
+
+
+      At the end of this workshop, you will know the basics of what it means to be
+      a professional software developer and how HTML, CSS, and JavaScript work together
+      to create the modern web. After creating a complete website with a team and
+      hearing from professional software developers in the industry, each participant
+      will walk away knowing what to expect from a career in coding and the Code Fellows
+      program.
+
+      '
+    display_name: Intro to Software Development & Careers in Tech
+    duration: 1
+    duration_units: day
+    financing: false
+    guarantee: false
+    outcomes_verified: false
+    placement: null
+    reports_outcomes: false
+    scholarships: null
+    topics:
+    - html
+    - css
+    - git
+    tuition: 99
+    tuition_units: USD
+  code-201:
+    admissions: Application, phone interview, code challenge
+    cities:
+    - portland
+    - seattle
+    commitment: full-time
+    cost_description: $3,500
+    description: "In Code 201, you will build a strong software development foundation\
+      \ by learning how to use HTML, CSS, JavaScript, and various libraries to create\
+      \ fully-functional web apps.\n\nThrough studying computer science concepts\u2014\
+      such as data structures and algorithms\u2014and common development tools\u2014\
+      including Atom, Git, and Terminal\u2014you will learn the methods and tools\
+      \ of professional software developers.\n\nThis course is offered as a full-time\
+      \ course over four weeks, or a part-time course over eight weeks. Scholarships\
+      \ and financing are available.\n"
+    display_name: Foundations of Software Development
+    duration: 4
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: 90%+ placement rate
+    reports_outcomes: false
+    scholarships: For women, U.S. veterans, and minorities
+    topics:
+    - html
+    - css
+    - javascript
+    - git
+    - algorithms
+    tuition: 3500
+    tuition_units: USD
+  code-301:
+    admissions: Application, phone interview, code challenge
+    cities:
+    - portland
+    - seattle
+    commitment: full-time
+    cost_description: $4,500
+    description: !!python/unicode 'Code 301 takes intermediate developers and trains
+      them in concepts beyond the syntax of programming languages, covering how to
+      use professional-grade tools and APIs to streamline the development process
+      and build large-scale, interactive web applications.
+
+
+      In this course, you will study the common core of software development, including
+      MVC, Object-Oriented Programming, functional programming, asynchronous programming,
+      and much more in this intensive course.
+
+
+      Code 301 is offered as a full-time course over four weeks, or a part-time course
+      over eight weeks. Scholarships and financing are available.
+
+      '
+    display_name: Intermediate Software Development
+    duration: 4
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: null
+    reports_outcomes: false
+    scholarships: For women, U.S. veterans, and minorities
+    topics:
+    - html
+    - css
+    - javascript
+    - apis
+    - git
+    - mvc
+    - responsive-design
+    - algorithms
+    - ajax
+    - sql
+    tuition: 4500
+    tuition_units: USD
+  code-401-full-stack-javascript:
+    admissions: Application, phone interview, code challenge
+    cities:
+    - portland
+    - seattle
+    commitment: full-time
+    cost_description: $12,000
+    description: !!python/unicode 'Build full-stack web applications with server-side
+      Node.js and modern, front-end libraries and frameworks, including AngularJS.
+
+
+      In this intensive course, you will study professional software development techniques
+      and practices to advance your skills in JavaScript. This course includes professional
+      development curriculum that will get you ready for your job search, plus job
+      search assistance after graduation.
+
+
+      At the end of this course, you will be able to:
+
+
+      - Build back-end (server-side) web applications using Node.js and standard developer
+      and server tools to build consistent and maintainable REST APIs.
+
+      - Build front-end (client-side) web applications using AngularJS and Webpack
+      to create a user interface.
+
+      - Understand Computer Science fundamentals to differentiate between algorithmic
+      solutions when building applications.
+
+      - Create a successful online brand, network, create an impressive resume, succeed
+      in personal and technical interviews, and conduct a successful job search.
+
+      '
+    display_name: Advanced Software Development in Full-Stack JavaScript
+    duration: 10
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: 90%+ placement rate
+    reports_outcomes: true
+    scholarships: For women, U.S. veterans, and minorities
+    topics:
+    - javascript
+    - html
+    - css
+    - sass
+    - unix
+    - mongodb
+    - express
+    - angular-js
+    - node-js
+    - git
+    - nosql
+    - rest
+    - algorithms
+    - jasmine
+    - ajax
+    - json
+    tuition: 12000
+    tuition_units: USD
+  code-401-ios:
+    admissions: Application, phone interview, code challenge
+    cities:
+    - portland
+    - seattle
+    commitment: full-time
+    cost_description: $12,000
+    description: !!python/unicode 'Take your app ideas from concept to completion
+      and learn the languages, tools, frameworks, and best practices used by mobile
+      developers around the world.
+
+
+      Throughout this intensive course, you will study professional techniques and
+      practices to advance your skills in iOS development. This course includes professional
+      development curriculum that will get you ready for your job search, plus job
+      search assistance after graduation.
+
+
+      At the end of this course, you will be able to:
+
+
+      - Create mobile apps in Objective-C and Swift, Apple''s new programming language.
+
+      - Use industry tools and frameworks such as Cocoa, Xcode, UIKit, Git, and more.
+
+      - Know how to properly use UIKit, asynchronous code, CoreImage, NSURLSession
+      and JSON, MapKit and CoreLocation, AutoLayout, Source Control, Core Data, Animation,
+      and the app submission process.
+
+      - Create a successful online brand, network, create an impressive resume, succeed
+      in personal and technical interviews, and conduct a successful job search.
+
+      '
+    display_name: Advanced Software Development in iOS
+    duration: 10
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: 90%+ placement rate
+    reports_outcomes: true
+    scholarships: For women, U.S. veterans, and minorities
+    topics:
+    - swift
+    - objective-c
+    - xcode
+    - cocoa
+    - git
+    - rest
+    - json
+    - sdks
+    tuition: 12000
+    tuition_units: USD
+  code-401-python:
+    admissions: Application, phone interview, code challenge
+    cities:
+    - portland
+    - seattle
+    commitment: full-time
+    cost_description: $12,000
+    description: !!python/unicode 'Learn the language used at NASA, Instagram, Dropbox,
+      and other big-data companies as you build professional-grade apps in Python.
+
+
+      Throughout this intensive course, you will study professional software development
+      techniques and practices as you advance your skills in Python. This course includes
+      professional development curriculum that will get you ready for your job search,
+      plus job search assistance after graduation.
+
+
+      At the end of this course, you will be able to:
+
+
+      - Write clean, well-tested, advanced Python code using industry-standard software
+      engineering patterns.
+
+      - Understand Computer Science fundamentals in order to differentiate between
+      algorithmic solutions when building applications.
+
+      - Create a successful online brand, network, create an impressive resume, succeed
+      in personal and technical interviews, and conduct a successful job search
+
+      '
+    display_name: Advanced Software Development in Python
+    duration: 10
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: 90%+ placement rate
+    reports_outcomes: true
+    scholarships: For women, U.S. veterans, and minorities
+    topics:
+    - python
+    - pyramid
+    - django
+    - rest
+    - git
+    - algorithms
+    tuition: 12000
+    tuition_units: USD
 slug: code-fellows
 tagline: Learn to Code. Get a Job. Start Here!
-website: http://www.codefellows.org/
 twitter: codefellows
-meta-description: "Code Fellows reviews and cost information. Find out about Code Fellows in Seattle, Portland, and Chicago acceptance rates."
+website: http://www.codefellows.org/

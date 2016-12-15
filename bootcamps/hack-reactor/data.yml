@@ -1,8 +1,81 @@
+description: !!python/unicode 'Hack Reactor wants to turn you into a software engineer
+  by teaching you CS
+
+  fundamentals, full-stack JavaScript and engineering best practices. Through
+
+  lectures, toy problems and large projects, students learn cutting edge
+
+  technologies, and become adept at teaching themselves new languages, libraries
+
+  and frameworks. Students pair program for much of the course, allowing them to
+
+  learn from one another and fostering crucial communication skills. There are
+
+  also fun activities that happen in the evening like meetups and guest
+
+  speakers.
+
+
+  At a macro level, you will spend the first six weeks learning basic skills and
+
+  learning the mindset of engineers. The next six weeks are devoted to
+
+  completing a personal project, a short group project and a large group
+
+  project, giving you experience programming like you would at a developer job.
+
+  At the end of the program, there is a demo day to show off your projects to
+
+  potential employers.
+
+
+  While a coding background isn''t a requirement, requires you to complete an
+
+  admissions coding challenge and a technical interview.
+
+
+  '
 display_name: Hack Reactor
 founded_year: 2012
+meta-description: Hack Reactor reviews for San Francisco campus and Remote Beta. Find
+  out about Hack Reactor cost, acceptance, and curriculum.
 primary_email: info@hackreactor.com
+programs:
+  hack-reactor-core:
+    admissions: Application, coding tests, interviews
+    cities:
+    - san-francisco
+    - remote
+    commitment: full-time
+    cost_description: $17,780
+    description: !!python/unicode 'The 12-week San Francisco-based program offers
+      opportunities for recruits to
+
+      master the full stack while building a variety of apps, games, and application
+
+      engines. Hack Reactor graduates earn an average annual salary of $105,000.
+
+
+      '
+    display_name: Hack Reactor Core
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: 99% of graduates land a job within 3 months of graduation
+    reports_outcomes: false
+    scholarships: For veterans
+    topics:
+    - javascript
+    - html
+    - css
+    - react
+    - node-js
+    - algorithms
+    tuition: 17780
+    tuition_units: USD $
 slug: hack-reactor
 tagline: The CS degree for the 21st century
-website: http://www.hackreactor.com
 twitter: HackReactor
-meta-description: "Hack Reactor reviews for San Francisco campus and Remote Beta. Find out about Hack Reactor cost, acceptance, and curriculum."
+website: http://www.hackreactor.com

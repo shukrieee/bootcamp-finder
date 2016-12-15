@@ -1,8 +1,55 @@
+description: "RockIT is an immersive, 12\u2010week bootcamp in web development. This\
+  \ full\u2010time\nprogram is focused on building hands\u2010on skills using real\
+  \ world examples and\nprojects. It teaches the skills you need to be successful\
+  \ as an entry level\nweb development professional.\n\nTheir instructors are experienced\
+  \ web developers who are working closely with\nlocal employers so that RockIT can\
+  \ help meet the growing demand for full\u2010stack\nweb developers. Rockit is very\
+  \ focused on getting you hired as a developer\nupon graduation. They are employer\
+  \ presentations, networking event and mock\ninterviews that will thoroughly prepare\
+  \ you for the real interview process.\n\n"
 display_name: RockIT
 founded_year: 2014
+meta-description: Read reviews about RockIT coding bootcamp, find out key information
+  including tuition cost, student stats, and more."
 primary_email: rockit@apollo.edu
+programs:
+  web-development:
+    admissions: Application, interview, prep work
+    cities:
+    - phoenix
+    commitment: full-time
+    cost_description: $8,000
+    description: !!python/unicode 'RockIt Bootcamp, in sunny Phoenix, Arizona, teaches
+      recruits the skills they
+
+      need to succeed as web developers. During 12 full-time weeks of study and
+
+      projects, students will also meet with prospective employers and participate
+
+      in many career-building opportunities such as mock interviews. RockIt Bootcamp
+
+      graduates will leave with a portfolio of group and individual projects.
+
+
+      '
+    display_name: 'Web Development '
+    duration: 12
+    duration_units: weeks
+    financing: false
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - javascript
+    - css
+    - php
+    - mysql
+    - html
+    tuition: 8000
+    tuition_units: USD
 slug: rockit
 tagline: null
-website: https://www.rockitbootcamp.com/
 twitter: rockit_bootcamp
-meta-description: Read reviews about RockIT coding bootcamp, find out key information including tuition cost, student stats, and more."
+website: https://www.rockitbootcamp.com/

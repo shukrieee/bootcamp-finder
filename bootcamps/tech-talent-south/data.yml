@@ -1,8 +1,118 @@
+description: !!python/unicode "Tech Talent South (TTS) is a Charlotte-based coding\
+  \ bootcamp dedicated to fostering talent in technology throughout the southeast\
+  \ United States and aid the region in evolving its high-tech hubs. To make this\
+  \ dream a reality, TTS has launched campuses in high-growth technology cities including\
+  \ Charlotte, Atlanta, Raleigh, Asheville, New Orleans, Dallas, Jacksonville, Phoenix,\
+  \ San Antonio, Winston-Salem, and Columbus. These campuses are in the heart of each\
+  \ of their respective tech communities and provide students with amazing opportunities\
+  \ to make connections in the local tech scenes.\n\nTTS truly values community and\
+  \ fostering a strong ecosystem through dynamic and collaborative educational and\
+  \ networking events that bring local startup/tech companies and local professionals\
+  \ together. TTS students are able to immerse themselves in the community, fostering\
+  \ lasting personal and career related relationships with the best people in the\
+  \ community.\n\nOur coding courses feature the most practical and widely used languages,\
+  \ as well as Ruby on Rails (ROR) an insanely popular Internet application framework.\
+  \ ROR has been utilized in creating tools for some of our favorite applications\
+  \ like Hulu and Twitter. Students also learn HTML/CSS and interactivity-enhancing\
+  \ JavaScript to create websites with superior web experience. The Full Time Code\
+  \ Immersion Class meets four mornings a week and includes office hours with instructors\
+  \ and the full access to shared working spaces. The Part Time class meets two nights\
+  \ a week and is perfect for those currently working Full Time.\n\nTech Talent South\
+  \ gives students partial, need-based scholarships. Apply to one of the scholarships\
+  \ through the links below:\n<ul>\n  <li><a rel=\"nofollow\" target=\"_blank\" href=\"\
+  http://form.jotformpro.com/form/40617774908969/?utm_source=bootcamp-finder\">Female\
+  \ Only Scholarship</a></li>\n  <li><a rel=\"nofollow\" target=\"_blank\" href=\"\
+  https://form.jotform.com/41735358393967/?utm_source=bootcamp-finder\">Rockstar Scholarship</a></li>\n\
+  </ul>\n"
 display_name: Tech Talent South
 founded_year: 2014
+meta-description: Read graduate reviews from Tech Talent South. Find out about Tech
+  Talent South job placement and tuition in Dallas, Atlanta, Raleigh, and Phoenix.
 primary_email: info@techtalentsouth.com
+programs:
+  code-immersion:
+    admissions: Application, interview
+    cities:
+    - asheville
+    - atlanta
+    - charlotte
+    - dallas
+    - jacksonville
+    - new-orleans
+    - phoenix
+    - san-antonio
+    - raleigh
+    - winston-salem
+    commitment: full-time
+    cost_description: $6,750
+    description: !!python/unicode 'Tech Talent South offers their eight-week code
+      immersion bootcamps in nine
+
+      popular Southern destinations, such as New Orleans, Asheville, Charlotte,
+
+      and Raleigh. No previous coding experience is necessary to succeed at Tech
+
+      Talent South. Students will have opportunities to do a lot more than just
+
+      code, including company tours and networking events.
+
+
+      '
+    display_name: Code Immersion
+    duration: 8
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'Yes'
+    topics:
+    - ruby-on-rails
+    - javascript
+    - css
+    - html
+    - ui
+    - ux
+    - git
+    tuition: 6750
+    tuition_units: USD
+  javascript-app-dev:
+    admissions: Application, interview
+    cities:
+    - atlanta
+    - charlotte
+    commitment: part-time
+    cost_description: $4,250
+    description: !!python/unicode 'Tech Talent South currently offers their part-time
+      ten-week JavaScript Application Development class in Atlanta and Charlotte.
+      Class meets twice a week in the evenings, and no previous coding experience
+      is necessary to succeed in this class. Students will have opportunities to do
+      a lot more than just
+
+      code, including company tours and networking events.
+
+
+      '
+    display_name: JavaScript Application Development
+    duration: 10
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'Yes'
+    topics:
+    - javascript
+    - html
+    - css
+    - ui
+    - ux
+    - git
+    tuition: 4250
+    tuition_units: USD
 slug: tech-talent-south
 tagline: Learn to code and do something big!
-website: http://techtalentsouth.com
 twitter: TechTalentSouth
-meta-description: "Read graduate reviews from Tech Talent South. Find out about Tech Talent South job placement and tuition in Dallas, Atlanta, Raleigh, and Phoenix."
+website: http://techtalentsouth.com

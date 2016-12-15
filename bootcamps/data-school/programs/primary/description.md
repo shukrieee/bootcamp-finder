@@ -1,1 +1,0 @@
-Data School's online data course focuses on machine learning using Python, with the specific goal of helping students learn to analyze large amounts of text-based data. By teaching several algorithmic approaches, augmented by Python's robust data-crunching library ecosystem, Data School can give students valuable data science experience.

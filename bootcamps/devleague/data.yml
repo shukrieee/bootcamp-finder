@@ -1,8 +1,44 @@
+description: "Dev League is Hawaii\u2019s first software development boot camp to\
+  \ increase tech opportunities in Hawaii and beyond. Our\ncompany offers an immersive\
+  \ course designed to equip motivated people with the\nskills they need to find a\
+  \ career in the 21st century and bridge the\nemployment and education gap all in\
+  \ the span of 12-weeks. Upon completion, Dev\nLeague directly introduces the graduates\
+  \ to hiring companies.\n\n"
 display_name: Dev League
 founded_year: 2015
+meta-description: Discover about Dev League in Hawaii. Read reviews from graduates
+  and get info about job placement and careers.
 primary_email: contact@devleague.com
+programs:
+  primary:
+    admissions: Application
+    cities:
+    - honolulu
+    commitment: full-time
+    cost_description: $10,000
+    description: "Dev League\u2019s 12-week full-stack web development bootcamp is\
+      \ located in Hawaii,\nbut students probably won\u2019t have too much time to\
+      \ soak up any sunshine. The\nprogram takes up 11 hours a day, six days a week.\
+      \ However, Dev League\ngraduates will have job-worthy experience in more than\
+      \ 20 programming\nlanguages and frameworks.\n\n"
+    display_name: Primary
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: For women
+    topics:
+    - javascript
+    - html
+    - css
+    - algorithms
+    - git
+    tuition: 10000
+    tuition_units: USD
 slug: devleague
 tagline: null
-website: http://devleague.com
 twitter: devleaguehawaii
-meta-description: "Discover about Dev League in Hawaii. Read reviews from graduates and get info about job placement and careers."
+website: http://devleague.com

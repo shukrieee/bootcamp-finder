@@ -88,8 +88,8 @@ def convert_bootcamp_data(slug):
     all_programs = os.listdir('{}/programs'.format(legacy_folder))
     for program in all_programs:
         try:
-            slug, program_dict = convert_program_data(slug, program)
-            data['programs'][slug] = program_dict
+            program_slug, program_dict = convert_program_data(slug, program)
+            data['programs'][program_slug] = program_dict
         except AssertionError as exc:
             success = False
             logger.error(

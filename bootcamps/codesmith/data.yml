@@ -1,7 +1,47 @@
+description: "Codesmith is the top-rated coding bootcamp in the US - the average salary\
+  \ \nof graduates is $103k with a 96% hiring rate. Codesmith teaches computer \n\
+  science, full-stack JavaScript (notably React and Node) and software \narchitecture\
+  \ preparing graduates for mid to senior engineering positions. \nThe course also\
+  \ features preparatory material, extensive hiring preparation, \nand ongoing support\
+  \ with students\u2019 job searches.\n\nTo help prepare applicants for their technical\
+  \ interview, Codesmith offers \na series of free weekly classes and lectures such\
+  \ as Javascript - the Hard \nParts, and Algorithms and Whiteboarding sessions.\n\
+  \nAdditionally, Codesmith is committed to strengthening and growing a broad \nand\
+  \ deep community of software engineers from all backgrounds, and thus \noffers scholarships\
+  \ for women, under-represented minorities, and veterans \nto help bridge the gap."
 display_name: Codesmith
 founded_year: 2015
 primary_email: hello@codesmith.com
+programs:
+  primary:
+    admissions: Application, coding challenge, interview
+    cities:
+    - los-angeles
+    commitment: full-time
+    cost_description: $17,200
+    description: !!python/unicode "Codesmith is a 12 week program in Los Angeles teaching\
+      \ full stack \nJavaScript and software engineering, and preparing graduates\
+      \ for \nroles as leading software engineers."
+    display_name: Primary
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: 96% hiring rate
+    reports_outcomes: false
+    scholarships: For women, under-represented minorities, and veterans
+    topics:
+    - javascript
+    - jquery
+    - react
+    - node-js
+    - algorithms
+    - html
+    - css
+    tuition: 17200
+    tuition_units: USD $
 slug: codesmith
 tagline: The Masters program of coding bootcamps
-website: http://www.codesmith.io
 twitter: codesmithio
+website: http://www.codesmith.io

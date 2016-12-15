@@ -1,8 +1,80 @@
+description: !!python/unicode 'If you are accepted into Dev Bootcamp, you will definitely
+  be prepared. They
+
+  have two phases of preparation. Prep and Phase 0. Phase 0 is a 9 week phase
+
+  requiring about 15-20 hours of work a week. During this phase, you will be
+
+  working with teachers via video chats and programming with other students from
+
+  your class. It should feel a lot like Dev Bootcamp, but remote.
+
+  In addition to this, they offer prep material for students who want to do
+
+  preparation before Phase 0. You can take a look at some of that prep work
+
+  here.
+
+
+  Aside from the prep work, once you get on-site, Dev Bootcamp practices a
+
+  flipped classroom. A traditional classroom experience is structured so you
+
+  learn skills in a group and then get hands on practice as an individual. At
+
+  Dev Bootcamp, you learn individually through videos and tutorials and then
+
+  practice the skills you learned in group projects.
+
+
+  Applications are accepted on a rolling basis. You will need to create an
+
+  account to apply.
+
+  '
 display_name: Dev Bootcamp
 founded_year: 2012
+meta-description: Reviews of DevBootcamp verified from graduates and students. Find
+  out about DevBootcamp in Chicago, NYC, San Diego, and San Francisco.
 primary_email: hello@devbootcamp.com
+programs:
+  primary:
+    admissions: Application, coding challenge, interview
+    cities:
+    - austin
+    - new-york
+    - chicago
+    - seattle
+    - san-francisco
+    - san-diego
+    commitment: full-time
+    cost_description: $13,950 in NYC & SF and $12,700 everywhere else
+    description: "No experience is necessary to enlist in Dev Bootcamp\u2019s nine-week\
+      \ intensive\nprogram, which includes 80+ hours of weekly studies and hands-on\
+      \ coding\nprojects. The bootcamp also includes one week of career prep, and\
+      \ nine more\nweeks of part-time studies (that segment of the program can be\
+      \ completed\nremotely.) Dev Bootcamp graduates have landed jobs as junior developers\
+      \ at an\narray of small, medium, and giant companies \u2013 including Apple\
+      \ and Twitter.\n\n"
+    display_name: Primary
+    duration: 10
+    duration_units: weeks
+    financing: false
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: For women, minorities, and veterans
+    topics:
+    - ruby-on-rails
+    - javascript
+    - jquery
+    - git
+    - html
+    - css
+    tuition: 13950
+    tuition_units: USD $
 slug: dev-bootcamp
 tagline: In 9 Intensive Weeks, You Will Become a Web Developer
-website: http://www.devbootcamp.com
 twitter: devbootcamp
-meta-description: "Reviews of DevBootcamp verified from graduates and students. Find out about DevBootcamp in Chicago, NYC, San Diego, and San Francisco."
+website: http://www.devbootcamp.com

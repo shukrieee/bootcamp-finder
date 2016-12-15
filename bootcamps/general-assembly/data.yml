@@ -1,8 +1,205 @@
+description: !!python/unicode 'General Assembly offers Web Development Immersive class
+  in 8 cities around the
+
+  world. Unlike other bootcamps, GA''s curriculum spends some time focusing on CS
+
+  topics like runtimes of algorithms and data structures. This is great for
+
+  students who''ve learned a lot of syntax on their own, but need to get more
+
+  knowledge of best practices in computing.
+
+
+  They also provide job preparation from reviewing portfolios to verbal
+
+  programming quizzes. Additionally, after the end of the course, they host a
+
+  meet and greet with potential employers and also open applications to the GA
+
+  apprenticeship program. The program is
+
+  basically a 12 week paid apprenticeship with a tech company.
+
+
+  To apply to the program, you first fill out an application online. You will
+
+  then have an informational and fit phone interview. Afterwords, you will need
+
+  to complete pre-work and have another interview. This interview will be more
+
+  around skills including the pre-work and logic problems. This process might
+
+  vary based on which city you plan on applying to.
+
+
+  '
 display_name: General Assembly
 founded_year: 2011
+meta-description: Read reviews of General Assembly courses. Find out about worldwide
+  General Assembly classes at locations including NYC, Atlanta, DC, Boston, London,
+  Melbourne, and more. Learn web development, data science, UX design, or Android
+  development.
 primary_email: admissions@generalassemb.ly
+programs:
+  android-development-immersive:
+    admissions: Open to anyone
+    cities:
+    - atlanta
+    - austin
+    - boston
+    - chicago
+    - hong-kong
+    - london
+    - los-angeles
+    - san-francisco
+    - seattle
+    - sydney
+    - washington-dc
+    commitment: full-time
+    cost_description: $13,500
+    description: "General Assembly\u2019s three-month bootcamp prepares graduates\
+      \ for careers as\nAndroid developers. The curriculum demands that students build\
+      \ real Android\napps, using their newly acquired skills in JavaScript, API,\
+      \ XML, and material\ndesign. Extensive career counseling services along with\
+      \ professional\nnetworking opportunities are also a key part of General Assembly\u2019\
+      s Android\ndevelopment intensive.\n\n"
+    display_name: Android Development Immersive
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - java
+    - android
+    - ui
+    - ux
+    tuition: 13500
+    tuition_units: ''
+  data-science-immersive:
+    admissions: Open to anyone
+    cities:
+    - atlanta
+    - austin
+    - boston
+    - chicago
+    - hong-kong
+    - london
+    - los-angeles
+    - new-york
+    - san-francisco
+    - seattle
+    - sydney
+    - washington-dc
+    commitment: null
+    cost_description: $14,500
+    description: "The data science immersive at General Assembly teaches the skills\
+      \ necessary\nfor bootcamp recruits to successfully analyze \u2013 and present\
+      \ \u2013 data. Just a few\nof the topics covered include Python, Git, UNIX,\
+      \ and relational databases.\nStudents will receive personalized career counseling\
+      \ (including resume and\ncover letter services) and meet with a variety of industry\
+      \ professionals.\n\n"
+    display_name: Data Science Immersive
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - git
+    - unix
+    - sql
+    - python
+    - big-data
+    - data-science
+    tuition: 14500
+    tuition_units: null
+  user-experience-design-immersive:
+    admissions: Open to anyone
+    cities:
+    - atlanta
+    - austin
+    - boston
+    - chicago
+    - hong-kong
+    - london
+    - los-angeles
+    - new-york
+    - san-francisco
+    - seattle
+    - sydney
+    - washington-dc
+    commitment: part-time
+    cost_description: $11,500
+    description: !!python/unicode '
+
+
+      '
+    display_name: User Experience Design Immersive
+    duration: 10
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed.
+    reports_outcomes: false
+    scholarships: Yes - Need-based
+    topics:
+    - ui
+    - ux
+    - prototyping
+    - testing
+    tuition: 11500
+    tuition_units: ''
+  web-development-immersive:
+    admissions: Open to anyone
+    cities:
+    - london
+    - sydney
+    - boston
+    - san-francisco
+    - new-york
+    - hong-kong
+    - los-angeles
+    - austin
+    - chicago
+    - washington-dc
+    - seattle
+    - atlanta
+    - denver
+    - melbourne
+    - singapore
+    commitment: full-time
+    cost_description: $13,500
+    description: "General Assembly\u2019s web development bootcamp covers a variety\
+      \ of career-crucial\ntopics including JavaScript and Rails. Intensive career\
+      \ counseling is also\npart of the program. General Assembly graduates will have\
+      \ completed several\nindividual and group web development projects, including\
+      \ a primary portfolio\nproject.\n\n"
+    display_name: Web Development Immersive
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: For low-income students
+    topics:
+    - ruby-on-rails
+    - javascript
+    - html
+    - css
+    - sql
+    tuition: 13500
+    tuition_units: USD $
 slug: general-assembly
 tagline: Transforming Thinkers into Creators
-website: http://www.generalassemb.ly
 twitter: GA
-meta-description: "Read reviews of General Assembly courses. Find out about worldwide General Assembly classes at locations including NYC, Atlanta, DC, Boston, London, Melbourne, and more. Learn web development, data science, UX design, or Android development."
+website: http://www.generalassemb.ly

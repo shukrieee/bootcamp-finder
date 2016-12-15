@@ -1,8 +1,63 @@
+description: !!python/unicode 'DevPoint Labs currently has two different bootcamps,
+  Web Development and iOS.
+
+  They are really focused on giving their students a hands on experience. They
+
+  teach using project based lectures, pair programming, hackathons and by
+
+  building your own ideas and businesses.
+
+
+  You also get some pretty cool perks. You get 24 hour access to their facility
+
+  (w/ food and drinks), access to Treehouse learning materials, and attendance
+
+  at fun and educational events happening in the space.
+
+
+  Applying is super straightforward. You apply online, if they are interested
+
+  they will schedule an interview with you.
+
+  '
 display_name: DevPoint Labs
 founded_year: 2013
+meta-description: DevPoint Labs reviews, job placement info, and scholarships. Read
+  about DevPoint Labs coding bootcamp in Las Vegas.
 primary_email: contact@devPointLabs.com
+programs:
+  web-development:
+    admissions: Application
+    cities:
+    - salt-lake-city
+    - las-vegas
+    commitment: full-time
+    cost_description: $9,500
+    description: "Students who finish Devpoint Labs\u2019 11-week bootcamp in Salt\
+      \ Lake City, Utah,\nwill be prepared for jobs as entry-level developers. Teamwork\
+      \ is a huge\ncomponent of the program. Devpoint Labs also helps its students\
+      \ meet potential\nemployers, and offers reasonably priced student housing options.\n\
+      \n"
+    display_name: Web Development
+    duration: 11
+    duration_units: weeks
+    financing: false
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - ruby-on-rails
+    - javascript
+    - sql
+    - git
+    - react
+    - html
+    - css
+    tuition: 9500
+    tuition_units: USD $
 slug: devpoint-labs
 tagline: Learn it. Code it, Build it.
-website: http://devpointlabs.com
 twitter: DevPointLabs
-meta-description: "DevPoint Labs reviews, job placement info, and scholarships. Read about DevPoint Labs coding bootcamp in Las Vegas."
+website: http://devpointlabs.com

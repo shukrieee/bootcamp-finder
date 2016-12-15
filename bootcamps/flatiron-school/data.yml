@@ -1,8 +1,139 @@
+description: !!python/unicode 'Flatiron School is a great place to learn Web and iOS
+  Development. Expect to
+
+  start learning even before the first day of the bootcamp. You will be asked to
+
+  complete 50+ hours of prework before starting either program. You can see the
+
+  prework online to get a feel for it. As
+
+  a caveat, expect to pay a little bit extra outside of tuition to complete the
+
+  pre-work.
+
+
+  Both programs are full-time and are broken out into three units. The first
+
+  unit teaches you fundamentals. Expect to learn these fundamentals by doing
+
+  lots of pair programming and
+
+  group programming (though there may be some solo pieces in the iOS class). The
+
+  second unit consists of building projects to reinforce the fundamentals. The
+
+  final piece is either a specialization in the Web Development course or a
+
+  Capstone Project in the iOS course. Specialization simply refers to picking
+
+  something you want to master and going for it. The Capstone project is working
+
+  with a team to build an app for a startup. In addition to just teaching the
+
+  language, Flatiron School teaches you best practices and gets you integrated
+
+  with the tech community. They fundamentally believe that you should learn how
+
+  to learn, not just learn a skill.
+
+
+  They are also very passionate about providing the highest quality curriculum.
+
+  All of their teachers have all been TA''s with their program first. They also
+
+  take 4-6 weeks in between sessions to work on teacher training and curriculum
+
+  development.
+
+
+  Admission for the school is done on a rolling basis so the earlier you apply
+
+  the better.
+
+
+  '
 display_name: Flatiron School
 founded_year: 2012
+meta-description: Read verified graduate reviews of Flatiron School in NYC. Information
+  about Flatiron School tuition cost, prework details, and coding interviews.
 primary_email: info@flatironschool.com
+programs:
+  ios-program:
+    admissions: Application, interview, coding challenge, 150 hours of prep work
+    cities:
+    - new-york
+    commitment: full-time
+    cost_description: $15,000
+    description: "The iOS course is a 12 week, full time, intensive program, designed\
+      \ to give\nyou the equivalent skillset and experience of an entry-level iOS\
+      \ Objective-C\ndeveloper. There is no prior experience necessary. Due to the\
+      \ amount of\nmaterial covered and our focus on collaboration, you are required\
+      \ to be on\ncampus Monday thru Friday, 9AM-6PM throughout the duration of the\
+      \ program.\nOutside of class there is plenty of work to be done, but that's\
+      \ the minimum.\n\nGraduates of the Flatiron School\u2019s iOS development bootcamp\
+      \ have landed jobs\nat prestigious companies such as The New York Times, Etsy,\
+      \ and Boeing. The on-\ncampus curriculum includes Git, custom interfaces, and\
+      \ test-driven\ndevelopment. Flatiron School iOS development students also keep\
+      \ blogs and give\ntechnical presentations at Meetups.\n\n"
+    display_name: iOS Program
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: true
+    outcomes_verified: true
+    placement: 95% of graduates land jobs within 120 days of graduation
+    reports_outcomes: true
+    scholarships: For women and minorities
+    topics:
+    - objective-c
+    - xcode
+    - sdks
+    - git
+    - tdd
+    - ios
+    tuition: 15000
+    tuition_units: USD $
+  web-development:
+    admissions: Application, interview, coding challenge, 150 hours of prep work
+    cities:
+    - new-york
+    commitment: full-time
+    cost_description: $15,000
+    description: "The Ruby program is a 12 week, full time, intensive program, designed\
+      \ give you\nthe equivalent skillset and experience of an entry-level Ruby developer.\n\
+      Because we focus heavily on collaboration, you are required to be on campus\n\
+      Monday Thru Friday, 9AM-6PM throughout the duration of the program. There is\n\
+      certainly a fair amount of work to be done beyond those hours (many students\n\
+      choose to stay late and come in on weekends), but that\u2019s the minimum.\n\
+      \nPrior to arriving to campus, you\u2019ll also complete 4 weeks (80-120 hours\
+      \ in\ntotal) of prework assignments at home. This, plus the following 12 weeks\
+      \ of\non-campus learning, amounts to a 16 week commitment.\n\nThe Flatiron School\
+      \ prepares students for its web development bootcamp with\n150 hours of pre-work,\
+      \ which can be completed remotely before beginning the\nintensive. The pre-work\
+      \ prepares even those without any web development\nexperience to spend their\
+      \ time on campus studying more advanced topics such as\nRuby. The Flatiron School\u2019\
+      s web development curriculum also includes plenty of\nintensive career counseling\
+      \ and interview training.\n\n"
+    display_name: Full Stack Web Development
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: true
+    outcomes_verified: true
+    placement: 95% of graduates land jobs within 120 days of graduation
+    reports_outcomes: true
+    scholarships: For women and minorities
+    topics:
+    - ruby-on-rails
+    - algorithms
+    - html
+    - css
+    - javascript
+    - sql
+    - git
+    tuition: 15000
+    tuition_units: USD $
 slug: flatiron-school
 tagline: Learn to Build Awesome Things with Code
-website: http://www.flatironschool.com
 twitter: FlatironSchool
-meta-description: "Read verified graduate reviews of Flatiron School in NYC. Information about Flatiron School tuition cost, prework details, and coding interviews."
+website: http://www.flatironschool.com

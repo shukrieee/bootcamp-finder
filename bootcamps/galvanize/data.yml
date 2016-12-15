@@ -1,8 +1,142 @@
+description: !!python/unicode 'Galvanize is a company that invests in startups, hosts
+  tech events in its
+
+  space, and helps to educate the tech community. gSchool is a part of
+
+  Galvanize''s mission to teach tech. It accepts beginners who are passionate
+
+  about learning but they do caveat that by saying most of their students have a
+
+  college degree and a technical background.
+
+
+  While there isn''t really a day to day breakdown of what you will be doing,
+
+  expect to spend all day working with instructors learning to code. Outside of
+
+  the time you will spend in class, you should also expect an additional 20-30
+
+  hours a week of reading and project work.
+
+
+  In order to apply, you should fill out their online application (you need to
+
+  sign in to do this...if they aren''t accepting applications then the sign in
+
+  doesn''t work...or generally just doesn''t work). It might take up to two weeks
+
+  to hear back about your application. If you pass their qualifications, you
+
+  will be invited for an hour long in person or video chat. You should expect a
+
+  final decision in about a week. Once you get an offer you have one week to
+
+  submit a deposit to save your space.
+
+
+  '
 display_name: Galvanize
 founded_year: 2011
+meta-description: Galvanize coding bootcamp reviews, tuition cost, and campus information.
+  Learn about Galvanize in NYC, SF, and other cities.
 primary_email: info@gschool.it
+programs:
+  data-engineering:
+    admissions: Application, coding challenge, 2 technical interviews
+    cities:
+    - denver
+    - austin
+    - seattle
+    - san-francisco
+    commitment: full-time
+    cost_description: $16,000
+    description: "Galvanize\u2019s 12-week data engineering bootcamp prepares graduates\
+      \ not only for\ncareers as data engineers, but also other possible roles including\
+      \ software\nengineer, data scientist, machine learning engineer, and data product\
+      \ manager.\nStudents have opportunities to network with potential employers\
+      \ during career\nday. More than 75 companies have hired Galvanize bootcamp graduates.\n\
+      \n"
+    display_name: Data Engineering
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: For women, minorities, and veterans
+    topics:
+    - big-data
+    - mapreduce
+    - java
+    tuition: 16000
+    tuition_units: USD
+  data-science:
+    admissions: Application
+    cities:
+    - denver
+    - austin
+    - seattle
+    - san-francisco
+    commitment: full-time
+    cost_description: $16,000
+    description: "During three months of study, members of Galvanize\u2019s data science\
+      \ bootcamp\nwill work through actual data sets to learn skills such as data\
+      \ munging,\nmodeling, communication, validation, and visualization. At least\
+      \ 94% of\nGalvanize data science graduates have promptly landed jobs with average\
+      \ annual\nstarting salaries of $114,000.\n\n"
+    display_name: Data Science
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: 94% of graduates eventually land a job - time to hire unknown
+    reports_outcomes: false
+    scholarships: For women, minorities, and veterans
+    topics:
+    - data-science
+    - python
+    - sql
+    - statistics
+    - machine-learning
+    tuition: 16000
+    tuition_units: USD
+  fullstack-web-development:
+    admissions: Application, coding challenge, interviews
+    cities:
+    - denver
+    - austin
+    - boulder
+    - seattle
+    - san-francisco
+    - fort-collins
+    commitment: full-time
+    cost_description: $21,000
+    description: "Galvanize\u2019s six-month full stack developer bootcamp ends with\
+      \ a career day,\nduring which soon-to-be graduates can meet with dozens of potential\
+      \ employers.\nAt least 97% of Galvanize\u2019s full stack web development bootcamp\
+      \ graduates have\nlanded job with more than 75 companies. The average starting\
+      \ salary for\nGalvanize-trained web developers is $77,000 a year.\n\n"
+    display_name: Fullstack Web Development
+    duration: 24
+    duration_units: weeks
+    financing: true
+    guarantee: false
+    outcomes_verified: false
+    placement: 97% of graduates eventually land a job - time to hire unknown
+    reports_outcomes: false
+    scholarships: For women, minorities, veterans
+    topics:
+    - javascript
+    - node-js
+    - html
+    - css
+    - express
+    - sql
+    tuition: 21000
+    tuition_units: USD
 slug: galvanize
 tagline: Galvanizing Education for Developers, Designers, and Doers
-website: http://www.galvanize.it/education
 twitter: galvanize
-meta-description: "Galvanize coding bootcamp reviews, tuition cost, and campus information. Learn about Galvanize in NYC, SF, and other cities."
+website: http://www.galvanize.it/education
