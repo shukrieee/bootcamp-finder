@@ -1,8 +1,99 @@
+description: !!python/unicode 'CodeCore''s Bootcamp Program culminates in their hiring
+  day, and you can see
+
+  this focus throughout the bootcamp. You should expect to be doing a lot of
+
+  pair programming to get you
+
+  building real world projects quickly. On Hiring Day, CodeCore''s employer
+
+  partnership network comes to view the projects you created and potentially
+
+  extend job offers. While they don''t guarantee that you will get a job, they do
+
+  boast that they have a network of 20 hiring partners.
+
+
+  They host four bootcamps a year and cover a different topic each time. While
+
+  you might see a number of the languages we listed below being taught again,
+
+  don''t be surprised if new languages are added or switched out by the time you
+
+  want to apply. In the past, they have run bootcamps on Python, PHP, Java and
+
+  .NET. While the languages and topics of their bootcamp change, CodeCore''s
+
+  fundamental teaching philosophy does not. They teach you a primary language
+
+  and then provide supplementary languages, skill sets and libraries to provide
+
+  you a practical understanding of the core language.
+
+
+  As a case in point, their current Ruby Bootcamp doesn''t stop at teaching you
+
+  Ruby on Rails, but also provides a background knowledge of Front End languages
+
+  and Development methodologies. It is probably reasonable to guess that while
+
+  the languages may change, skills taught such as popular
+
+  APIs, User Experience (UX) and agile development methodologies will
+
+  remain somewhat constant.
+
+
+  They have a great comprehensive application process. You will need to apply on
+
+  their site, have a quick get to know you coffee or phone call, and have a more
+
+  intensive in person or Skype testing session. Oh, and don''t worry about moving
+
+  to Canada, they have partnerships with extended stay hotels in the area so you
+
+  get discounted accommodations.
+
+
+  '
 display_name: CodeCore Bootcamp
 founded_year: 2013
+meta-description: Reviews of CodeCore Bootcamp in Vancouver. Find out about job placement
+  and curriculum. Hear from graduates and students.
 primary_email: info@codecore.ca
-slug: codecore-bootcamp
+programs:
+  primary:
+    admissions: Application
+    cities:
+    - vancouver
+    commitment: full-time
+    cost_description: 8,600 CAD
+    description: "CodeCore's original Bootcamp program. Popular with both large companies\
+      \ and\nstartups alike, Ruby on Rails is one of the most sought after skills\
+      \ due to\nthe speed in which a functional web application can be built. Learn\
+      \ it in 8\nweeks! CodeCore Bootcamp, located in Vancouver, Canada, offers a\
+      \ 12-week\nbootcamp focusing around Ruby on Rails. American citizens are welcome,\
+      \ as they\ncan obtain temporary residency status in Canada for up to six months\
+      \ \u2013 no\nvisas required. CodeCore prepares its students to become industry-ready\
+      \ junior\ndevelopers.\n\n"
+    display_name: Primary
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: For women
+    topics:
+    - javascript
+    - ruby-on-rails
+    - git
+    - ux
+    - html
+    - css
+    tuition: 8600
+    tuition_units: CAD
 tagline: Learn - Design - Code - Create Western Canada's First Developer School
-website: http://codecore.ca
 twitter: CodeCoreYVR
-meta-description: "Reviews of CodeCore Bootcamp in Vancouver. Find out about job placement and curriculum. Hear from graduates and students."
+website: http://codecore.ca

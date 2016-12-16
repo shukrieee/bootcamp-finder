@@ -1,8 +1,77 @@
+description: "While there are a number of Ruby on Rails bootcamps in the US, Makers\n\
+  Academy's location in London is pretty unique. Other than being located in the\n\
+  amazing city of London, they also have a great curriculum and teaching\nmethodology.\
+  \ They give you first-hand experience through project based work,\ninvite members\
+  \ from the tech community to teach and mingle and most\nimportantly teach you how\
+  \ to pair program. They very much stress pair\nprogramming and estimate that 50-70%\
+  \ of a students time with them will be\nspent learning this way. In addition to\
+  \ the pair programming, you should\nexpect to work on various exercises, projects\
+  \ and have end of the week challenges.\n\nThere are also some pretty great perks\
+  \ like free coffee, snacks and breakfast\nas well as a loan Macbook to use for the\
+  \ duration of the bootcamp.\n\nApplying is simple, just fill out an application\
+  \ online. While they don't\nguarantee job placement, they do have partnerships with\
+  \ companies in London\nwho visit on the final day of the bootcamp for students seeking\
+  \ employment.\n\nMakers Academy offers a \xA3250 scholarship to Remote and Onsite\
+  \ students who apply through Bootcamp Finder. Use this <a href=\"https://goo.gl/c1NOhd\"\
+  \ rel=\"nofollow\" target=\"_blank\">application link</a> and specify that you discovered\
+  \ Makers Academy through Bootcamp Finder on the dropdown at the bottom of the page.\n"
 display_name: Makers Academy
 founded_year: 2013
+meta-description: Check out Makers Academy coding bootcamp reviews. Find out what
+  Makers Academy in London teaches its students.
 primary_email: contact@makersacademy.com
-slug: makers-academy
+programs:
+  primary:
+    admissions: Application
+    cities:
+    - london
+    commitment: full-time
+    cost_description: "\xA38,000"
+    description: "Makers Academy is a fully immersive, 12 week computer programming\
+      \ bootcamp. It's like Oxbridge meets the Royal Marines, but for people who want\
+      \ to learn to code, and is designed to turn people with no knowledge of web-development\
+      \ into job-ready Junior Developers in just 12 weeks. They're Europe\u2019s first\
+      \ Developer Bootcamp, running highly selective classes of our offline course\
+      \ every 6 weeks, and their Remote course every 12 weeks. They're based in Aldgate\
+      \ East, a stone's throw away from London\u2019s Silicon Roundabout.\n\nThey\
+      \ take students with little/no experience in programming and teach the fundamentals\
+      \ of web development, with the aim of developing in their students the necessary\
+      \ skills to prepare them to secure a role as a Junior Developer upon graduation.\
+      \ They teach all the latest technologies, like Ruby on Rails, HTML5, CSS, full-stack\
+      \ JavaScript, jQuery, SQL, Ajax and some of the softer skills like Object-Oriented\
+      \ Design, Test Driven Development, Agile Methodology, and version controlling\
+      \ with Git. We highly suggest taking a look at their [curriculum\nbreakout](http://www.makersacademy.com/curriculum/)\n\
+      \nThey take a \"learn by doing\" approach, delivered through self-directed,\
+      \ project-based work. Students are encouraged to work in pairs on practical\
+      \ coding challenges, with weekly challenges, culminating in a final project\
+      \ which is presented to friends, family and hiring partners on \"Graduation\
+      \ Day\". They actively support and mentor our graduates into work, helping set\
+      \ up job interviews with their hiring partners. Of the 600+ students who\u2019\
+      ve graduated so far, almost everybody who has finished our course with the intention\
+      \ of becoming a developer has achieved this within 3 months of graduating.\n"
+    display_name: Primary
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - javascript
+    - html
+    - css
+    - git
+    - ruby-on-rails
+    - testing
+    - jquery
+    - jasmine
+    - mocha
+    - node-js
+    - angular-js
+    tuition: 8000
+    tuition_units: "GBP \xA3"
 tagline: Learn to Code in 12 Weeks
-website: http://www.makersacademy.com
 twitter: makersacademy
-meta-description: "Check out Makers Academy coding bootcamp reviews. Find out what Makers Academy in London teaches its students."
+website: http://www.makersacademy.com

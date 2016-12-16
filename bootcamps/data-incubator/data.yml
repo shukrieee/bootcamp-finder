@@ -1,8 +1,50 @@
+description: !!python/unicode 'The Data Incubator is a Cornell-funded data science
+  school, with several questions that dive deep into the technology and problem-solving
+  skills needed in the data science industry. Building on the notion that data is
+  a major raw material in today''s economy, The Data Incubator offers courses for
+  working professionals, students, and experts with MA''s and PhD''s.
+
+
+  The goal of their open program is to turn amateurs into data scientists. While they
+  do not offer scholarships, one of their core offerings is [The Data Incubator Fellowship](https://www.thedataincubator.com/fellowship.html),
+  which is cost-subsidized.
+
+  '
 display_name: The Data Incubator
 founded_year: 2015
-primary_email: 
-slug: data-incubator
+meta-description: Learn about The Data Incubator by reading reviews, tuition cost,
+  and curriculum info. Find out more about The Data Incubator's data science bootcamp.
+primary_email: null
+programs:
+  data-science-foundations:
+    admissions: Application
+    cities:
+    - remote
+    commitment: part-time
+    cost_description: $16,000 tuition paid
+    description: !!python/unicode 'This introductory 8 week program offered by The
+      Data Incubator is designed to take working professionals and equip them with
+      modern data science techniques. The average student will enter not know much
+      about processing large batches of data, then leave with the knowledge to use
+      data science techniques in their day-to-day functions.
+
+      '
+    display_name: Data Science Foundations
+    duration: 8
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 'No'
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - algorithms
+    - data-science
+    - big-data
+    - machine-learning
+    tuition: 16000
+    tuition_units: USD $
 tagline: Become a data scientist
-website: https://www.thedataincubator.com
 twitter: thedatainc
-meta-description: "Learn about The Data Incubator by reading reviews, tuition cost, and curriculum info. Find out more about The Data Incubator's data science bootcamp."
+website: https://www.thedataincubator.com

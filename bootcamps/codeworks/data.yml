@@ -1,8 +1,103 @@
+description: "At Codeworks you learn how to be a great software engineer, and build\
+  \ solid products, with an advanced understanding of JavaScript. At the end of the\
+  \ course you will be able to make entire applications, and contribute to coding\
+  \ projects of any size. Whether you want to fund your own startup, or join top companies\u2019\
+  \ engineering departments, this program gives you the right tools to succeed."
 display_name: Codeworks
 founded_year: 2016
+meta-description: Read Codworks coding bootcamp reviews. See what graduates say about
+  learning to code in Barcelona and online.
 primary_email: hello@codeworks.me
-slug: codeworks
+programs:
+  full-stack-software-engineering:
+    admissions: Application, interviews, coding assignment
+    cities:
+    - barcelona
+    commitment: full-time
+    cost_description: "\u20AC 9,800"
+    description: "Are you ready to focus 11 hours a day, 6 days a week, for 12 weeks?\
+      \ This course is the heart of the Codeworks system, and is mainly divided in\
+      \ two sections. The pre-course (remote, 8 weeks, part-time), and the main course\
+      \ (on-site, 12 weeks full-time).\n\nPre-course topics include: intermediate\
+      \ JavaScript + HTML + CSS, jQuery, Git, Developer tools, intro to APIs.\n\n\
+      For the main course, during the first half you concentrate on theory and advanced\
+      \ programming. The second part is dedicated instead to applying all you\u2019\
+      ve learned, and use it to build complete products.\n\nThe main course schedule,\
+      \ divided by weeks, is as follows. 1-3) Advanced JavaScript + HTML + CSS, test-driven\
+      \ development, data structures, algorithms, complexity analysis, fundamentals\
+      \ of other programming languages. 4-5) Back-end frameworks (Node, Express, Koa),\
+      \ databases, networking. 6-7) Front-end frameworks (Angular, React, Polymer,\
+      \ Meteor), end-to-end testing. 8) Personal project, security threats. 9) First\
+      \ group project, systems architecture, continuous deployment. 10-11) Second\
+      \ group project, open source contributions. 12) Demos, revision, portfolio preparation,\
+      \ training for job interviews, hiring day."
+    display_name: Full Stack Software Engineering
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: true
+    placement: Undisclosed
+    reports_outcomes: true
+    scholarships: For women and when joining the course with friends
+    topics:
+    - javascript
+    - html
+    - css
+    - algorithms
+    - testing
+    - node-js
+    - angular-js
+    - react
+    - express
+    - ionic
+    - jquery
+    - git
+    - tdd
+    - apis
+    - mean
+    - mongodb
+    - mvc
+    - mysql
+    - postgresql
+    - rest
+    - sql
+    - unix
+    tuition: 9800
+    tuition_units: "EUR \u20AC"
+  intro-to-programming:
+    admissions: Open to anyone
+    cities:
+    - remote
+    commitment: part-time
+    cost_description: Free
+    description: !!python/unicode 'This is where you start from if you have minimal
+      or no coding experience. The course is free, remote, 4 weeks part-time.
+
+
+      This course gives you an understanding of basic programming principles, and
+      a solid introduction to web development. It also prepares you for our Full Stack
+      Software Engineering Track.
+
+
+      Topics include: programming fundamentals, basic JavaScript + HTML + CSS, basic
+      HTTP + Linux + jQuery.'
+    display_name: Intro to programming
+    duration: 4
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: true
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: null
+    topics:
+    - javascript
+    - html
+    - css
+    - jquery
+    tuition: 0
+    tuition_units: "EUR \u20AC"
 tagline: Become a software engineer in 3 months
-website: https://codeworks.me
 twitter: codeworksbcn
-meta-description: "Read Codworks coding bootcamp reviews. See what graduates say about learning to code in Barcelona and online."
+website: https://codeworks.me
