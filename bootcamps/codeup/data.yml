@@ -1,75 +1,8 @@
-description: "Codeup provides a unique learning opportunity to its students by being\
-  \ one of\nthe few bootcamps to offer classes on the LAMP stack (Linux/Apache/MySQL/PHP).\n\
-  In fact, Codeup developed their program specifically to meet the current needs\n\
-  of businesses and they genuinely believe in offering people a second chance at\n\
-  a fulfilling career.\n\nPrior to showing up to the bootcamp, students are assigned\
-  \ about 80-100 hours\nof pre-work that must be done prior to entering class. The\
-  \ pre-work was\ncreated by the Codeup instructors to prepare you to hit the ground\
-  \ running on\nthe first day of class.\n\nThe official class time runs Monday to\
-  \ Friday 9am to 4pm with additional\nhomework after hours for 12 weeks. You should\
-  \ expect class time to consist of\na combination of lectures and hands on activities.\
-  \ Codeup values pair\nprogramming so you will often be paired off to complete various\
-  \ programming\nexercises. Students will finish the program by spending the last\
-  \ 2 to 3 weeks\nworking on a capstone project. This capstone project will be demoed\
-  \ to\nCodeup\u2019s 50+ hiring partners during their Demo Day.\n\nCodeup also offer\
-  \ optional study halls for about an hour in the mornings and\nlate into the evenings.\
-  \ Students are encouraged to take advantage of the study\nhall sessions to reach\
-  \ out to teachers for additional help or to tackle more\nadvanced versions of material\
-  \ from that day\u2019s lesson. Additionally, guest\nspeakers will be invited a couple\
-  \ days each week for brown bag lunches to\nprovide insight into the life of developers\
-  \ and entrepreneurs.\n\nThe value that Codeup provides extends beyond their formal\
-  \ education\nstructures. Codeup is located in Geekdom, one of the major tech hubs\
-  \ of the\nSan Antonio tech and startup community. Geekdom is the largest coworking\
-  \ space\nin Texas and is home to over 200 startups, many of whom are hiring partners\n\
-  for Codeup. This community of techies and entrepreneurs gives Codeup students\n\
-  the ability to network with potential employers during their time at the\nbootcamp\
-  \ as well as be a part of a collaborative work environment.\n\nCodeup is very aware\
-  \ that many of its students are looking to make a career\ntransition after their\
-  \ program and believes they have created the best\nenvironment to prepare for a\
-  \ developer role. They back this up with their job\nguarantee. If you don\u2019\
-  t find successful job placement within 6 months of\ngraduation, they will refund\
-  \ you 50% of your tuition.\n\nYou don\u2019t need to have any prior experience to\
-  \ apply for Codeup. They describe\ntheir ideal candidate as \u201Cmotivated, smart\
-  \ and hireable in every way except\nthey\u2019re lacking programming skills and\
-  \ knowledge.\u201D Codeup has rolling\nadmissions so be sure to apply early! If\
-  \ you are not from the San Antonio\narea, Codeup can help you with living arrangements\
-  \ and other logistics.\n\n"
 display_name: Codeup
 founded_year: 2013
-meta-descriptions: Codeup coding bootcamp reviews. Hear from graduates about coding
-  bootcamps in San Antonio.
 primary_email: info@codeup.com
-programs:
-  full-stack-bootcamp:
-    admissions: Application
-    cities:
-    - san-antonio
-    commitment: full-time
-    cost_description: $16,000
-    description: "Codeup\u2019s full-stack development bootcamp graduates, on average,\
-      \ earn $15,000\nmore in the first year of their new jobs than they ever did\
-      \ before. Beginners\nare welcome, including students as young as 14. The curriculum\
-      \ includes Git,\nJavaScript, jQuery, and four levels of PHP. At least 96% of\
-      \ Codeup graduates\nfind jobs as developers within four months of completing\
-      \ their full-stack\nstudies.\n\n"
-    display_name: Full-stack Bootcamp
-    duration: 16
-    duration_units: weeks
-    financing: true
-    guarantee: false
-    outcomes_verified: false
-    placement: 97% of graduates land a job within 3 months of graduation
-    reports_outcomes: false
-    scholarships: For women
-    topics:
-    - javascript
-    - php
-    - laravel
-    - mysql
-    - html
-    tuition: 16000
-    tuition_units: USD
 slug: codeup
 tagline: Learn to code. Change your world.
-twitter: gocodeup
 website: http://www.codeup.com/
+twitter: gocodeup
+meta-descriptions: "Codeup coding bootcamp reviews. Hear from graduates about coding bootcamps in San Antonio."

@@ -1,68 +1,8 @@
-description: "The financial technology industry in New York City and the demand for\n\
-  programmers who can develop products and solutions for financial services\nfirms\
-  \ is growing exponentially. Byte Academy is a first of its kind bootcamp\nin New\
-  \ York that teaches the tools necessary to be successful at the\nintersection of\
-  \ finance and tech. Byte Academy emphasizes topics in the\nfinancial domain while\
-  \ also teaching programming in a fun, fast-paced, and\nchallenging environment.\
-  \ Upon graduation, Byte Academy students will\nunderstand basic data structures\
-  \ & algorithms, object-oriented programming\nconcepts, HTML/CSS, basic Python and\
-  \ JavaScript, as well as finance topics\nlike fixed income markets, equity valuation,\
-  \ options, futures and swaps, and\nasset management. Byte Academy does not guarantee\
-  \ a job, but will prepare\nstudents for job interviews and will introduce students\
-  \ to a number of\nemployers in the financial sector. With more than 15 years building\
-  \ technology\nsolutions for Wall Street, Byte Consulting\u2019s deep expertise in\
-  \ the space has\ncrafted Byte Academy to serve both seasoned professionals and people\
-  \ just\nstarting their career.\n\nStudents who apply to Byte Academy through Bootcamp\
-  \ Finder are eligible for a $500 scholarship towards tuition. Apply to the <a href=\"\
-  https://byteacademy.fluidreview.com/\" rel=\"nofollow\" target=\"_blank\">Byte Academy\
-  \ scholarship</a> and list \"Bootcamp Finder\" as your response to \"how did you\
-  \ hear about us\" in the application form.\n"
 display_name: Byte Academy
 founded_year: 2014
-meta-description: Get Byte Academy reviews for NYC and Singapore. Read details on
-  Byte Academy job placement and careers.
 primary_email: info@byteacademy.co
-programs:
-  byte-academy-bootcamp:
-    admissions: Application, interview, 4 weeks of prep work
-    cities:
-    - new-york
-    commitment: full-time
-    cost_description: null
-    description: !!python/unicode 'Byte Academy in New York City teaches FinTech,
-      data science, and MedTech in a
-
-      three-month bootcamp. Starting in about the ninth week of the intensive,
-
-      students begin preparing for job interviews and are introduced to
-
-      representatives of companies interested in hiring Byte Academy graduates. No
-
-      previous programming experience is necessary, as students will learn all of
-
-      the basics in a virtual (part-time) pre-bootcamp curriculum.
-
-
-      '
-    display_name: Byte Academy Bootcamp
-    duration: 12
-    duration_units: weeks
-    financing: false
-    guarantee: false
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: 'No'
-    topics:
-    - python
-    - sql
-    - javascript
-    - algorithms
-    - html
-    - css
-    tuition: 10000
-    tuition_units: USD
 slug: byte-academy
 tagline: null
-twitter: ByteAcademyCo
 website: http://www.byteacademy.co/
+twitter: ByteAcademyCo
+meta-description: "Get Byte Academy reviews for NYC and Singapore. Read details on Byte Academy job placement and careers."

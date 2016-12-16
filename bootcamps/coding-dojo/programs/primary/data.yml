@@ -1,0 +1,32 @@
+admissions: Application
+cities:
+- new-york
+- seattle
+- san-francisco
+- los-angeles
+- dallas
+commitment: full-time
+cost_description: $9,450 in Dallas and $13,495 everywhere else
+display_name: Primary
+duration: 14
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 92% of graduates land a job within 3 months of graduation
+program_slug: primary
+promises_job: false
+scholarships: For college students, women, and veterans
+topics:
+- lamp
+- mean
+- python
+- ruby-on-rails
+- ios
+tuition: 13495
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- After understanding the logic behind the “Coding Dojo Way” I wholeheartedly believe that I will have no problem learning all of the languages.
+- The networking that happens here is invaluable.
+- More than specifics of particular languages, the boot camp has taught me what aspects of languages and technologies to prioritize when learning a new language, so picking up new ones on my own will be so much easier later on.

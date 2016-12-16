@@ -1,64 +1,8 @@
-description: !!python/unicode "The \"Top Coding Bootcamp in Los Angeles\" as ranked\
-  \ by CIO Magazine, specifically designed for exceptionally motivated individuals\
-  \ looking to break into the tech industry.\n\nSabio cultivates and nurtures exceptional\
-  \ tech talent by providing a real world experience by having their cohorts build\
-  \ MVP's for startups during their 3 month immersive training program. They boast\
-  \ a 95% job placement while most of their graduating Fellows receive job offers\
-  \ within 6 weeks of graduation.  \n\nTheir training is focused around small classrooms,\
-  \ low student-to-teacher ratios and agile software development methodologies.\n\n\
-  According to LinkedIn, their staff averages over 13 years of professional development\
-  \ experience. A figure that surpasses every other training program in their area.\
-  \ \n\nUnlike any other training program in the nation, they offer a 5 year professional\
-  \ training program comprised of technical training sessions, speaker workshops,\
-  \ hackathons and individual mentorship sessions provided online and in-person. \n"
 display_name: Sabio
 founded_year: 2013
-meta-description: Reviews of Sabio.la coding bootcamp in Los Angeles. Read about tuition
-  cost and how to get started at Sabio.la coding school.
 primary_email: join@sabio.la
-programs:
-  full-stack:
-    admissions: Application, Interview, Coding assessment after pre-work
-    cities:
-    - los-angeles
-    - newport-beach
-    commitment: full-time
-    cost_description: $14,500
-    description: "Sabio\u2019s full stack immersive program prepares you to launch\
-      \ a career in software development or your own startup.  Our students have gone\
-      \ on to work in variety of industries and company sizes large and small. They\
-      \ have also been hired as software engineers in a variety of stacks not just\
-      \ the stack of study. You will find the Fellows are hackathons throughout the\
-      \ nation where they compete with seasoned professionals and often win."
-    display_name: Full Stack
-    duration: 12
-    duration_units: weeks
-    financing: true
-    guarantee: false
-    outcomes_verified: false
-    placement: 95%
-    reports_outcomes: true
-    scholarships: GI Bill fully supported, others for women and underrepresented groups
-    topics:
-    - algorithms
-    - angular-js
-    - apis
-    - c-sharp
-    - node-js
-    - css
-    - html
-    - javascript
-    - jquery
-    - mvc
-    - net
-    - responsive-design
-    - rest
-    - sdks
-    - sql
-    - visual-studio
-    tuition: 14500
-    tuition_units: USD $
 slug: sabio
 tagline: The premier software engineering program in Southern California
-twitter: wesabio
 website: http://www.sabio.la
+twitter: wesabio
+meta-description: "Reviews of Sabio.la coding bootcamp in Los Angeles. Read about tuition cost and how to get started at Sabio.la coding school."

@@ -1,0 +1,3 @@
+The Data Incubator is a Cornell-funded data science school, with several questions that dive deep into the technology and problem-solving skills needed in the data science industry. Building on the notion that data is a major raw material in today's economy, The Data Incubator offers courses for working professionals, students, and experts with MA's and PhD's.
+
+The goal of their open program is to turn amateurs into data scientists. While they do not offer scholarships, one of their core offerings is [The Data Incubator Fellowship](https://www.thedataincubator.com/fellowship.html), which is cost-subsidized.

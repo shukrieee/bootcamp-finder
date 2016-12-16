@@ -1,0 +1,24 @@
+admissions: Open
+cities:
+- portland
+- seattle
+- new-york
+commitment: part-time
+cost_description: $99
+display_name: Intro to Software Development & Careers in Tech
+duration: 1
+duration_units: day
+financing: 'No'
+guarantee: 'No'
+placement: null
+program_slug: code-101
+promises_job: null
+scholarships: null
+topics:
+- html
+- css
+- git
+tuition: 99
+tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

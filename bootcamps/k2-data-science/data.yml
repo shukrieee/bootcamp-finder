@@ -1,60 +1,7 @@
-description: !!python/unicode 'K2 Data Science is a part-time, 24-week intensive experience
-  that will turn you into a job-ready candidate. Our goal is to create an online classroom
-  that replicates in-person bootcamps, but it is available to people who want to study
-  while keeping their current job. Online instruction will provide academic theory
-  and practical explanations, while assignments and projects will replicate the day-to-day
-  work of data analysts and scientists. Students will use real data to build a two-project
-  portfolio to present to potential employers. Upon graduating, students will have
-  completed rigorous training in machine learning, programming in Python, data wrangling,
-  project design, and communication of results.
-
-  '
 display_name: K2 Data Science
 founded_year: 2016
-meta-description: Read K2 Data Science bootcamp reviews. Find out what K2 students
-  learn to become data scientists.
 primary_email: hello@k2datascience.com
-programs:
-  k2-data-science-bootcamp:
-    admissions: Application, technical assessment, interview
-    cities:
-    - remote
-    commitment: full-time
-    cost_description: $12,000
-    description: !!python/unicode 'K2 Data Science is a part-time, 24-week intensive
-      experience that will turn you into a job-ready candidate. Our goal is to create
-      an online classroom that replicates in-person bootcamps, but it is available
-      to people who want to study while keeping their current job. Online instruction
-      will provide academic theory and practical explanations, while assignments and
-      projects will replicate the day-to-day work of data analysts and scientists.
-      Students will use real data to build a two-project portfolio to present to potential
-      employers. Upon graduating, students will have completed rigorous training in
-      machine learning, programming in Python, data wrangling, project design, and
-      communication of results.
-
-      '
-    display_name: Data Science Bootcamp
-    duration: 24
-    duration_units: weeks
-    financing: true
-    guarantee: false
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: For women, veterans and under represented minorities
-    topics:
-    - algorithms
-    - big-data
-    - d3
-    - data-science
-    - git
-    - machine-learning
-    - mapreduce
-    - python
-    - statistics
-    - sql
-    tuition: 12000
-    tuition_units: USD
 slug: k2-data-science
 tagline: Every mountain top is within reach if you just keep climbing.
 website: http://www.k2datascience.com/
+meta-description: "Read K2 Data Science bootcamp reviews. Find out what K2 students learn to become data scientists."

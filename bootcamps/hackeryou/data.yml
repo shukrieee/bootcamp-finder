@@ -1,65 +1,8 @@
-description: "At this nine-week bootcamp, you\u2019ll learn HTML5, CSS3, responsive\
-  \ design,\ndesign theory, jQuery, JavaScript and WordPress, plus all of the skills\
-  \ you\nneed to run your own freelance business. To create the curriculum, the\n\
-  HackerYou team collaborated with developer Ahmed Omran. In addition to his\ndeveloper\
-  \ background, he has a great background in education and\ndocumented the thought\
-  \ that went into designing the HackerYou educational\nexperience.\n\nThe program\
-  \ runs for nine weeks, during which you\u2019ll be at HackerYou HQ five\ndays a\
-  \ week from about 10 am to 6 pm. The program has over 360 hours of class\ntime where\
-  \ you will learn through hundreds of exercises, a major project\nassignment each\
-  \ week and an educational thread focused on helping you to\ndevelop the skills you\u2019\
-  ll need to succeed as a freelancer. You will also get\ngreat personal attention.\
-  \ There are three instructors per course and a cap of\n25 students.\n\nThe application\
-  \ process begins with an online application. Next, you can\nexpect an in-person\
-  \ or Skype video interview with Heather Payne, HackerYou's\nfounder and CEO. She'll\
-  \ chat with you to determine if HackerYou is a mutual\nfit. Next, you'll receive\
-  \ some case study questions meant to highlight the\nrealities of life as a freelancer.\
-  \ Once returned, the HackerYou team will\ndiscuss your application and decide as\
-  \ a team to offer you a conditional\nacceptance. The acceptance becomes official\
-  \ upon your completion of the pre-\ncourse work and submitting a three-item portfolio\
-  \ of websites you've built.\n\nHackerYou was founded by the team who introduced\
-  \ Ladies Learning\nCode in 2011, and to date it is the only\nprogramming bootcamp\
-  \ in existence founded and run by women. So, although it's\nco-ed, typically 70%\
-  \ of students are female. It's a great bootcamp for those\nwho appreciate diversity\
-  \ and are looking for a social and collaborative\nenvironment.\n"
 display_name: HackerYou
 founded_year: 2012
-meta-description: HackerYou coding bootcamp reviews, tuition cost, and campus info.
-  Learn more about HackerYou's curriculum in Toronto.
 primary_email: info@hackeryou.com
-programs:
-  front-end-web-development-immersive:
-    admissions: Application
-    cities:
-    - toronto
-    commitment: full-time
-    cost_description: $7,250
-    description: "HackerYou\u2019s nine-week bootcamp is a hands-on frontend web development\n\
-      intensive. Topics covered include HTML, JavaScript, and WordPress. Graduates\n\
-      can spend another month, free of charge, using hackerYou\u2019s lab to work\
-      \ on new\nprojects, search for jobs, or launch a freelance business. One-on-one\
-      \ career\ndevelopment and strategizing is also continuously available for students\
-      \ and\ngraduates alike.\n\n"
-    display_name: Front-End Web Development Immersive
-    duration: 9
-    duration_units: weeks
-    financing: false
-    guarantee: false
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: 'No'
-    topics:
-    - javascript
-    - jquery
-    - wordpress
-    - responsive-design
-    - html
-    - css
-    - git
-    tuition: 7250
-    tuition_units: CAD $
 slug: hackeryou
 tagline: No Grades, Just Results
-twitter: hackeryou
 website: http://www.hackeryou.com
+twitter: hackeryou
+meta-description: "HackerYou coding bootcamp reviews, tuition cost, and campus info. Learn more about HackerYou's curriculum in Toronto."

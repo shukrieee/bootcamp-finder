@@ -1,0 +1,1 @@
+Founders & Coders courses are based around a series of increasingly difficult, open ended, group based projects - interspersed with expert run workshops on specific topics. They rely heavily on a network of talented alumni to help them run one of the most difficult courses in Europe.

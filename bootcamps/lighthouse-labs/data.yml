@@ -1,84 +1,8 @@
-description: "Lighthouse Labs will take you from coding hobbyist to professional developer,\
-  \ and be the launchpad for your career.\n\nBased out of Canada\u2019s most dynamic\
-  \ tech hubs, you\u2019ll be immersed into full-stack web or iOS development through\
-  \ hands-on experience. With the support of a brilliant team of instructors and mentors\
-  \ who view coding as the ultimate craft, you\u2019ll join the ranks of over 500\
-  \ developers in the Lighthouse Labs community.\n\nOur industry driven curriculum\
-  \ and rigorous education standards have created the ultimate result for our graduates:\
-  \ over 95% employment rate.\n\nRead the Lighthouse Labs [Student Outcomes Report](https://www.lighthouselabs.ca/lighthouse_labs_student_outcomes_report.pdf)\
-  \ to learn more about their graduate employment rates.\n\nClaim an exclusive $250\
-  \ Bootcamp Finder scholarship to Lighthouse Labs by enrolling through [the provided\
-  \ link](https://www.lighthouselabs.ca/?utm_source=Bootcamp%20Finder&utm_medium=referral&utm_campaign=scholarships).\n"
 display_name: Lighthouse Labs
 founded_year: 2013
-meta-description: Read reviews of Lighthouse Labs in Toronto, Vancouver, Richmond,
-  Calgary, and more. Find out what this coding bootcamp is all about.
 primary_email: hello@lighthouselabs.ca
-programs:
-  ios-bootcamp:
-    admissions: Application, interview, 4 weeks of prep work
-    cities:
-    - vancouver
-    - toronto
-    commitment: full-time
-    cost_description: $9,000 CAD
-    description: "The goal of the iOS Development Bootcamp is to transform you into\
-      \ a professional developer. You\u2019ll come to understand coding logic, and\
-      \ learn how to think like a dev by building iOS apps from the ground up using\
-      \ industry relevant technologies like Swift and Objective-C. Our program will\
-      \ provide you with mentorship, data-driven curriculum and a top notch learning\
-      \ environment that will launch you into your first junior developer role.\n"
-    display_name: iOS Development Bootcamp
-    duration: 8
-    duration_units: weeks
-    financing: true
-    guarantee: false
-    outcomes_verified: true
-    placement: Over 95% of graduates are hired within 90 days!
-    reports_outcomes: true
-    scholarships: 'No'
-    topics:
-    - ios
-    - swift
-    - cocoa
-    - objective-c
-    - xcode
-    tuition: 9000
-    tuition_units: CAD
-  web-development-bootcamp:
-    admissions: Application, interview, 4 weeks of prep work
-    cities:
-    - vancouver
-    - toronto
-    commitment: full-time
-    cost_description: $9,000 CAD
-    description: "The goal of the Lighthouse Labs Web Development Bootcamp is to transform\
-      \ you into a professional full-stack developer. You\u2019ll come to understand\
-      \ coding logic, and learn how to think like a dev by building software from\
-      \ the ground up using industry relevant technologies like Ruby on Rails and\
-      \ JavaScript. Our program will provide you with mentorship, data-driven curriculum\
-      \ and a top notch learning environment that will launch you into your first\
-      \ junior developer role. \n"
-    display_name: Web Development Bootcamp
-    duration: 8
-    duration_units: weeks
-    financing: true
-    guarantee: false
-    outcomes_verified: true
-    placement: Over 95% of graduates are hired within 90 days!
-    reports_outcomes: true
-    scholarships: 'No'
-    topics:
-    - javascript
-    - ruby-on-rails
-    - css
-    - html
-    - node-js
-    - sql
-    tuition: 9000
-    tuition_units: CAD
 slug: lighthouse-labs
-tagline: Lighthouse Labs will take you from coding hobbyist to professional developer,
-  and be the launchpad for your career.
-twitter: lighthouse_labs
+tagline: 'Lighthouse Labs will take you from coding hobbyist to professional developer, and be the launchpad for your career.'
 website: http://www.lighthouselabs.ca/
+twitter: lighthouse_labs
+meta-description: "Read reviews of Lighthouse Labs in Toronto, Vancouver, Richmond, Calgary, and more. Find out what this coding bootcamp is all about."

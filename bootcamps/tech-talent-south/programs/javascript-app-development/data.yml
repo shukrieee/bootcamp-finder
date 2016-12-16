@@ -1,0 +1,26 @@
+admissions: Application, interview
+cities:
+- atlanta
+- charlotte
+commitment: part-time
+cost_description: $4,250
+display_name: JavaScript Application Development
+duration: 10
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: javascript-app-dev
+promises_job: null
+scholarships: 'Yes'
+topics:
+- javascript
+- html
+- css
+- ui
+- ux
+- git
+tuition: 4250
+tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

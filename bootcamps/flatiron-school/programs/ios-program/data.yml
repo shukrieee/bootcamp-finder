@@ -1,0 +1,25 @@
+admissions: Application, interview, coding challenge, 150 hours of prep work
+cities:
+- new-york
+commitment: full-time
+cost_description: $15,000
+display_name: iOS Program
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'Yes'
+placement: 95% of graduates land jobs within 120 days of graduation
+program_slug: ios-program
+promises_job: true
+scholarships: For women and minorities
+topics:
+- objective-c
+- xcode
+- sdks
+- git
+- tdd
+- ios
+tuition: 15000
+tuition_units: USD $
+reports_graduation_and_placement_rates: "Yes"
+outcomes_verified: "Yes"

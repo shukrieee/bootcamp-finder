@@ -1,0 +1,24 @@
+admissions: Application
+cities:
+- san-antonio
+commitment: full-time
+cost_description: $16,000
+display_name: Full-stack Bootcamp
+duration: 16
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: 97% of graduates land a job within 3 months of graduation
+program_slug: full-stack-bootcamp
+promises_job: true
+scholarships: For women
+topics:
+- javascript
+- php
+- laravel
+- mysql
+- html
+tuition: 16000
+tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

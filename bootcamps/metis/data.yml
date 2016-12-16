@@ -1,74 +1,8 @@
-description: "Metis accelerates your career in data science. Our immersive courses,\
-  \ designed\nby world-class industry practitioners, provide you with intensive, on-site\n\
-  instruction, access to an extensive network of speakers and mentors, and\nongoing\
-  \ career coaching and job placement support.\L Our goal is to prepare you\nto succeed\
-  \ as a data scientist.\n\nTo help you succeed, we commit to:\n\n  * Train you to\
-  \ think and act like a data scientist, which starts with asking the right questions\
-  \ and constantly adapting as new information is learned.\L\n  * Teach you the most\
-  \ essential skills and technologies to establish a baseline knowledge from which\
-  \ you can springboard into your next job.\L\n  * Immerse you in real-world, complex\
-  \ problems that you will unravel to create a robust portfolio of projects.\L\n \
-  \ * Create opportunities to connect with prospective employers and present to them\
-  \ your skills and passion.\L\n  * Provide you with excellent student support so\
-  \ that your attention remains exclusively focused on becoming a data scientist.\L\
-  \n  * Inject continual fun, passion, and excitement into your experience at Metis.\n\
-  \n\nData Science:\n\nThe Data Science bootcamp produces graduates ready for immediate\
-  \ hire as data\nscience professionals, prepared to extract insights from data sets\
-  \ of any size\nusing statistical modeling and machine learning algorithms, and clearly\n\
-  communicate outcomes to stakeholders. Created by professional data scientists\n\
-  from Datascope Analytics, an elite data science firm in Chicago, the bootcamp\n\
-  is designed for individuals with a bit of programming experience and a good\nhead\
-  \ for creative statistical applications.\n\nApply for Metis' $3,000 scholarships\
-  \ for women, underrepresented groups, and US military veterans through their <a\
-  \ href=\"http://www.thisismetis.com/student_applications/new/?utm_source=bootcamp-finder\"\
-  \ rel=\"nofollow\" target=\"_blank\">application here</a>.\n"
 display_name: Metis
 founded_year: 2013
-meta-description: Metis Data Science bootcamp reviews, acceptance rate, and projects.
-  Learn about Metis Data Science in San Francisco.
 primary_email: info@thisismetis.com
-programs:
-  data-science-bootcamp:
-    admissions: Application, coding test, interview
-    cities:
-    - new-york
-    - san-francisco
-    commitment: full-time
-    cost_description: $14,000
-    description: !!python/unicode 'Metis data science bootcampers will leave fully
-      qualified for entry-level jobs
-
-      as data scientists. Career networking, preparation, and support begins from
-
-      the first day of bootcamp; alumni can also continue to take advantage of
-
-      special networking opportunities while working part-time as data science
-
-      consultants. Metis graduates have landed data scientist jobs at dozens of
-
-      companies including Columbia Law School, Etsy, and Kaplan.
-
-
-      '
-    display_name: Data Science Bootcamp
-    duration: 12
-    duration_units: weeks
-    financing: true
-    guarantee: false
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: For women and veterans
-    topics:
-    - data-science
-    - python
-    - git
-    - sql
-    - d3
-    - matplotlib
-    tuition: 14000
-    tuition_units: USD
 slug: metis
 tagline: Come in. Take Shape.
-twitter: thisismetis
 website: http://www.thisismetis.com/
+twitter: thisismetis
+meta-description: "Metis Data Science bootcamp reviews, acceptance rate, and projects. Learn about Metis Data Science in San Francisco."

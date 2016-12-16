@@ -1,0 +1,29 @@
+admissions: Application, interview
+cities:
+- provo
+- salt-lake-city
+- dallas
+- addison
+commitment: full-time
+cost_description: $10,500
+display_name: Web Dev Immersive
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: web-dev-immersive
+promises_job: false
+scholarships: 'No'
+topics:
+- javascript
+- html
+- jquery
+- css
+- angular-js
+- node-js
+- mongodb
+tuition: 10500
+tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

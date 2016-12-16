@@ -1,0 +1,26 @@
+admissions: None
+cities:
+- remote
+commitment: part-time
+cost_description: $500 subscription, charged monthly
+display_name: Primary
+duration: 120
+duration_units: hours
+financing: 'Yes'
+guarantee: 'No'
+placement: Job hunt assistance is provided
+program_slug: data-science-intensive
+promises_job: false
+scholarships: 'No'
+topics:
+- data-science
+- python
+- matplotlib
+- git
+- nosql
+- regression
+tuition: 500
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:

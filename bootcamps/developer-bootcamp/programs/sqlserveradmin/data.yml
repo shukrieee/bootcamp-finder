@@ -1,0 +1,24 @@
+admissions: Application
+cities:
+- chicago
+- dallas
+- houston
+- san-jose
+- remote
+commitment: full-time
+cost_description: varies by track
+display_name: SQL Server Administrator Bootcamp
+duration: 3-4
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement: null
+program_slug: sqlserveradmin
+promises_job: 'No'
+scholarships: null
+topics:
+- sql
+tuition: null
+tuition_units: null
+reports_graduation_and_placement_rates: 'No'
+outcomes_verified: 'No'

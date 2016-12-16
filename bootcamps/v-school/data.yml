@@ -1,78 +1,8 @@
-description: "Through their elite curriculum, small class sizes and expert faculty\
-  \ Provo-based V School has designed their Full-Stack Web Development program to\
-  \ transform students with little or no coding background, into a well paid computer\
-  \ engineers.\n\nBased on industry and job trends, they've chosen JavaScript as the\
-  \ weapon of choice. 5 days a week, 8-10 hours a day for 12 weeks, students fully\
-  \ immerse in both front and back end web development, tackling the ins and outs\
-  \ of these languages: HTML, CSS, JavaScript, MongoDB, Express, AngularJS, Node.js\
-  \ and jQuery.\n\nV School students graduate the program trained in understanding,\
-  \ manipulating, creating and querying databases + APIs. On the client side, students\
-  \ leave the program versed in responsive web design and dynamic interfaces (Agile\
-  \ / SCRUM)\nFew if any coding academies can boast a 100% job fulfillment rate. V\
-  \ School proudly can.\n\nThe bar for admission is set high with an aptitude test,\
-  \ admissions challenge and pre course assignment to ensure only the most dedicated\
-  \ 12% are accepted. \n\nThe V School core team has been helping students find technical\
-  \ jobs for more than a decade. You\u2019ll learn how to prepare a technical resume,\
-  \ interview with confidence, negotiate job offers and create a personal presence\
-  \ / brand on GitHub + Linked-in. \n\nV School sponsors a scholarship for students\
-  \ who find them through Bootcamp Finder. Claim 15% off tuition by applying through\
-  \ <a href=\"http://vschool.io/en/apply/\" rel=\"nofollow\" target=\"_blank\">this\
-  \ link</a> and listing \"Bootcamp Finder\" in the \"How did you hear about us?\"\
-  \ option.\n"
 display_name: V School
 founded_year: 2013
-meta-description: V School coding bootcamp reviews and information. Learn about V
-  School tuition cost, job placement, and more.
 primary_email: info@vschool.io
-programs:
-  fullstack-javascript-web-development:
-    admissions: Application, Aptitude Test, Admissions Challenge
-    cities:
-    - provo
-    - salt-lake-city
-    - remote
-    commitment: full-time
-    cost_description: $14,300
-    description: !!python/unicode "The Full Stack JavaScript Web Development course\
-      \ is a 12 Week, 600 hour, immersive approach to both front and back end development\
-      \ through HTML, CSS, JavaScript, MongoDB, Express, AngularJS, Node.js and jQuery.\
-      \ \n\nStudents are trained in understanding, manipulating, creating and querying\
-      \ databases and APIs, client-side development including responsive web design\
-      \ and dynamic interfaces, and basic Agile/SCRUM Project Management. Students\
-      \ are also trained and coached in best practices for finding employment in the\
-      \ tech industry including resume work, networking, technical interviewing and\
-      \ more. \n\nCompletion of this course will require at least 95% attendance and\
-      \ a brief, final website presentation during the last week of the course. V\
-      \ School adheres to a Pass/Fail grading policy. Graduates of this course will\
-      \ receive a Full Stack JavaScript Web Development certificate of completion.\
-      \ \n\nStudents meet both Online and In Person, Monday through Friday, 8:00 am\
-      \ - 6:00 pm Mountain Time for 12 weeks.\n\n"
-    display_name: Fullstack JavaScript Web Development
-    duration: 12
-    duration_units: weeks
-    financing: true
-    guarantee: false
-    outcomes_verified: true
-    placement: 99%
-    reports_outcomes: true
-    scholarships: $1400+ Women, Minority, Military and Financial Hardship Scholarships
-      available. Applications are administered upon enrollment.
-    topics:
-    - javascript
-    - html
-    - css
-    - mongodb
-    - express
-    - angular-js
-    - node-js
-    - jquery
-    - ios
-    - testing
-    - mvc
-    - git
-    tuition: 14300
-    tuition_units: USD
 slug: v-school
 tagline: ''
-twitter: VSCHOOLHQ
 website: http://vschool.io/en/
+twitter: VSCHOOLHQ
+meta-description: "V School coding bootcamp reviews and information. Learn about V School tuition cost, job placement, and more."

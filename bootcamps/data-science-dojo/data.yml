@@ -1,57 +1,8 @@
-description: !!python/unicode 'Data Science Dojo is on a mission to make data science
-  accessible to everyone, not just professional data scientists. Students for their
-  one-week intensive course come from all disciplines, united by the common goal to
-  apply data to their daily work. Data Science Dojo believes that any person working
-  with large data sets, including marketers, project managers, and executives can
-  benefit from being able to crunch the numbers using R.
-
-
-  They have taught over 1,500 graduates from over 100 companies. [Data Science Dojo
-  offers scholarships](http://datasciencedojo.com/bootcamp/fellowship/) to exceptional
-  students and students who work at nonprofits.
-
-  '
 display_name: Data Science Dojo
 founded_year: 2014
-meta-description: Data Science Dojo reviews, curriculum, and cost info. Learn data
-  science in Dubai, Seattle, Austin, Amsterdam, Singapore, Toronto, and Sydney.
 primary_email: help@datasciencedojo.com
-programs:
-  primary:
-    admissions: No prerequisites, but knowledge of one program language is recommended.
-    cities:
-    - dubai
-    - seattle
-    - austin
-    - singapore
-    - toronto
-    - sydney
-    commitment: full-time
-    cost_description: $3,000 paid for a full week of intensive instruction
-    description: !!python/unicode "In just one week, Data Science Dojo crams enough\
-      \ information to get the average tech-savvy person working with useful data\
-      \ science techniques. By covering data science fundamentals, programming basics,\
-      \ algorithms, and implementation, Data Science Dojo arms its students with the\
-      \ ability to build cloud-based solutions that crunch large amounts of enterprise-scale\
-      \ data. \n"
-    display_name: Primary
-    duration: 1
-    duration_units: weeks
-    financing: false
-    guarantee: false
-    outcomes_verified: false
-    placement: 'No'
-    reports_outcomes: false
-    scholarships: 'Yes'
-    topics:
-    - data-science
-    - big-data
-    - r
-    - regression
-    - nosql
-    tuition: 3000
-    tuition_units: USD $
 slug: data-science-dojo
 tagline: Unleashing the Power of Data Science
-twitter: DataScienceDojo
 website: http://datasciencedojo.com/
+twitter: DataScienceDojo
+meta-description: "Data Science Dojo reviews, curriculum, and cost info. Learn data science in Dubai, Seattle, Austin, Amsterdam, Singapore, Toronto, and Sydney."

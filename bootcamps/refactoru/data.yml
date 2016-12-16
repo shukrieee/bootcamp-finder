@@ -1,76 +1,8 @@
-description: "RefactorU\u2019s mission is to accelerates the learning and development\
-  \ of the\nworld's aspiring creatives, makers, and technologists. RefactorU\u2019\
-  s web\ndevelopment bootcamp focuses on full stack JavaScript/Node.JS. You can check\n\
-  out more about why they went with the rapidly growing Javascript/Node.JS combo\n\
-  in their FAQ section under \"Why are you not teaching Ruby on Rails?\".\n\nBefore\
-  \ you get started on their campus, expect 40-50 hours of instructional\npre-work\
-  \ before the bootcamp. When you are at RefactorU\u2019s web development\nbootcamp,\
-  \ you will be taught by 1-2 lead instructors with a team of 1-4 TAs.\nThere is a\
-  \ max of 24 students per class so the student to teacher ratio\naverages around\
-  \ 6:1.\n\nAs much as possible, they minimize the lecturing portion of the bootcamp\
-  \ to\nfocus on hands-on experience, pair programming, and peer groups. No day is\n\
-  typical, but in general you can expect to be in class by around 8:30am. At\naround\
-  \ 9am, instructors will introduce the topic of the day. There may be a\nshort lecture\
-  \ followed by some class exercises to get you working on applying\nthe new topic.\
-  \ You then hack away until lunch, working individually or within\nsmall groups.\
-  \ Instructors help with specific questions and facilitate team\ndiscussions.\n\n\
-  Afternoons are similar to mornings, although nearly each week there\u2019s a\nspecial\
-  \ guest speaker or new activity. The \u201Cofficial\u201D day wraps up at around\n\
-  6pm, but students often stay later. Prior to that, students will meet with\ntheir\
-  \ peer groups to reflect on what went well.\n\nThere are typically nightly events\
-  \ held either at RefactorU or at nearby\ncompanies. These events include weekly\
-  \ guest speakers and special events like\ntrips to local sights and companies. You\
-  \ can apply online. There are a few\nrounds of deadlines for the bootcamp: a rolling\
-  \ decisions deadline, an early\napplication deadline and a final app deadline. The\
-  \ moral of the story: apply\nearly. Also, make sure to save some time for the optional\
-  \ programming question.\nWhile it is optional, they HIGHLY suggest that you give\
-  \ it a shot.\n"
 display_name: RefactorU
 founded_year: 2013
-meta-description: Graduate reviews from RefactorU. Find out about tuition cost, GI
-  bill, and acceptance rate for RefactorU in Boulder.
 primary_email: admissions@refactoru.com
-programs:
-  web-application-development:
-    admissions: Application
-    cities:
-    - boulder
-    commitment: full-time
-    cost_description: $13,500
-    description: !!python/unicode 'RefactorU, with its campus in Boulder, Colorado,
-      offers a 10-week fullstack
-
-      JavaScript boot camp. The experience mimics a 40-50 hour a week full-time job
-
-      as much as possible. Refactor U graduates are prepared for careers as entry-
-
-      level web application developers, and have found jobs at a number of companies
-
-      including IBM and Best Buy.
-
-
-      '
-    display_name: Web Application Development
-    duration: 10
-    duration_units: weeks
-    financing: true
-    guarantee: false
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: For veterans
-    topics:
-    - html
-    - css
-    - javascript
-    - angular-js
-    - node-js
-    - mongodb
-    - express
-    - git
-    tuition: 13500
-    tuition_units: USD $
 slug: refactoru
 tagline: Get ready... You're about to reinvent yourself
-twitter: RefactorU
 website: http://www.refactoru.com
+twitter: RefactorU
+meta-description: "Graduate reviews from RefactorU. Find out about tuition cost, GI bill, and acceptance rate for RefactorU in Boulder."

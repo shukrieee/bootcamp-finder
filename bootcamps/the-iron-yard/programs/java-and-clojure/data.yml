@@ -1,0 +1,35 @@
+admissions: Application, interview
+cities:
+- atlanta
+- austin
+- charleston
+- charlotte
+- columbia
+- durham
+- greenville
+- houston
+- indianapolis
+- las-vegas
+- little-rock
+- nashville
+- salt-lake-city
+- washington-dc
+commitment: null
+cost_description: "$13,900"
+display_name: Java and Clojure
+duration: 12
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: java-and-clojure
+promises_job: null
+scholarships: Diversity scholarship available
+topics:
+- java
+- clojure
+- postgresql
+tuition: null
+tuition_units: null
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"

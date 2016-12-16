@@ -1,0 +1,26 @@
+admissions: Application, interview, 4 weeks of prep work
+cities:
+- vancouver
+- toronto
+commitment: full-time
+cost_description: $9,000 CAD
+display_name: Web Development Bootcamp
+duration: 8
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Over 95% of graduates are hired within 90 days!
+program_slug: web-development-bootcamp
+promises_job: false
+scholarships: 'No'
+topics:
+- javascript
+- ruby-on-rails
+- css
+- html
+- node-js
+- sql
+tuition: 9000
+tuition_units: CAD
+reports_graduation_and_placement_rates: "Yes"
+outcomes_verified: "Yes"

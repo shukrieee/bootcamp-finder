@@ -1,0 +1,30 @@
+admissions: Application
+cities:
+- chicago
+- dallas
+- houston
+- san-jose
+- remote
+commitment: full-time
+cost_description: varies by track
+display_name: Web Developer Bootcamp
+duration: 5-9
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement: null
+program_slug: web
+promises_job: 'No'
+scholarships: null
+topics:
+- html
+- css
+- javascript
+- jquery
+- angular-js
+- php
+- python
+tuition: null
+tuition_units: null
+reports_graduation_and_placement_rates: 'No'
+outcomes_verified: 'No'

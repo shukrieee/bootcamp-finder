@@ -1,0 +1,30 @@
+admissions: Application, interviews
+cities:
+- new-york
+- chicago
+- boston
+commitment: full-time
+cost_description: $7,100
+display_name: Web Development
+duration: 8
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: web-development
+promises_job: false
+scholarships: 'No'
+topics:
+- ruby-on-rails
+- javascript
+- git
+- html
+- css
+tuition: 7100
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- The network from Startup Institute, between founders we’ve met and my fellow classmates, rivals that of business school in a fraction of the time and price.
+- I did everything from the learning mentioned above to learning security, Amazon Web Services, and white boarding algorithms. I don't feel like I'm a great Rails dev yet but that will come with time.
+- We’re relying on each other–sharing skills, offering advice, making connections, and forging friendships.

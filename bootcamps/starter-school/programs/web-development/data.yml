@@ -1,0 +1,28 @@
+admissions: Application
+cities:
+- chicago
+commitment: full-time
+cost_description: $8,000
+display_name: Web Development
+duration: 10
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: web-development
+promises_job: false
+scholarships: 'No'
+topics:
+- ruby-on-rails
+- ux
+- html
+- git
+- javascript
+- jquery
+- css
+tuition: 8000
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- The point of Starter School is to give you a taste of the full spectrum of building a software product. Other bootcamps and software development schools do a great job of making you into a developer, but you don’t always see the bigger picture.

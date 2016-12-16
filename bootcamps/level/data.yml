@@ -1,46 +1,8 @@
-description: !!python/unicode "Level data analytics bootcamp was created by top-50\
-  \ ranked Northeastern \nUniversity to equip professionals with the tools, network,\
-  \ and experience \nneeded to master data analytics.\n"
 display_name: Level
 founded_year: 2015
-meta-description: Read Level Data Science bootcamp reviews. Discover curriculum information
-  about Level Data Science at Northeastern.
 primary_email: jon@leveledu.com
-programs:
-  data-analytics-bootcamp:
-    admissions: Application
-    cities:
-    - boston
-    - charlotte
-    - seattle
-    - san-francisco
-    commitment: full-time
-    cost_description: $7,995
-    description: !!python/unicode "Data Analytics: Get the tools, network, and experience\
-      \ needed to master data \nanalytics tools like Excel, R, SQL, Tableau, and skills\
-      \ like data visualization \nand presentation.  Learn how to solve real business\
-      \ problems with data, and \ncomplete a 1:1 capstone project with an industry-leading\
-      \ employer.\n"
-    display_name: Data Analytics Bootcamp
-    duration: 8
-    duration_units: weeks
-    financing: true
-    guarantee: false
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: Partial scholarships available
-    topics:
-    - r
-    - regression
-    - statistics
-    - sql
-    - machine-learning
-    - data-science
-    - big-data
-    tuition: 7995
-    tuition_units: USD
 slug: level
 tagline: Get the skills, experience and network needed for a career in data analytics
-twitter: leveleducation
 website: http://www.leveledu.com/
+twitter: leveleducation
+meta-description: "Read Level Data Science bootcamp reviews. Discover curriculum information about Level Data Science at Northeastern."
