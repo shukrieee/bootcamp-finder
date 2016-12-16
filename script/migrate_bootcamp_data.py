@@ -40,14 +40,15 @@ def convert_program_data(bootcamp_slug, program_slug):
     slug = data.pop('program_slug')
 
     # Rename/remove keys to fit new style
-    data.pop('promises_job', None)
-    data.pop('reviews', None)
     data.pop('tution_units', None)
+    data.pop('reviews', None)
+    data.pop('promises_job', None)
     data['reports_outcomes'] = data.pop(
         'reports_graduation_and_placement_rates', False)
 
     # Boolean-ify keys that were 'Yes' and 'No' strings
     data['financing'] = boolify_key(data, 'financing')
+    data['guarantee'] = boolify_key(data, 'guarantee')
     data['reports_outcomes'] = boolify_key(data, 'reports_outcomes')
     data['outcomes_verified'] = boolify_key(data, 'outcomes_verified')
 
@@ -83,7 +84,6 @@ def convert_bootcamp_data(slug):
 
     data.update({'description': u'{}'.format(description.decode('utf-8'))})
     data.update({'programs': {}})
-    data.pop('slug', None)
 
     all_programs = os.listdir('{}/programs'.format(legacy_folder))
     for program in all_programs:
