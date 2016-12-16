@@ -35,7 +35,7 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: false
+    placement: Undisclosed
     reports_outcomes: false
     scholarships: false
     topics:

@@ -1,16 +1,15 @@
 #!/bin/bash
-LATEST_SHA="$(git rev-parse HEAD)"
-MODIFIED_FILES="`git diff-tree --no-commit-id --name-only -r $LATEST_SHA -- bootcamps/**`"
-
-# Needed?
-# BASE_DIR="`pwd`"
-# echo $BASE_DIR
-
-for modfile in $MODIFIED_FILES ; do
-  for directory in bootcamps/*/ ; do
-    if [[ $modfile =~ $directory ]] ; then
-      echo 'Detected changes in' $directory
-      python script/validate_bootcamp_data.py --directory $directory
-    fi
-  done
+for directory in bootcamps/*/ ; do
+  python script/validate_bootcamp_data.py --directory $directory
+  if [[ $? = 1 ]]; then
+    SUCCESS=
+  fi
 done
+
+if [[ $SUCCESS ]]; then
+  echo 'Looking good!'
+  exit 0;
+else
+  echo "\033[0;31m[Errors found]\033[1;37m Lucy! You got some 'splaining to do. See logs above for more information.";
+  exit 1;
+fi

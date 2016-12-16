@@ -28,7 +28,7 @@ programs:
     cities:
     - new-york
     commitment: full-time
-    cost_description: null
+    cost_description: $14,950
     description: !!python/unicode 'Byte Academy in New York City teaches FinTech,
       data science, and MedTech in a
 
@@ -52,7 +52,7 @@ programs:
     outcomes_verified: false
     placement: Undisclosed
     reports_outcomes: false
-    scholarships: 'No'
+    scholarships: 'Merit based'
     topics:
     - python
     - sql
