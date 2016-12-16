@@ -53,7 +53,8 @@ programs:
     cities:
     - remote
     - atlanta
-    - washington-dc
+    - raleigh
+    - raleigh-durham
     commitment: full-time
     cost_description: $1,500 per month
     description: !!python/unicode 'Our Flexible Web Development Bootcamp provides
