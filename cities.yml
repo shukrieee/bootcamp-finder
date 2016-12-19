@@ -14,13 +14,13 @@
   slug: atlanta
   meta_description: Learn to code in Atlanta, one of the main tech hubs of the southeast. Atlanta coding bootcamps have access to a thriving market of tech jobs in Georgia's biggest city.
   description: Learn to code in Atlanta's up-and-coming tech scene, with lots of major "non-tech" companies adding many new tech jobs. Coding bootcamps in Atlanta benefit from major employers in the area including Delta Airlines and Home Depot.
-  on_index: true
+  featured: true
 
 - display_name: Austin
   slug: austin
   meta_description: Austin coding bootcamps can help you get involved in Texas tech companies and tech jobs. Learn to code in Austin and change your career at these schools.
   description: Learn to code in Austin, which plays an integral part in Texas' tech scene. Some coding bootcamps in Austin are among the biggest and most reputable nationwide.
-  on_index: true
+  featured: true
 
 - display_name: Baltimore
   slug: baltimore
@@ -38,13 +38,13 @@
   slug: boston
   meta_description: At the heart of New England, Boston coding bootcamps can get you into the city's university-fueled tech industry. Learn to code in Boston and start working on the cutting edge.
   description: Boston coding bootcamps include data science and web development. Boston has a thriving tech scene, fueled by hundreds of colleges in its immediate vicinity. Join the tech industry and learn to code in Boston.
-  on_index: true
+  featured: true
 
 - display_name: Boulder
   slug: boulder
   meta_description: Rocky Mountain tech is growing and Boulder coding bootcamps are a part of it. Learn to code in Boulder, Colorado at these schools.
   description: Learn to code in Boulder and become a part of Colorado's booming tech industry. Enjoy the Rocky Mountains as you attend coding bootcamps in Boulder.
-  on_index: true
+  featured: true
 
 - display_name: Calgary
   slug: calgary
@@ -61,7 +61,7 @@
   slug: chicago
   meta_description: Midwesterners can hop into these Chicago coding bootcamps. Learn to code in Chicago and be part of the tech industry's growth in the windy city.
   description: Learn to code in Chicago, one of the biggest tech hubs in the midwest. With a handful of coding bootcamps in Chicago itself, right at the shores of Lake Michigan, you can find programs in web development, mobile development, and systems administration.
-  on_index: true
+  featured: true
 
 - display_name: Cleveland
   slug: cleveland
@@ -74,13 +74,13 @@
   slug: dallas
   meta_description: Learn to code in Dallas, one of the biggest tech centers in the Lone Star State. Dallas coding bootcamps can get your career in web and mobile development started.
   description: Dallas coding bootcamps are at the heart of Texas' growing tech hub. With mobile and web development, as well as systems coding bootcamps in Dallas, there are plenty of options.
-  on_index: true
+  featured: true
 
 - display_name: Denver
   slug: denver
   meta_description: Coding bootcamps in Denver help folks in the Mile High city get into a thriving tech industry. Learn to code in Denver and help build the future.
   description: Learn to code in Denver, Colorado's biggest tech hub. As one of the fastest-growing tech scenes in the country, head to the Rockies, where Denver coding bootcamps include some of the biggest names in coding education.
-  on_index: true
+  featured: true
 
 - display_name: Dubai
   slug: dubai
@@ -115,7 +115,7 @@
   slug: houston
   meta_description: Learn to code in Houston, where you can learn web development, desktop app development, and administration. Houston coding bootcamps can get your coding career started locally.
   description: Houston coding bootcamps are a source of talent for Texas' growing tech scene. With a few schools that teach web development, system administration, Microsoft Stack and more, you have plenty of options for programming bootcamps in Houston.
-  on_index: true
+  featured: true
 
 - display_name: Indianapolis
   slug: indianapolis
@@ -132,7 +132,7 @@
   slug: las-vegas
   meta_description: With a strong entertainment industry in the city, Las Vegas coding bootcamps can arm you to build web and mobile apps to help companies get the word out. Learn to code in Las Vegas and help build the city's tech presence.
   description: Las Vegas coding bootcamps can teach you the Microsoft stack, web development, data science, and more. Students who learn to code in Las Vegas have several creative industries to get involved in after graduating.
-  on_index: true
+  featured: true
 
 - display_name: Little Rock
   slug: little-rock
@@ -142,13 +142,13 @@
   slug: london
   meta_description: London coding bootcamps are poised to launch you into technical work in London's financial or computing companies. Learn to code in London and get a head start on your career.
   description: At a global financial and trade hub, London coding bootcamps are in a prime position to help students find exciting work. Learn to code in London to seize this opportunity.
-  on_index: true
+  featured: true
 
 - display_name: Los Angeles
   slug: los-angeles
   meta_description: Southern California is known for its entertainment industry, but tech jobs are also growing. Learn to code at Los Angeles coding bootcamps to get in on the growing software development industry.
   description: Learn to code in sunny southern California. Coding bootcamps in Los Angeles offer a hands-on approach to learning for students aiming to be developers.
-  on_index: true
+  featured: true
 
 - display_name: Newport Beach
   slug: newport-beach
@@ -170,7 +170,7 @@
   slug: miami
   meta_description: Learn to code in Miami and break into south Florida's fast-growing tech scene. Miami coding bootcamps are a great way to start your software development career.
   description: Coding bootcamps in Miami join south Florida's growing business ecosystem and inject fresh tech talent into it. Learn to code in Miami and help turn a beach town into a tech town.
-  on_index: true
+  featured: true
 
 - display_name: Miami Beach
   slug: miami-beach
@@ -194,7 +194,7 @@
   slug: new-york
   meta_description: The New York tech scene is growing fast and is rapidly becoming one of the biggest in the world. Learn to code in New York coding bootcamps so you can ride the NYC tech wave.
   description: New York is known for being the financial capital of the world, but it has a rapidly growing tech scene. Coding bootcamps in New York are educating people to work in the growing software industry.
-  on_index: true
+  featured: true
 
 - display_name: Omaha
   slug: omaha
@@ -219,7 +219,7 @@
   slug: portland
   meta_description: Learn to code in Portland to get involved in the Northwest's growing tech industry. Portland coding bootcamps can get your software development career started.
   description: Portland is near several tech hubs and is slowly becoming one in its own right. Learn to code in Portland coding bootcamps to get ahead on web and mobile development.
-  on_index: true
+  featured: true
 
 - display_name: Provo
   slug: provo
@@ -236,7 +236,7 @@
   slug: remote
   meta_description: Learn to code online. No matter where you are, online coding bootcamps can help you start a developer career. Find remote coding bootcamps.
   description: Remote coding bootcamps are everywhere. Students can get their education from anywhere, untethered from any physical location. In recent years, thousands of students have moved towards learning with online coding bootcamps.
-  on_index: True
+  featured: True
 
 - display_name: Saint Louis
   slug: saint-louis
@@ -254,7 +254,7 @@
   slug: san-diego
   meta_description: San Diego coding bootcamps can get you working in the city's large base of technical jobs. Learn to code in San Diego.
   description: With a strong military and technical presence, San Diego has lots of tech opportunities waiting. Learn to code at a San Diego coding bootcamp to get involved with software development in your area.
-  on_index: true
+  featured: true
 
 - display_name: San Jose
   slug: san-jose
@@ -264,13 +264,13 @@
   slug: san-francisco
   meta_description: In the tech capital of the world, San Francisco coding bootcamps have unique access to Silicon Valley tech giants and startups. Learn to code in San Francisco and be part of history.
   description: Learn from top coding bootcamps in the San Francisco Bay Area. The city and its outlying suburbs are home to some of the most notable tech companies in the world.
-  on_index: true
+  featured: true
 
 - display_name: Seattle
   slug: seattle
   meta_description: At a key tech hub for the Pacific northwest, Seattle coding bootcamps help students get jobs at major tech companies. Learn to code in Seattle to join the growing developer base.
   description: Seattle and its surrounding areas have a robust tech scene. Coding bootcamps in Seattle can help you get the skills to tap into this healthy market.
-  on_index: true
+  featured: true
 
 - display_name: Singapore
   slug: singapore
@@ -290,19 +290,19 @@
   slug: toronto
   meta_description: Toronto coding bootcamps can help you get a job in software development. Learn to code in Toronto and join the local tech industry.
   description: The Maple Leafs might never win the Stanley Cup again, but at least there's a growing tech scene. Learn to code in Toronto at these top coding bootcamps to get going on web and mobile development.
-  on_index: true
+  featured: true
 
 - display_name: Vancouver
   slug: vancouver
   meta_description: A major commercial city in Western Canada, Vancouver always has exciting new jobs. Learn to code in Vancouver coding bootcamps to build the local market's future.
   description: Vancouver is a pricey city, so having a developer job can help you make ends meet. Learn to code at Vancouver's coding bootcamps, which can get you coding for web and mobile development.
-  on_index: true
+  featured: true
 
 - display_name: Washington DC
   slug: washington-dc
   meta_description: Washington DC coding bootcamps will teach you to build software used in government, academia, and local industry. Learn to code in Washington DC to change your career.
   description: The United States' capital is surrounded by technical jobs and academia. Get in on the action by learning to code in these Washington DC coding bootcamps.
-  on_index: true
+  featured: true
 
 - display_name: Winston-Salem
   slug: winston-salem

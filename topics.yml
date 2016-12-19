@@ -12,7 +12,7 @@
   slug: android
   meta_description: "Compare Android app development bootcamps. Learn how to build phone applications!"
   description: "Android is the most popular mobile development platform. Write code in Java for people to use in the palm of their hands!"
-  on_index: true
+  featured: true
 
 - display_name: Ionic
   slug: ionic
@@ -23,7 +23,7 @@
   slug: angular-js
   meta_description: "Compare bootcamps that teach AngularJS and start your web development journey today!"
   description: "AngularJS is a popular frontend JavaScript framework written by Google. Use it to build elegant, interactive pages."
-  on_index: true
+  featured: true
 
 - display_name: APIs
   slug: apis
@@ -39,7 +39,7 @@
   slug: c-sharp
   meta_description: "Find which bootcamps cover C# (C Sharp) and start learning today!"
   description: "Learn C# programming from bootcamps that specialize in teaching you this performance-driven language. Open a world of opportunities, including web apps, gaming, and desktop apps."
-  on_index: true
+  featured: true
 
 - display_name: Clojure
   slug: clojure
@@ -65,7 +65,7 @@
   slug: data-science
   meta_description: "Learn Data Science at any of these bootcamps. Turn code and smarts into insight!"
   descritpion: "Data Science lets you make sense of mountains of information. Learn the technology to make that happen at these bootcamps."
-  on_index: true
+  featured: true
 
 - display_name: Django
   slug: django
@@ -101,7 +101,7 @@
   slug: ios
   meta_description: "Compare bootcamps offering iOS and start building iPhone and iPad apps today!"
   description: "Since the rise of the iPhone, iOS developers have reached an audience of millions. Start doing the same at these bootcamps."
-  on_index: true
+  featured: true
 
 - display_name: Jasmine
   slug: jasmine
@@ -112,13 +112,13 @@
   slug: java
   meta_description: "Compare bootcamps offering Java and learn the most used backend technology!"
   description: "Java is a robust, fast, and popular language used everywhere. Get started with Java at these bootcamps."
-  on_index: true
+  featured: true
 
 - display_name: JavaScript
   slug: javascript
   meta_description: "Check out the bootcamps offering JavaScript and learn the most used web technology!"
   description: "JavaScript bootcamps prepare you to be a web developer. Learning JavaScript will prepare you to work with any browser, and build full-stack apps that people can use around the world."
-  on_index: true
+  featured: true
 
 - display_name: jQuery
   slug: jquery
@@ -189,7 +189,7 @@
   slug: node-js
   meta_description: "Learn which bootcamps will teach you how to build web applications using Node.JS"
   description: "Check out these Node.js bootcamps, which teach you the premiere backend framework for JavaScript. Node.js is taking the programming world by storm, these bootcamps can give you the skills to join the trend."
-  on_index: true
+  featured: true
 
 - display_name: NoSQL
   slug: nosql
@@ -230,7 +230,7 @@
   slug: python
   meta_description: "Compare bootcamps based in Python, one of the most versatile programming languages"
   description: "Python bootcamps will prepare you to work with a developer-favorite language. Python can be used for data science, web development, and much more."
-  on_index: true
+  featured: true
 
 - display_name: R
   slug: r
@@ -251,7 +251,7 @@
   slug: design
   meta_description: "Learn which bootcamps cover design concepts and build beautiful and usable web applications"
   description: "Design bootcamps teach you to make beautiful web pages and apps. Check them out."
-  on_index: true
+  featured: true
 
 - display_name: responsive design
   slug: responsive-design
@@ -267,7 +267,7 @@
   slug: ruby-on-rails
   meta_description: "Compare between Rails bootcamps and see which one fits your interests best"
   description: "Ruby on Rails bootcamps will teach you one of the most beloved web development frameworks. Rails is still used for thousands of popular web apps and can be a good way to start learning."
-  on_index: true
+  featured: true
 
 - display_name: Sass
   slug: sass
@@ -288,7 +288,7 @@
   slug: sql
   meta_description: "Compare bootcamps that teach SQL and become an expert in database querying!"
   description: "SQL is everywhere. Start querying an SQL database at these bootcamps."
-  on_index: true
+  featured: true
 
 - display_name: Statistics
   slug: statistics
