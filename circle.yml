@@ -1,0 +1,19 @@
+## Customize the test machine
+machine:
+  environment:
+    IN_CI: 1
+
+## This is here so Circle and Heroku play nice
+checkout:
+  post:
+    - '[[ ! -s "$(git rev-parse --git-dir)/shallow" ]] || git fetch --unshallow'
+
+# Customize dependencies
+dependencies:
+  override:
+    - ./script/install
+
+# Customize test commands
+test:
+  override:
+    - ./script/test
