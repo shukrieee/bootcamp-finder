@@ -1,7 +1,6 @@
 #!/bin/bash
-
-for directory in ../bootcamps/*/ ; do
-  python ./validate_bootcamp_data.py --directory $directory
+for directory in bootcamps/*/ ; do
+  python script/validate_bootcamp_data.py --directory $directory
   if [[ $? = 1 ]]; then
     SUCCESS=
   fi
