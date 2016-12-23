@@ -105,3 +105,5 @@ if __name__ == '__main__':
     if errors:
         logger.error('\n{}\n'.format('\n'.join(errors)))
         sys.exit(1)
+
+    sys.exit(0)
