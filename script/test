@@ -1,12 +1,12 @@
 #!/bin/bash
 for directory in bootcamps/*/ ; do
   python script/validate_bootcamp_data.py --directory $directory
-  if [[ $? = 1 ]]; then
-    SUCCESS=
+  if [ '$?' = 1 ]; then
+    SUCCESS=;
   fi
 done
 
-if [[ $SUCCESS ]]; then
+if [ $SUCCESS ]; then
   echo 'Looking good!'
   exit 0;
 else
