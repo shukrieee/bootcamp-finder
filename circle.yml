@@ -11,4 +11,4 @@ dependencies:
 # Customize test commands
 test:
   override:
-    - ./script/test
+    - sh ./script/test
