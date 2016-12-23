@@ -96,9 +96,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - unix
     tuition: 4090
@@ -139,9 +139,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - java
     tuition: null
@@ -181,9 +181,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - sql
     tuition: 7790
@@ -216,9 +216,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - sql
     tuition: null
@@ -257,9 +257,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - android
     - ios
@@ -302,9 +302,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - net
     tuition: null
@@ -344,9 +344,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - html
     - jquery
@@ -386,9 +386,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - sql
     tuition: null
@@ -427,9 +427,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - sql
     tuition: null
@@ -470,9 +470,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - unix
     - java
@@ -514,9 +514,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - html
     - css
@@ -562,9 +562,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - windows-admin
     tuition: 5490

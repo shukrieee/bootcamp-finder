@@ -56,9 +56,9 @@ programs:
     financing: false
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - html
     - css
@@ -125,7 +125,7 @@ programs:
     financing: true
     guarantee: 'No'
     outcomes_verified: false
-    placement: null
+    placement: false
     reports_outcomes: false
     scholarships: For women, U.S. veterans, and minorities
     topics:

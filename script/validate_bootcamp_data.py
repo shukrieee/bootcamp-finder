@@ -30,7 +30,7 @@ PROGRAM_REQUIRED_KEYS = {
     'outcomes_verified': [bool],
     'placement': [bool, str],
     'reports_outcomes': [bool],
-    'scholarships': [str],
+    'scholarships': [bool, str],
     'topics': [list],
 }
 

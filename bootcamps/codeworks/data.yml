@@ -90,7 +90,7 @@ programs:
     outcomes_verified: true
     placement: Undisclosed
     reports_outcomes: false
-    scholarships: null
+    scholarships: 'No'
     topics:
     - javascript
     - html
