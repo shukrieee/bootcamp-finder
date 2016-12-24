@@ -1,0 +1,14 @@
+## Customize the test machine
+machine:
+  environment:
+    IN_CI: 1
+
+# Customize dependencies
+dependencies:
+  override:
+    - sh ./script/install
+
+# Customize test commands
+test:
+  override:
+    - sh ./script/test
