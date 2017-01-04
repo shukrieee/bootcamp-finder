@@ -62,7 +62,7 @@ programs:
 
 
       '
-    display_name: Primary
+    display_name: Bootcamp
     duration: 12
     duration_units: weeks
     financing: true

@@ -29,7 +29,7 @@ programs:
       board included.
 
       '
-    display_name: Primary
+    display_name: Bootcamp
     duration: 1
     duration_units: week
     financing: false

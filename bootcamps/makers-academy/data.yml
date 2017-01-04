@@ -49,7 +49,7 @@ programs:
       \ up job interviews with their hiring partners. Of the 600+ students who\u2019\
       ve graduated so far, almost everybody who has finished our course with the intention\
       \ of becoming a developer has achieved this within 3 months of graduating.\n"
-    display_name: Primary
+    display_name: Bootcamp
     duration: 12
     duration_units: weeks
     financing: true

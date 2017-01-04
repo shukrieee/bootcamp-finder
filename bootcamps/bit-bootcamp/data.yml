@@ -29,7 +29,7 @@ programs:
       to equip you with knowledge needed to produce working decision science algorithms.
 
       '
-    display_name: Primary
+    display_name: Bootcamp
     duration: 8
     duration_units: weeks
     financing: true

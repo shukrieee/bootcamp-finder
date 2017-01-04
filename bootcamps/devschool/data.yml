@@ -59,7 +59,7 @@ programs:
       remote work.
 
       '
-    display_name: Primary
+    display_name: Bootcamp
     duration: 12-16
     duration_units: weeks
     financing: true

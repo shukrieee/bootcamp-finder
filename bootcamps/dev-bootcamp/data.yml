@@ -56,7 +56,7 @@ programs:
       \ completed\nremotely.) Dev Bootcamp graduates have landed jobs as junior developers\
       \ at an\narray of small, medium, and giant companies \u2013 including Apple\
       \ and Twitter.\n\n"
-    display_name: Primary
+    display_name: Bootcamp
     duration: 10
     duration_units: weeks
     financing: false

@@ -21,7 +21,7 @@ programs:
       \ soak up any sunshine. The\nprogram takes up 11 hours a day, six days a week.\
       \ However, Dev League\ngraduates will have job-worthy experience in more than\
       \ 20 programming\nlanguages and frameworks.\n\n"
-    display_name: Primary
+    display_name: Bootcamp
     duration: 12
     duration_units: weeks
     financing: true

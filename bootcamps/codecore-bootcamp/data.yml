@@ -76,7 +76,7 @@ programs:
       \ as they\ncan obtain temporary residency status in Canada for up to six months\
       \ \u2013 no\nvisas required. CodeCore prepares its students to become industry-ready\
       \ junior\ndevelopers.\n\n"
-    display_name: Primary
+    display_name: Bootcamp
     duration: 12
     duration_units: weeks
     financing: true

@@ -22,7 +22,7 @@ programs:
     description: !!python/unicode "Codesmith is a 12 week program in Los Angeles teaching\
       \ full stack \nJavaScript and software engineering, and preparing graduates\
       \ for \nroles as leading software engineers."
-    display_name: Primary
+    display_name: Bootcamp
     duration: 12
     duration_units: weeks
     financing: true

@@ -47,7 +47,7 @@ programs:
       \ to Ruby on\nRails. At least 98% of App Academy graduates find jobs as software\
       \ developers,\nwith average annual salaries of $89,000 (New York) and $105,000\
       \ (California).\n\n"
-    display_name: Primary
+    display_name: Bootcamp
     duration: 12
     duration_units: weeks
     financing: true

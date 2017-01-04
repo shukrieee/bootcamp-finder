@@ -26,7 +26,7 @@ programs:
       signed by their mentor.
 
       '
-    display_name: Primary
+    display_name: Bootcamp
     duration: 120
     duration_units: hours
     financing: true
