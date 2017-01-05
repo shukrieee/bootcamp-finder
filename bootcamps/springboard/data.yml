@@ -1,0 +1,49 @@
+description: !!python/unicode 'Springboard is focused on providing accessible data
+  science courses to students everywhere in the world. With a part-time approach,
+  Springboard students learn on their own time and meet 1-on-1 with mentors who help
+  them move forward with the curriculum. By offering several different courses and
+  curricula, as well as workshops, Springboard has options for beginners, seasoned
+  programmers, and even novice data scientists to level up their skills and improve
+  their career.
+
+  '
+display_name: Springboard
+founded_year: 2015
+meta-description: Learn data science online with Springboard. Read reviews, get curriculum
+  info, and find out the price of Springboard's data science programs.
+primary_email: hello@springboard.com
+programs:
+  data-science-intensive:
+    admissions: None
+    cities:
+    - remote
+    commitment: part-time
+    cost_description: $500 subscription, charged monthly
+    description: !!python/unicode 'Springboard''s Data Science Intensive is built
+      for you to take it anywhere, guided by self-learning and expert mentorship.
+      Students complete 7 projects over the course of the curriculum, which is expected
+      to require 120 hours of commitment. Graduates earn a certificate of completion,
+      signed by their mentor.
+
+      '
+    display_name: Bootcamp
+    duration: 120
+    duration_units: hours
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Job hunt assistance is provided
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - data-science
+    - python
+    - matplotlib
+    - git
+    - nosql
+    - regression
+    tuition: 500
+    tuition_units: USD $
+tagline: Own Your Career
+twitter: Springboard
+website: https://www.springboard.com/

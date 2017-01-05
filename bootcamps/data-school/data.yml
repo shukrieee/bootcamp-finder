@@ -1,0 +1,56 @@
+description: !!python/unicode 'Data School is run by Kevin Markham, a former lead
+  instructor for General Assembly''s data science course. In his experience as a teacher,
+  Markham has trained other data science instructors along with dozens of students.
+  With a focus on Python, Data School''s main course dives deep into machine learning.
+
+
+  Targeted to an audience of people new to the field, the course seeks to make Python
+  coding accessible, while still diving deep into complex data analysis. According
+  to Markham, his mission in creating Data School is: "I love to teach data science,
+  and I created Data School after finding that most data science educational resources
+  are inaccessible to people new to the field. Thus, I strive to make my resources
+  accessible to data scientists at all levels of knowledge and experience."
+
+  '
+display_name: Data School
+founded_year: 2016
+meta-description: Read reviews and information about Data School. Hear from students
+  who learned data science at Data School online.
+primary_email: kevin@dataschool.io
+programs:
+  primary:
+    admissions: Everyone is accepted
+    cities:
+    - remote
+    commitment: part-time
+    cost_description: $295 purchase of course materials
+    description: !!python/unicode 'Data School''s online data course focuses on machine
+      learning using Python, with the specific goal of helping students learn to analyze
+      large amounts of text-based data. By teaching several algorithmic approaches,
+      augmented by Python''s robust data-crunching library ecosystem, Data School
+      can give students valuable data science experience.
+
+      '
+    display_name: Bootcamp
+    duration: 50
+    duration_units: hours
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 'No'
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - algorithms
+    - machine-learning
+    - python
+    - numpy
+    - matplotlib
+    - data-science
+    - machine-learning
+    tuition: 295
+    tuition_units: USD $
+tagline: You're trying to launch your career in data science, and I want to help you
+  reach that goal!
+twitter: justmarkham
+website: http://www.dataschool.io/

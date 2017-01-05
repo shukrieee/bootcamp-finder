@@ -1,8 +1,136 @@
+description: "Alt-U, short for \u201CAlternative University\u201D will help you reach\
+  \ your goal of becoming an expert iOS programmer, bypassing the drudgery of a 4\
+  \ year, $100,000+ computer science degree from a traditional university.\n\nAlt-U\u2019\
+  s industry-seasoned instructors will teach you and your fellow students everything\
+  \ you need to know to start your career in mobile app development. You can choose\
+  \ from one of three tiers based on your level of experience and, in an intimate\
+  \ classroom setting, you will learn anything from basic concepts, to being part\
+  \ of a development team, to advanced programming.\n\nALT-U is presented by Five\
+  \ Pack Creative (www.fivepackcreative.com). Five Pack Creative has been building\
+  \ beautiful apps since 2008 and desired to share their industry knowledge with other\
+  \ developers trying to learn relevant skills in the industry. Their experience and\
+  \ adoption of the \u201CSee One, Do One, Teach One\u201D model allows them to train\
+  \ the next generation of iOS developers \u2013 that\u2019s you! After you go through\
+  \ their iOS bootcamp sessions (which include content from Ray Wenderlich), you should\
+  \ be placeable, as an intern, entry-level, intermediate, or senior developer, within\
+  \ the industry."
 display_name: ALT-U
 founded_year: 2015
+meta-description: Discover ALT-U's short but intensive bootcamp course, meant to get
+  you started on coding for iOS. ALT-U is located in Dallas, Orlando, and St. Louis.
 primary_email: ALT-U@fivepackcreative.com
-slug: alt-u
+programs:
+  ios-apprentice:
+    admissions: Registration
+    cities:
+    - dallas
+    - orlando
+    - saint-louis
+    commitment: unknown
+    cost_description: $5,000
+    description: !!python/unicode 'The iOS Apprentice is a week long bootcamp where
+      you will learn the fundamentals of iOS development with the Swift programming
+      language, but more than just that, you will also learn key industry skills for
+      how projects are structured, how code is managed and how to work as part of
+      a team.
+
+
+      You will leverage Swift, the iOS SDK, and Apple developer tools to learn object-oriented
+      programming, design patterns, type systems, functional language features, user
+      interface design, best practices in programming, and problem analysis. At the
+      end of the week you should feel ready and confident to graduate to the Journeyman
+      level courses and explore intern level job opportunities.
+
+
+      '
+    display_name: iOS Apprentice
+    duration: 5
+    duration_units: days
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - ios
+    - ux
+    - swift
+    - cocoa
+    - xcode
+    - testing
+    tuition: null
+    tuition_units: null
+  ios-journeyman:
+    admissions: Registration
+    cities:
+    - dallas
+    - orlando
+    - saint-louis
+    commitment: unknown
+    cost_description: $5,000
+    description: !!python/unicode 'The iOS Journeyman is 5 days of intense training
+      designed for experienced programmers and iOS developers looking to go to the
+      next level with iOS development and the Swift programming language. You will
+      work alone and as part of a team to learn more advanced topics and understand
+      how to work effectively as part of a team in todays modern software development
+      environment.
+
+
+      At the end of the week you should feel ready and confident to graduate to the
+      Master level courses and explore entry level job opportunities.'
+    display_name: iOS Journeyman
+    duration: 5
+    duration_units: days
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - ios
+    - ux
+    - swift
+    - cocoa
+    - xcode
+    - testing
+    tuition: null
+    tuition_units: null
+  ios-master:
+    admissions: Registration
+    cities:
+    - dallas
+    - orlando
+    - saint-louis
+    commitment: unknown
+    cost_description: $5,000
+    description: !!python/unicode 'The iOS Master is designed for Journeyman graduates
+      and experienced iOS Developers wanting to hone their skills further. Students
+      will dive deep into core iOS technologies, design patterns and work closely
+      with their peers to solve difficult problems.
+
+
+      At the end of the week you should feel ready and confident to explore job opportunities
+      as an iOS developer.'
+    display_name: iOS Master
+    duration: 5
+    duration_units: days
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - ios
+    - ux
+    - swift
+    - cocoa
+    - xcode
+    - testing
+    tuition: null
+    tuition_units: null
 tagline: A lifetime of earning for 3 weeks of learning
-website: http://altutraining.com/
 twitter: 5PackCreative
-meta-description: "Discover ALT-U's short but intensive bootcamp course, meant to get you started on coding for iOS. ALT-U is located in Dallas, Orlando, and St. Louis."
+website: http://altutraining.com/

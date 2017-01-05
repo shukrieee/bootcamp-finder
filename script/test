@@ -1,0 +1,22 @@
+#!/bin/bash
+SUCCESS="Yeah buddy!"
+
+for directory in bootcamps/*/ ; do
+  python script/validate_bootcamp_data.py --directory $directory
+  if [ "$?" = 1 ]; then
+    SUCCESS="0";
+  fi
+done
+
+python script/validate_city_topic_data.py
+if [ "$?" = 1 ]; then
+    SUCCESS="0";
+fi
+
+if [ "$SUCCESS" = '0' ]; then
+  echo "\033[0;31m[Errors found]\033[1;37m Lucy! You got some 'splaining to do. See logs above for more information.";
+  exit 1;
+else
+  echo 'Looking good!'
+  exit 0;
+fi

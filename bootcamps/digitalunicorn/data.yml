@@ -1,8 +1,94 @@
+description: "Digital Unicorn is a next-generation coding bootcamp, helping you get\
+  \ your dream job by learning through coding.\n\nOver 12 weeks, you will complete\
+  \ real projects in a team mentored by industry experts.\n\nYou will be armed with\
+  \ practical experience, a portfolio, and the skills to showcase your talent and\
+  \ stand out to employers \u2014 everything you need to land the job.\n\nStarting\
+  \ from the basics, get a full stack of technologies to build a web or mobile application\
+  \ from scratch.\n\nApply for one of Digital Unicorn's scholarships, which cover\
+  \ 50% of your tuition to their coding bootcamp:\n* [Mobile Development Scholarship](https://digitalunicorn.co.uk/courses/mobile-development-4000-off/?utm_source=bootcamp-finder),\
+  \ worth $4,000\n* [Web Development Scholarship](https://digitalunicorn.co.uk/courses/web-development-4000-off/?utm_source=bootcamp-finder),\
+  \ worth $4,000\n"
 display_name: Digital Unicorn
 founded_year: 2016
+meta-description: Reviews and scholarships for Digital Unicorn in London. Find out
+  what graduates and students are saying about this coding bootcamp.
 primary_email: hello@digitalunicorn.co.uk
-slug: digitalunicorn
-tagline: "Digital Unicorn is a next-generation coding bootcamp, helping you get your dream job by learning through coding."
-website: https://digitalunicorn.co.uk
+programs:
+  mobile-development:
+    admissions: Application, interview, prep work
+    cities:
+    - london
+    commitment: unknown
+    cost_description: "\xA38000"
+    description: !!python/unicode 'You''ll experience iOS development from simple
+      designs to a high level of abstraction. Create user friendly applications using
+      best practices and cool animation. Learn best practices with CoreData and work
+      with multi-threading and synchronisation. Meet iOS services and create applications
+      for all iOS devices. Scrum and Design Thinking are an integral part of our courses,
+      as well as a widely used way to develop software.'
+    display_name: Mobile Development
+    duration: 12
+    duration_units: weeks
+    financing: false
+    guarantee: "Yes - You pay 50% of your fees before the course and 50% once you\u2019\
+      ve landed a job. If you fail to get a developer role within 6 months, you won't\
+      \ pay the outstanding 50%."
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 50% scholarships available
+    topics:
+    - ios
+    - swift
+    - objective-c
+    - rest
+    - xcode
+    - apis
+    tuition: 8000
+    tuition_units: GBP
+  web-development:
+    admissions: Application, interview, prep work
+    cities:
+    - london
+    commitment: unknown
+    cost_description: "\xA38000"
+    description: "We start with HTML5 and CSS3 to make your application responsive.\
+      \ Improve UX by animating with jQuery and 3rd party libraries. Skill up your\
+      \ JavaScript with Node.js \u2014 the largest ecosystem of open source libraries.\
+      \ Enjoy object-oriented programming using the leading PHP framework to create\
+      \ web applications with Symfony. Experience relational and document-oriented\
+      \ databases as well as in-memory data structure store. Get more as you work\
+      \ with Amazon Cloud to make applications scalable and fault-tolerant. Scrum\
+      \ and Design Thinking are an integral part of our courses, as well as a widely\
+      \ used way to develop software."
+    display_name: Web Development
+    duration: 12
+    duration_units: weeks
+    financing: false
+    guarantee: "Yes - You pay 50% of your fees before the course and 50% once you\u2019\
+      ve landed a job. If you fail to get a developer role within 6 months, you won't\
+      \ pay the outstanding 50%."
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 50% scholarships available
+    topics:
+    - php
+    - rest
+    - sql
+    - express
+    - git
+    - html
+    - javascript
+    - lamp
+    - mysql
+    - mvc
+    - wordpress
+    - symfony
+    - apis
+    tuition: 8000
+    tuition_units: GBP
+tagline: Digital Unicorn is a next-generation coding bootcamp, helping you get your
+  dream job by learning through coding.
 twitter: DigitalUnicorn
-meta-description: "Reviews and scholarships for Digital Unicorn in London. Find out what graduates and students are saying about this coding bootcamp."
+website: https://digitalunicorn.co.uk

@@ -1,8 +1,79 @@
+description: !!python/unicode 'Hackbright is a bootcamp that focuses on teaching Python
+  and only accepts
+
+  women into their cohorts. Its a double whammy of uniqueness in coding
+
+  bootcamps. Their goal is to change what they call the "Dave-to-Girl" ratio by
+
+  enabling women to enter the software development industry.
+
+
+  Hackbright prefers to teach by maximizing hands on experience and minimizing
+
+  lecture time. As part of that hand on experience, you should expect to spend a
+
+  lot of time pair programming.
+
+  They also have a Career Day at the end of the program to do some speed-
+
+  interviewing.
+
+
+  Hackbright has a unique mentorship program for all of their fellowship
+
+  students. You will be matched up with 3 mentors who are software engineers
+
+  from leading companies in the the industry such as Twitter, Google, Pinterest,
+
+  Hipmunk, Twilio, and other startups.
+
+
+  To apply, you need to create an account on their site and create a video. Just
+
+  make sure to reserve time for it. There are two application deadlines as well,
+
+  an early and regular, so make sure to factor that into your application
+
+  planning.
+
+  '
 display_name: Hackbright Academy
 founded_year: 2012
+meta-description: Read about Hackbright Academy's coding bootcamp in San Francisco.
+  Hackbright Academy reviews, tuition cost, and more.
 primary_email: hello@hackbrightacademy.com
-slug: hackbright-academy
+programs:
+  engineering-fellowship:
+    admissions: Application, interview
+    cities:
+    - san-francisco
+    commitment: full-time
+    cost_description: $16,750
+    description: "All types of engineering fields are traditionally male-dominated,\
+      \ so\nHackbright Academy in San Francisco is a 10-week all-women\u2019s bootcamp.\
+      \ The\nprogram says they graduate more female software engineers each year than\
+      \ both\nStanford and the University of California at Berkeley. One of the features\
+      \ of\nHackbright Academy\u2019s program is a Career Day where soon-to-be graduates\
+      \ have\nan opportunity to interview with more than 20 tech companies.\n\n"
+    display_name: Engineering Fellowship
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: For minorities
+    topics:
+    - html
+    - css
+    - javascript
+    - git
+    - sql
+    - python
+    - algorithms
+    tuition: 16750
+    tuition_units: USD $
 tagline: The Engineering Fellowship for Women
-website: http://www.hackbrightacademy.com
 twitter: Hackbright
-meta-description: "Read about Hackbright Academy's coding bootcamp in San Francisco. Hackbright Academy reviews, tuition cost, and more."
+website: http://www.hackbrightacademy.com

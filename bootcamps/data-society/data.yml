@@ -1,7 +1,91 @@
+description: !!python/unicode 'Data Society is the most comprehensive online on-demand
+  data science curriculum designed for professionals who need to solve problems quickly.
+  Download reusable R code templates, reference guides, and cheat sheets, and learn
+  how to apply powerful data science methods back into your work. All on a schedule
+  that works for you.
+
+  '
 display_name: Data Society
 founded_year: 2014
 primary_email: hello@datasociety.co
-slug: data-society
+programs:
+  data-science-for-analysts:
+    admissions: Open to all skill levels
+    cities:
+    - remote
+    - boston
+    - melbourne
+    - washington-dc
+    - new-york
+    commitment: part-time
+    cost_description: $349 lifetime / $149 per year
+    description: "Data Society\u2019s online data science curriculum for analysts\
+      \ provides comprehensive learning modules that students can take at their own\
+      \ pace. Students can watch instructional videos, complete practical exercises,\
+      \ take assessments to earn a certificate, and build a portfolio of data science\
+      \ projects. The program uses only real world data sets and incorporates data\
+      \ cleaning in every module in order to give students a real world experience\
+      \ of executing a data science project or building a predictive model from end-to-end.\
+      \ Students learn not only the theory behind the methods and how to program them\
+      \ in R, they also learn how the algorithms work, why they work and in which\
+      \ situations to apply them. \n"
+    display_name: Data Science for Analysts Bootcamp
+    duration: 6
+    duration_units: months
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: Payment plans available
+    topics:
+    - r
+    - data-science
+    - statistics
+    - machine-learning
+    - regression
+    - algorithms
+    - big-data
+    tuition: 349
+    tuition_units: USD
+  data-science-for-leaders:
+    admissions: For executives and managers
+    cities:
+    - remote
+    - boston
+    - melbourne
+    - washington-dc
+    - new-york
+    commitment: part-time
+    cost_description: $349
+    description: "Data Society\u2019s online offering for leaders provides comprehensive\
+      \ learning modules that students can take at their own pace. Students can watch\
+      \ instructional videos, complete quizzes for reinforcement, and map out data\
+      \ science strategies to solve problems in a data-driven way and manage data\
+      \ projects successfully. The program uses only real world case studies of managing\
+      \ a data science project or building the best data-driven strategy on a company-wide\
+      \ scale. Students will learn the how data science can be used to drive business\
+      \ objectives, which data science methods are most suited to solve their problem,\
+      \ and how to execute their data-driven plan to successfully build and run a\
+      \ data science team.\n"
+    display_name: Data Science for Leaders
+    duration: 2
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - data-science
+    - statistics
+    - machine-learning
+    - regression
+    - algorithms
+    - big-data
+    tuition: 349
+    tuition_units: USD
 tagline: Data science for professionals
-website: http://datasociety.co
 twitter: datasocietyco
+website: http://datasociety.co
