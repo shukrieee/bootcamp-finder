@@ -5,25 +5,25 @@ from logger import logger
 
 
 CITY_REQUIRED_KEYS = {
-    'display_name': [str],
-    'slug': [str],
+    'display_name': {str},
+    'slug': {str},
 }
 
 CITY_OPTIONAL_KEYS = {
-    'description': [str],
-    'featured': [bool],
-    'meta_description': [str],
+    'description': {str},
+    'featured': {bool},
+    'meta_description': {str},
 }
 
 TOPIC_REQUIRED_KEYS = {
-    'description': [str],
-    'display_name': [str],
-    'meta_description': [str],
-    'slug': [str],
+    'description': {str},
+    'display_name': {str},
+    'meta_description': {str},
+    'slug': {str},
 }
 
 TOPIC_OPTIONAL_KEYS = {
-    'featured': [bool],
+    'featured': {bool},
 }
 
 

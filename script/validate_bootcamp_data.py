@@ -8,31 +8,31 @@ from logger import logger
 
 
 BOOTCAMP_REQUIRED_KEYS = {
-    'description': [str, unicode],
-    'display_name': [str],
-    'founded_year': [int],
-    'primary_email': [str],
-    'programs': [dict],
-    'website': [str],
+    'description': {str, unicode},
+    'display_name': {str},
+    'founded_year': {int},
+    'primary_email': {str},
+    'programs': {dict},
+    'website': {str},
 }
 
 
 PROGRAM_REQUIRED_KEYS = {
-    'admissions': [str],
-    'cities': [list],
-    'commitment': [str],
-    'cost_description': [str, unicode],
-    'description': [str, unicode],
-    'display_name': [str],
-    'duration': [int, str],
-    'duration_units': [str],
-    'financing': [bool],
-    'guarantee': [str, unicode],
-    'outcomes_verified': [bool],
-    'placement': [bool, str],
-    'reports_outcomes': [bool],
-    'scholarships': [bool, str],
-    'topics': [list],
+    'admissions': {str},
+    'cities': {list},
+    'commitment': {str},
+    'cost_description': {str, unicode},
+    'description': {str, unicode},
+    'display_name': {str},
+    'duration': {int, str},
+    'duration_units': {str},
+    'financing': {bool},
+    'guarantee': {str, unicode},
+    'outcomes_verified': {bool},
+    'placement': {bool, str},
+    'reports_outcomes': {bool},
+    'scholarships': {bool, str},
+    'topics': {list},
 }
 
 

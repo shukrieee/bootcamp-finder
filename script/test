@@ -9,7 +9,7 @@ for directory in bootcamps/*/ ; do
 done
 
 python script/validate_city_topic_data.py
-if ["$?" = 1 ]; then
+if [ "$?" = 1 ]; then
     SUCCESS="0";
 fi
 
