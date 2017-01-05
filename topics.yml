@@ -64,7 +64,7 @@
 - display_name: Data Science
   slug: data-science
   meta_description: "Learn Data Science at any of these bootcamps. Turn code and smarts into insight!"
-  descritpion: "Data Science lets you make sense of mountains of information. Learn the technology to make that happen at these bootcamps."
+  description: "Data Science lets you make sense of mountains of information. Learn the technology to make that happen at these bootcamps."
   featured: true
 
 - display_name: Django
@@ -313,7 +313,7 @@
 - display_name: Typography
   slug: typography
   meta_description: "Learn which bootcamps cover typography and make sure the dots eventually connect."
-  descriptions: "Typography is everywhere. Do you want to be the person who makes our thoughts appear on the screen? Check out these typography bootcamps."
+  description: "Typography is everywhere. Do you want to be the person who makes our thoughts appear on the screen? Check out these typography bootcamps."
 
 - display_name: UI
   slug: ui
