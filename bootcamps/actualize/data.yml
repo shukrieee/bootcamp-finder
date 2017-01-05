@@ -1,0 +1,46 @@
+description: !!python/unicode 'Actualize is a part-time web development bootcamp and apprenticeship with cohorts in Chicago, NYC, and San Francisco. The program provides four months of in-class training followed by guaranteed placement in digital consultancy The Difference Engine.
+
+The team at Actualize consider themselves educators before all else, and their commitment to educational best practices and pedagogy enables their students to become web developers while keeping their day jobs. After the Sundays-and-weeknights training program, graduates spend up to four months as part-time developers with The Difference Engine building projects for clients, gaining real-world experience and creating portfolios that will be impressive to prospective employers.
+
+Actualize trains graduates to develop the mindset and skills to transition to full-time software engineering, empowering them to launch rewarding lives and careers.
+
+
+  '
+display_name: Actualize
+founded_year: 2014
+meta-description: Read coding bootcamp reviews about Actualize, formerly known as
+  Anyone Can Learn To Code. Get info about the different coding bootcamp coruses from
+  Actualize from graduates.
+primary_email: hello@actualize.co
+programs:
+  primary:
+    admissions: Application, interview, five weeks of online prep work
+    cities:
+    - chicago
+    - new-york
+    - san-francisco
+    commitment: part-time
+    cost_description: $12,500
+    description: !!python/unicode 'After five weeks of at-home prework, students complete Actualize’s 12-week part-time in-class training program to learn full-stack web development. Then, each graduate has the opportunity to join digital consultancy The Difference Engine part-time for up to four months to hone the skills and gain the experience that employers are looking for now. Actualize’s schedule (Sundays 9a-5p and Mon-Thurs 6-9:30p) allows students to keep their full-time jobs throughout the course and apprenticeship.'
+    display_name: Bootcamp & Apprenticeship
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: Diversity in Tech Scholarship for women & ethnic minorities
+    topics:
+    - javascript
+    - sql
+    - ruby-on-rails
+    - angular-js
+    - git
+    - html
+    - css
+    tuition: 12500
+    tuition_units: USD
+tagline: Intensive part-time programming bootcamp & apprenticeship program
+twitter: actualize
+website: http://actualize.co/
