@@ -1,8 +1,58 @@
+description: !!python/unicode 'Over 93% of Designation students get jobs as UX, UI
+  designers after graduating
+
+  from our program within 3 months. Students come from all over the world to
+
+  participate in this Full-Stack Design Bootcamp. Intended for aspiring
+
+  designers, front-end developers and UX practitioners, the 12 week in-person
+
+  program is perfect for people who possess a natural curiosity about the way
+
+  things work, and are constantly looking for ways to make them better. Join
+
+  their immersive, intensive and vibrant classroom environment and get ready to
+
+  start making things that make a difference.
+
+
+  '
 display_name: Designation
 founded_year: 2013
+meta-description: Read reviews of Designation coding bootcamp. Learn what students
+  think of studying design in Chicago.
 primary_email: team@designation.io
-slug: designation
+programs:
+  full-stack-design-bootcamp:
+    admissions: Application, 6 weeks of prep work
+    cities:
+    - chicago
+    commitment: full-time
+    cost_description: $11,800
+    description: "Designation\u2019s 18-week bootcamp includes six weeks of virtual\
+      \ study and a\nthree-month intensive in Chicago. The program focuses on UX and\
+      \ UI, and is\ngeared for those seeking careers in front-end development. At\
+      \ least 92% of\nDesignation graduates have landed jobs at a variety of companies,\
+      \ including\nYelp, IBM Design, Microsoft, and Audible.\n\n"
+    display_name: Full-Stack Design Bootcamp
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 94% of graduates eventually land a job - time to hire unknown
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - design
+    - html
+    - css
+    - javascript
+    - ux
+    - ui
+    - prototyping
+    tuition: 11800
+    tuition_units: USD
 tagline: null
-website: http://designation.io/
 twitter: designationio
-meta-description: "Read reviews of Designation coding bootcamp. Learn what students think of studying design in Chicago."
+website: http://designation.io/

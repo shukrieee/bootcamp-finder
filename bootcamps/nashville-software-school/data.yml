@@ -1,8 +1,83 @@
+description: !!python/unicode 'Nashville Software School more so than many other bootcamps
+  is all about
+
+  community. Not just the tech community, but the Nashville tech community. This
+
+  bootcamp is actually a community funded non-profit. Prior to 2014, the
+
+  bootcamp was only available to Nashville residents, so expect to see a lot of
+
+  local flavor, from the students in attendance to their hiring partners.
+
+
+  The school currently operates two bootcamps: one for Web Development
+
+  Foundations and one for Software Development Foundations (centered around Ruby
+
+  on Rails). Both are open to beginners. They break up their teachings into
+
+  three main categories. You will receive intensive training through online
+
+  tutorials, videos, classroom lectures, pair programming, solo programing,
+
+  group programming and seminar discussions. Throughout this intensive training
+
+  you will also receive mentorship from their staff. Finally, you will also be
+
+  set up with apprenticeships. They work with a number of partner companies to
+
+  provide you with internships and projects to get hands on experience.
+
+
+  Applying is super straight forward. Fill out the application online, and if
+
+  they are interested they will schedule a video or in-person interview. Expect
+
+  to hear back about if you got an interview within a week and to have the
+
+  actual interview 2-3 weeks after sending in your application. Also good to
+
+  note is that they include a long list of qualification or things they want to
+
+  see in their applicants on their apply page.
+
+  '
 display_name: Nashville Software School
 founded_year: 2013
+meta-description: Reviews of Nashville Software School. Read about Nashville Software
+  School tuition, acceptance rate, and data science offerings.
 primary_email: info@nashvillesoftwareschool.com
-slug: nashville-software-school
+programs:
+  web-developer-bootcamp:
+    admissions: Application
+    cities:
+    - nashville
+    commitment: full-time
+    cost_description: $10,500
+    description: "Nashville Software School, a six-month program, prepares its graduates\
+      \ for\ncareers as junior-level web developers. The program\u2019s length is\
+      \ due to its\napprenticeship component. At least 90% of Nashville Software School\
+      \ graduates\nhave found jobs shortly after graduation.\n\n"
+    display_name: Web Developer Bootcamp
+    duration: 24
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 90% of graduates land a job within 90 days of graduation
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - javascript
+    - node-js
+    - ruby-on-rails
+    - net
+    - c-sharp
+    - html
+    - git
+    - css
+    tuition: 10500
+    tuition_units: USD $
 tagline: Learn how to build web applications
-website: http://nashvillesoftwareschool.com
 twitter: https://twitter.com/nashsoftware
-meta-description: "Reviews of Nashville Software School. Read about Nashville Software School tuition, acceptance rate, and data science offerings."
+website: http://nashvillesoftwareschool.com

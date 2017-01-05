@@ -1,8 +1,115 @@
+description: !!python/unicode 'The Omaha Code School is focused on creating well rounded
+  developers. While
+
+  the program will certainly be rigorous and you will learn a lot about
+
+  programming, they feel that there is more to it than practicing for loops
+
+  (don''t worry, you''ll know what those are soon). Omaha Code School will teach
+
+  you how to lead a balanced life while learning to code and how to be a part of
+
+  the developer community.
+
+
+  Like most bootcamps, you should expect to complete a number of different
+
+  prework activities to prepare for the program. During the actual bootcamp, you
+
+  will learn to program by completing 2-4 personal projects as well as working
+
+  on open source projects. Of note, the founder of the bootcamp has been working
+
+  on an open source project to build up the tech community in
+
+  the Silicon Prairie. Students are able to contribute to the site to build up
+
+  their open source cred as well as becoming more involved in the local tech
+
+  community.
+
+
+  I didn''t forget about the well rounded part. Not only will you be working with
+
+  developers at Omaha Code School, you will also work with designers, business
+
+  leaders, and a yoga mentor to make sure that you skills and life are balanced
+
+  at the bootcamp and after as well.
+
+
+  It''s not just about having great developers around you, but having great
+
+  teachers. The instructor has always has had an underlying desire to teach.
+
+  While in college he dropped out to pursue a job opportunity as a web
+
+  developer. While working as a developer, he was approached by a bootcamp to
+
+  teach their Front End Development course. He loved the way that teaching at a
+
+  programming bootcamp combined his love of teaching and web development so he
+
+  decide to start one of his own.
+
+
+  Specifically, he wanted to start the bootcamp back at home in Omaha. Not only
+
+  is there a growing local tech scene, but he raves about the great quality of
+
+  life. The local flavor shows through in Omaha Code School''s network in the
+
+  Silicon Prairie.
+
+
+  Ready to get started? The Omaha Code School application is pretty straight
+
+  forward. You will submit an application with some basic questions about who
+
+  you are and what you want to achieve as well as answer a programming
+
+  challenge. You will be judged on the coding challenge by your level of
+
+  success, but also the effort and thought you put into answering the questions.
+
+  '
 display_name: Omaha Code School
 founded_year: 2013
+meta-description: Read Omaha Code School reviews. Find out Omaha Code School tuition
+  cost, curriculum info, and course offerings.
 primary_email: learn@omahacodeschool.com
-slug: omaha-code-school
+programs:
+  primary:
+    admissions: Application, exercises, interview
+    cities:
+    - omaha
+    commitment: full-time
+    cost_description: $7,500
+    description: "Omaha Code School, located in Nebraska, prepares students to become\
+      \ web\ndevelopers in its 12-week bootcamp. Students will participate in more\
+      \ than 800\nhours of hands-on training, and will develop portfolios of at least\
+      \ two\nprojects. Omaha Code School\u2019s program includes field trips, guest\
+      \ speakers,\nand exclusive job leads.\n\n"
+    display_name: Bootcamp
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'Yes'
+    topics:
+    - wordpress
+    - ruby-on-rails
+    - html
+    - git
+    - javascript
+    - jquery
+    - css
+    - testing
+    tuition: 7500
+    tuition_units: USD
 tagline: Become a Web Developer
-website: http://omahacodeschool.com/
 twitter: OmahaCodeSchool
-meta-description: "Read Omaha Code School reviews. Find out Omaha Code School tuition cost, curriculum info, and course offerings."
+website: http://omahacodeschool.com/
