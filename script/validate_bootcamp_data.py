@@ -39,6 +39,11 @@ PROGRAM_REQUIRED_KEYS = {
 def main(directory):
     errors = []
     error_msg = '[{}]'.format(directory)
+
+    # Verify folder name is lower cased
+    if directory.lower() != directory:
+        errors.append('{} slug must be lowercased.'.format(directory))
+
     # Verify a logo.png exists within the directory
     if not os.path.isfile('{}logo.png'.format(directory)):
         errors.append('{} Missing logo.png'.format(error_msg))
