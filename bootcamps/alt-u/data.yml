@@ -26,7 +26,7 @@ programs:
     - dallas
     - orlando
     - saint-louis
-    commitment: null
+    commitment: unknown
     cost_description: $5,000
     description: !!python/unicode 'The iOS Apprentice is a week long bootcamp where
       you will learn the fundamentals of iOS development with the Swift programming
@@ -67,7 +67,7 @@ programs:
     - dallas
     - orlando
     - saint-louis
-    commitment: null
+    commitment: unknown
     cost_description: $5,000
     description: !!python/unicode 'The iOS Journeyman is 5 days of intense training
       designed for experienced programmers and iOS developers looking to go to the
@@ -103,7 +103,7 @@ programs:
     - dallas
     - orlando
     - saint-louis
-    commitment: null
+    commitment: unknown
     cost_description: $5,000
     description: !!python/unicode 'The iOS Master is designed for Journeyman graduates
       and experienced iOS Developers wanting to hone their skills further. Students

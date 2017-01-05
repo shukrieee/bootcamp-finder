@@ -46,7 +46,7 @@ programs:
     - nashville
     - salt-lake-city
     - washington-dc
-    commitment: null
+    commitment: unknown
     cost_description: $13,900
     description: "The Iron Yard\u2019s back-end engineering with C# and .NET bootcamp\
       \ empowers\nstudents to build websites and apps that function similar to Amazon,\
@@ -75,7 +75,7 @@ programs:
     admissions: Application, interview
     cities:
     - durham
-    commitment: null
+    commitment: unknown
     cost_description: $13,900
     description: "The Iron Yard\u2019s data science bootcamp focuses on back-end programming\
       \ in the\nPython framework. The data science curriculum also covers skills in\
@@ -163,7 +163,7 @@ programs:
     - nashville
     - salt-lake-city
     - washington-dc
-    commitment: null
+    commitment: unknown
     cost_description: $13,900
     description: "During The Iron Yard\u2019s back-end engineering with Java and Clojure\
       \ bootcamp,\nstudents will learn the art and science of building great server-side\
@@ -237,7 +237,7 @@ programs:
     - nashville
     - salt-lake-city
     - washington-dc
-    commitment: null
+    commitment: unknown
     cost_description: $13,900
     description: "Future programmers can enroll in The Iron Yard\u2019s back-end engineering\
       \ with\nPython and Django bootcamp. The curriculum focuses on building back-end\n\
@@ -313,7 +313,7 @@ programs:
     cities:
     - austin
     - columbia
-    commitment: null
+    commitment: unknown
     cost_description: $13,900
     description: "People interested in making websites look good and function well\
       \ are ideal\ncandidates for The Iron Yard\u2019s user interface design bootcamp.\
