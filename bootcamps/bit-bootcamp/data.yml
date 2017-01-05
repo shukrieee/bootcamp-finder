@@ -1,0 +1,54 @@
+description: !!python/unicode 'BitBootCamp aims to provide intense curricula to help
+  its students fill the need for strong technical talent in data science and decision
+  science. With part-time and full-time course offerings in data science, big data,
+  advanced analytics, and machine learning, students have a full set of options to
+  improve their data skills. BitBootCamp focuses on a broad set of skills, including
+  Python, R, git, Hadoop, Scala, SQL, and several types of mathematics to form the
+  base of a decision science-oriented curriculum.
+
+  '
+display_name: Bit Bootcamp
+founded_year: 2013
+meta-description: Read reviews for Bit Bootcamp data science. Learn data science in
+  NYC, SF, Cleveland, and Boston.
+primary_email: info@bitbootcamp.com
+programs:
+  primary:
+    admissions: Application, phone screen, and interview.
+    cities:
+    - new-york
+    - san-francisco
+    - washington-dc
+    - cleveland
+    commitment: full-time
+    cost_description: $15500
+    description: !!python/unicode 'BitBootCamp''s Data Science and Machine Learning
+      program focuses on the problem of scaling large decision-making algorithms.
+      According to them, the problem is no longer creating the right algorithm, but
+      making it run in quickly and accessibly in production. The 8 week program aims
+      to equip you with knowledge needed to produce working decision science algorithms.
+
+      '
+    display_name: Bootcamp
+    duration: 8
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 'No'
+    reports_outcomes: false
+    scholarships: For underrepresented groups and veterans.
+    topics:
+    - data-science
+    - unix
+    - git
+    - python
+    - big-data
+    - mysql
+    - postgresql
+    - algorithms
+    tuition: 15500
+    tuition_units: USD $
+tagline: We train the next generation of Data Scientists.
+twitter: bitbootcamp
+website: http://http://www.bitbootcamp.com/

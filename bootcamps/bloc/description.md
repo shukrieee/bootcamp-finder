@@ -1,3 +1,0 @@
-Bloc is an online-only coding bootcamp that trains students to become software engineers. The apprenticeship model pairs students with a mentor, who works with the student 1-on-1 to work through challenges and understand coding concepts.
-
-Students are able to enroll and take courses at their own pace, moving through a project-based curriculum in which they learn to build clones of popular sites from the ground up. After students move through the course at their own pace — some students take over a year to complete the program — they can access a job Placement Network. Anyone can register for Bloc, as it’s designed to train complete beginners in programming.

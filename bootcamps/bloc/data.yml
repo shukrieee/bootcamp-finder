@@ -1,8 +1,49 @@
+description: "Bloc is an online-only coding bootcamp that trains students to become\
+  \ software engineers. The apprenticeship model pairs students with a mentor, who\
+  \ works with the student 1-on-1 to work through challenges and understand coding\
+  \ concepts.\n\nStudents are able to enroll and take courses at their own pace, moving\
+  \ through a project-based curriculum in which they learn to build clones of popular\
+  \ sites from the ground up. After students move through the course at their own\
+  \ pace \u2014 some students take over a year to complete the program \u2014 they\
+  \ can access a job Placement Network. Anyone can register for Bloc, as it\u2019\
+  s designed to train complete beginners in programming.\n"
 display_name: Bloc
 founded_year: 2012
+meta-description: Bloc is an online coding bootcamp. Come read reviews of Bloc's Ruby
+  on Rails track and get details about graduate job opportunities.
 primary_email: hello@bloc.io
-slug: bloc
+programs:
+  part-time-web-developer-track:
+    admissions: Open
+    cities:
+    - remote
+    commitment: part-time
+    cost_description: Students pay a flat fee of $8,800 and can take the 540-hour
+      course in 27 weeks or 54 weeks.
+    description: "Bloc\u2019s Part-Time Web Developer Track teaches students web development\
+      \ using several technologies: HTML, CSS, and Ruby on Rails. Students can learn\
+      \ to code at their own pace, and are given the option of learning for 27 weeks\
+      \ at 20 hours per week, or 54 weeks at 12 hours per week. Bloc\u2019s curriculum\
+      \ encourages students to build projects based on popular websites. As students\
+      \ learn, they meet regularly with a mentor who helps them understand new concepts\
+      \ and clear up misunderstandings.\n"
+    display_name: Web Developer Track
+    duration: 54
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 'No'
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - javascript
+    - ruby-on-rails
+    - git
+    - css
+    - html
+    tuition: 8800
+    tuition_units: USD $
 tagline: Become a Software Developer
-website: https://www.bloc.io/
 twitter: trybloc
-meta-description: "Bloc is an online coding bootcamp. Come read reviews of Bloc's Ruby on Rails track and get details about graduate job opportunities."
+website: https://www.bloc.io/

@@ -1,8 +1,122 @@
+description: !!python/unicode 'Bitmaker Labs is a Ruby on Rails bootcamp that teaches
+  you how to code by
+
+  recreating some of the most popular web applications on the Internet. You
+
+  should expect to be challenged in class, but you will also have a mandatory
+
+  pre-work program to complete before you arrive which should help you out.
+
+
+  Applying is easily done on-line. When submitting your online application you
+
+  will be prompted to schedule an in-person interview or a Skype call.
+
+
+  '
 display_name: Bitmaker Labs
 founded_year: 2012
+meta-description: Coding bootcamp reviews of Bitmaker Labs. Hear about jobs prospects
+  for graduates from BitMaker Labs in Toronto.
 primary_email: contact@bitmakerlabs.com
-slug: bitmaker-labs
+programs:
+  mobile-development:
+    admissions: Application
+    cities:
+    - toronto
+    commitment: full-time
+    cost_description: $9,000
+    description: !!python/unicode 'During the nine-week mobile development bootcamp
+      at Bitmaker Labs, students
+
+      will gain significant ObjC, iOS, and Swift experience. Bootcamp recruits will
+
+      launch their projects in the App Store. Bitmaker Labs offers a variety of job-
+
+      hunting services, including lunches with tech executives and visits to local
+
+      companies.
+
+
+      '
+    display_name: Mobile Development
+    duration: 9
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 90% of graduates land a job within 3 months of graduation
+    reports_outcomes: false
+    scholarships: For women
+    topics:
+    - objective-c
+    - ios
+    tuition: 9000
+    tuition_units: null
+  ux-product-design:
+    admissions: Application
+    cities:
+    - toronto
+    commitment: full-time
+    cost_description: $9,000
+    description: !!python/unicode 'The UX and products design bootcamp at Bitmaker
+      Labs focuses on designing
+
+      innovative sites and apps in a hands-on learning environment. User research
+      is
+
+      a key part of the nine-week curriculum, as well as networking opportunities.
+
+      At least 90% of Bitmaker Labs graduates have landed full-time jobs in tech
+
+      fields, or successfully freelance.
+
+
+      '
+    display_name: UX & Product Design
+    duration: 9
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 90% of graduates land a job within 3 months of graduation
+    reports_outcomes: false
+    scholarships: For women
+    topics:
+    - design
+    - prototyping
+    - user-research
+    - wireframing
+    - testing
+    tuition: 9000
+    tuition_units: null
+  web-development:
+    admissions: Application
+    cities:
+    - toronto
+    commitment: full-time
+    cost_description: $9,000
+    description: "Studying \u2013 and actually using \u2013 Ruby and JavaScript is\
+      \ the focus of the\nBitmaker Labs web development bootcamp experience. Students\
+      \ will also meet and\ninterview with representatives of companies that are hiring\
+      \ in Toronto as well\nas other parts of North America. So far, 85% of the web\
+      \ development bootcamp\ngraduates have landed jobs through this process.\n\n"
+    display_name: Web Development
+    duration: 9
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 90% of graduates land a job within 3 months of graduation
+    reports_outcomes: false
+    scholarships: For women
+    topics:
+    - javascript
+    - ruby-on-rails
+    - html
+    - css
+    tuition: 9000
+    tuition_units: CAD $
 tagline: Become a Ruby and JavaScript Developer in Toronto today
-website: http://www.bitmakerlabs.com
 twitter: BitmakerHQ
-meta-description: "Coding bootcamp reviews of Bitmaker Labs. Hear about jobs prospects for graduates from BitMaker Labs in Toronto."
+website: http://www.bitmakerlabs.com

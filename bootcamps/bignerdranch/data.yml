@@ -1,7 +1,56 @@
+description: "For most kids, their first word was mama or dada. For us, it was programming.\
+  \ We've been speaking it ever since\u2014and sharing what we know.\nIn our classes,\
+  \ you'll cover a lot of ground in a matter of days. We pack a lot of information\
+  \ in our bootcamps\u2014some students have said that a week-long bootcamp with us\
+  \ is like a semester in college! Our classes are not for the novice programmer,\
+  \ but luckily for you, we have some of the best and most seasoned instructors who\
+  \ know how to guide you every step of the way. We'll subject you to the most intensive\
+  \ app development course you can imagine, and when you finish, you'll be part of\
+  \ an elite corps: the few, the proud, the Nerds. After class, you'll even get access\
+  \ to ongoing support from the Big Nerd Ranch community.\nWe offer bootcamps at our\
+  \ two Ranch locations in iOS, Android, Front-End web development, Back-End web development,\
+  \ Cocoa and mobile design.\n"
 display_name: Big Nerd Ranch
 founded_year: 2001
 primary_email: training@bignerdranch.com
-slug: bignerdranch
+programs:
+  primary:
+    admissions: Open to anyone
+    cities:
+    - atlanta
+    - san-francisco
+    commitment: one-week
+    cost_description: $3,700-5,200
+    description: !!python/unicode 'Developers looking to expand their skills in iOS
+      or Android development, front-end or back-end web, or design can learn the tools
+      they need in one week or less from Big Nerd Ranch. We offer distraction-free
+      training at our locations in Georgia and California. You''ll be able to learn
+      new skills and improve your career while getting away from it all, room and
+      board included.
+
+      '
+    display_name: Bootcamp
+    duration: 1
+    duration_units: week
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: false
+    topics:
+    - ios
+    - swift
+    - android
+    - python
+    - ruby-on-rails
+    - html
+    - css
+    - javascript
+    - design
+    - cocoa
+    tuition: 3,700-5,200
+    tuition_units: USD $
 tagline: We Develop. We Teach. We Write.
-website: http://bignerdranch.com
 twitter: bignerdranch
+website: http://bignerdranch.com
