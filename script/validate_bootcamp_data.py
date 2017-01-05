@@ -27,7 +27,7 @@ PROGRAM_REQUIRED_KEYS = {
     'duration': {int, str},
     'duration_units': {str},
     'financing': {bool},
-    'guarantee': {str, unicode},
+    'guarantee': {bool, str, unicode},
     'outcomes_verified': {bool},
     'placement': {bool, str},
     'reports_outcomes': {bool},
