@@ -17,7 +17,7 @@ programs:
     admissions: Application, interview, five weeks of online prep work
     cities:
     - chicago
-    - new-york-city
+    - new-york
     - san-francisco
     commitment: part-time
     cost_description: $12,500
