@@ -20,6 +20,7 @@ BOOTCAMP_REQUIRED_KEYS = {
 PROGRAM_REQUIRED_KEYS = {
     'admissions': [str],
     'cities': [list],
+    'commitment': [str],
     'cost_description': [str, unicode],
     'description': [str, unicode],
     'display_name': [str],
