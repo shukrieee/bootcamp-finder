@@ -1,7 +1,573 @@
+description: "Propel your career with an immersive, hands-on experience \u2013 face-to-face\
+  \ at one of our facilities across the country or remote attendance featuring full\
+  \ interaction during live classroom instruction as well as facilitated hands-on\
+  \ labs.\n\nWe are dedicated to providing IT professionals with the skills and knowledge\
+  \ necessary to enhance competency and productivity. Whether you are moving into\
+  \ a new technology or advancing your current skill set, we will provide you with\
+  \ an unparalleled learning environment.\n\nWe\u2019ve built our curriculum to reflect\
+  \ the needs of our students as they have communicated them to us. As a result, you\
+  \ don\u2019t just learn what we think you should learn, you learn what other professionals\
+  \ like you have identified as necessary to their jobs.\n\nWe guarantee overall quality\
+  \ with a 100% money-back guarantee. If you're not totally satisfied for any reason,\
+  \ simply withdraw before the second day of any class.\n\nBootcamps include .NET,\
+  \ Linux, Java, Mobile, SQL, Web and SharePoint.\n"
 display_name: Developer Bootcamp
 founded_year: 2016
+meta-description: Read about Developer Bootcamps campuses in Chicago, Dallas, Houston,
+  and more. Get reviews from graduates.
 primary_email: info@developer-bootcamp.com
-slug: developer-bootcamp
+programs:
+  javaprogrammer:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: $4,090
+    description: !!python/unicode 'The Java Programmer program offers programmers
+      a task-oriented, cost effective approach to learning Java technology, a skillset
+      in great demand in the American economy today. The Java framework provides an
+      object-oriented, portable, platform-independent development environment that
+      is also robust, secure and efficient.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: Java Developer Bootcamp
+    duration: 3
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 'No'
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - java
+    tuition: 4090
+    tuition_units: null
+  linuxadmin:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: $4,090
+    description: !!python/unicode 'The Linux System Administrator program provides
+      a thorough introduction to UNIX and Linux fundamentals as well as essential
+      administration skills required to competently maintain a Linux system in a networked
+      business environment. Students will also learn to create Bourne and Korn shell
+      scripts and receive solid grounding in the X Window System.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: Linux System Administrator Bootcamp
+    duration: 3
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - unix
+    tuition: 4090
+    tuition_units: null
+  masterjava:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: varies by track
+    description: !!python/unicode 'The Master Java Developer program offers programmers
+      a task-oriented, cost effective approach to learning Java technology, a skillset
+      in great demand in the American economy today. The Java framework provides an
+      object-oriented, portable, platform-independent development environment that
+      is also robust, secure and efficient.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: Master Java Developer Bootcamp
+    duration: 5-7
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - java
+    tuition: null
+    tuition_units: null
+  mastersql:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: $7,790
+    description: !!python/unicode "The Master SQL Server Developer program includes\
+      \ coverage of relational database fundamentals, SQL programming, Reporting Services,\
+      \ Integration and Analysis Services as well as coverage of ASP.NET Web forms.\
+      \  \n\nCourses can be taken either face-to-face in the classroom or via remote\
+      \ attendance. Remote attendance connects students to a live classroom presentation\
+      \ that includes a mix of in-person and remote students. You decide which courses\
+      \ to attend in person or remotely. All programming courses include at least\
+      \ 50% of time performing comprehensive hands on exercises facilitated by expert\
+      \ instructors. This boosts retention and confidence as well as assuring competency\
+      \ with the new skills being acquired.\n\nThe price point for our bootcamps is\
+      \ significantly less than the cost of other programs that have little or no\
+      \ live presentation or hands-on component. Our self-directed scheduling allows\
+      \ you the flexibility you require to complete your training in the time frame\
+      \ you need.\n\nWe invite you to examine our detailed curriculum descriptions\
+      \ and compare them to other bootcamp sites. We have no sales representatives.\
+      \ Registrars are available at 978.250.4983 to answer any questions you may have\
+      \ regarding the programs of interest to you. We will assist you with remote\
+      \ attendance preparations, scheduling, explanation of program electives or any\
+      \ other requests for information you may have\n"
+    display_name: Master SQL Server Developer Bootcamp
+    duration: 6
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - sql
+    tuition: 7790
+    tuition_units: null
+  mastersystem:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: varies by track
+    description: !!python/unicode "The Master System Administrator program is a comprehensive\
+      \ curriculum that teaches students how to install, maintain, configure and tune\
+      \ both Linux and Windows networked environments as well as create and manage\
+      \ SQL Server databases.  \n\nCourses can be taken either face-to-face in the\
+      \ classroom or via remote attendance. Remote attendance connects students to\
+      \ a live classroom presentation that includes a mix of in-person and remote\
+      \ students. You decide which courses to attend in person or remotely. All programming\
+      \ courses include at least 50% of time performing comprehensive hands on exercises\
+      \ facilitated by expert instructors. This boosts retention and confidence as\
+      \ well as assuring competency with the new skills being acquired.\n\nOur self-directed\
+      \ scheduling allows you the flexibility you require to complete your training\
+      \ in the time frame you need.\n"
+    display_name: Master System Administrator Bootcamp
+    duration: 7-8
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - sql
+    tuition: null
+    tuition_units: null
+  mobile:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: $5,490
+    description: !!python/unicode 'The Mobile Application Developer program provides
+      multi-device coverage for Android applications as well as iPad/iPhone applications
+      using Objective-C and Swift.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: Mobile Application Developer Bootcamp
+    duration: 4
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - android
+    - ios
+    - objective-c
+    - swift
+    tuition: 5490
+    tuition_units: null
+  net:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: varies by track
+    description: !!python/unicode 'The Microsoft .NET Developer teaches the skills
+      needed to create distributed applications and dynamic web applications with
+      the .NET platform using C# or VB.NET. The program includes optional courses
+      in WPF, WCF, SQL Programming and OOA&D.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: Microsoft .NET Developer Bootcamp
+    duration: 6-10
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - net
+    tuition: null
+    tuition_units: null
+  sharepoint:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: $4,090
+    description: !!python/unicode 'The SharePoint Deployment Specialist program includes
+      coverage of how to deploy, configure, manage and customize the SharePoint 2013
+      environment. Coverage also includes HTML5, CSS3 and jQuery to create Web sites
+      that target the capabilities of modern browsers.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: SharePoint Deployment Specialist Bootcamp
+    duration: 3
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - html
+    - jquery
+    tuition: 4090
+    tuition_units: null
+  sqlbi:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: varies by track
+    description: !!python/unicode 'The SQL Server Business Intelligence program includes
+      coverage of relational database fundamentals, SQL programming, Reporting Services,
+      Integration and Analysis Services.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: SQL Server Business Intelligence Bootcamp
+    duration: 4-5
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - sql
+    tuition: null
+    tuition_units: null
+  sqlserveradmin:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: varies by track
+    description: !!python/unicode 'The SQL Server Administrator program includes coverage
+      of relational database fundamentals, SQL programming and administering SQL Server
+      2014 databases.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: SQL Server Administrator Bootcamp
+    duration: 3-4
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - sql
+    tuition: null
+    tuition_units: null
+  unixdeveloper:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: varies by track
+    description: !!python/unicode 'The UNIX Software Developer program provides a
+      thorough introduction to UNIX and Linux fundamentals as well as a comprehensive
+      introduction to the ANSI C language, emphasizing portability and structured
+      design. Students can choose from either C++ or Java to complete the certificate
+      track.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: UNIX Software Developer Bootcamp
+    duration: 4-5
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - unix
+    - java
+    tuition: null
+    tuition_units: null
+  web:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: varies by track
+    description: !!python/unicode 'The Web Developer program introduces the core concepts
+      and practical techniques required to pursue a career in web site development.
+      Students will learn how to implement Webpages using HTML5, CSS, JavaScript,
+      jQuery, Responsive Web Design and AngularJS. The program includes optional courses
+      in Perl, PHP, ASP.NET or Python.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: Web Developer Bootcamp
+    duration: 5-9
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - html
+    - css
+    - javascript
+    - jquery
+    - angular-js
+    - php
+    - python
+    tuition: null
+    tuition_units: null
+  windowsadmin:
+    admissions: Application
+    cities:
+    - chicago
+    - dallas
+    - houston
+    - san-jose
+    - remote
+    commitment: full-time
+    cost_description: $5,490
+    description: !!python/unicode 'The Windows System Administrator program provides
+      the knowledge and skills required to competently install, configure, and maintain
+      client and server operating systems and support remote users as well as install
+      and configure Exchange Server 2013.
+
+
+      Courses can be taken either face-to-face in the classroom or via remote attendance.
+      Remote attendance connects students to a live classroom presentation that includes
+      a mix of in-person and remote students. You decide which courses to attend in
+      person or remotely. All programming courses include at least 50% of time performing
+      comprehensive hands on exercises facilitated by expert instructors. This boosts
+      retention and confidence as well as assuring competency with the new skills
+      being acquired.
+
+
+      Our self-directed scheduling allows you the flexibility you require to complete
+      your training in the time frame you need.
+
+      '
+    display_name: Windows System Administrator Bootcamp
+    duration: 4
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: false
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - windows-admin
+    tuition: 5490
+    tuition_units: null
 tagline: Earn an Accredited IT Certificate
 website: http://www.developer-bootcamp.com
-meta-description: "Read about Developer Bootcamps campuses in Chicago, Dallas, Houston, and more. Get reviews from graduates."

@@ -1,3 +1,0 @@
-Thinkful’s Full Time Web Development Bootcamp shares the same in-depth, project based approach of the Flexible pace. The main difference is that the Full Time pace pushes students to become web developers in 17 weeks and requires over 40 hours of effort per week. The fully online program features constant support, as students interact with their classmates, instructors, and mentors. Each student has a dedicated mentor, who they meet with daily 1-on-1 for half an hour.
-
-The course teaches students full-stack JavaScript and features a “flex week,” in which students learn different technologies, including Ruby and Python. Students also use industry-standard collaboration tools such as GitHub and Slack.

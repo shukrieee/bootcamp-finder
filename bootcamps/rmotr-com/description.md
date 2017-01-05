@@ -1,3 +1,0 @@
-Our program offers 4-week Python and Django coding classes where students interact with teachers, mentors, and students remotely. Students attend 3-hour long scheduled classes three times a week, complete assignments, and work on real-world projects with classmates. The class includes 50+ hours of real coding, 12+ real projects, and mentors available to answer questions at any time.
-Our bootcamp was recently rated as top 10 online coding school by Course Report.
-We offer a 100% refund if students don’t like the class. A 100% off scholarship is available to anyone that truly demonstrates the need and their passion for programming.

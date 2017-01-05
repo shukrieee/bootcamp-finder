@@ -1,1 +1,0 @@
-In just one week, Data Science Dojo crams enough information to get the average tech-savvy person working with useful data science techniques. By covering data science fundamentals, programming basics, algorithms, and implementation, Data Science Dojo arms its students with the ability to build cloud-based solutions that crunch large amounts of enterprise-scale data. 

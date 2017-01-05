@@ -1,0 +1,2 @@
+# Install server deps
+pip install -r requirements.txt
