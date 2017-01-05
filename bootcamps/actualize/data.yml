@@ -1,94 +1,28 @@
-description: !!python/unicode 'Anyone Can Learn To Code (ACLTC) is a nights-and-weekends
-  web programming
+description: !!python/unicode 'Actualize is a part-time web development bootcamp and apprenticeship with cohorts in Chicago, NYC, and San Francisco. The program provides four months of in-class training followed by guaranteed placement in digital consultancy The Difference Engine.
 
-  bootcamp in Chicago that runs for 15 weeks and trains students from all
+The team at Actualize consider themselves educators before all else, and their commitment to educational best practices and pedagogy enables their students to become web developers while keeping their day jobs. After the Sundays-and-weeknights training program, graduates spend up to four months as part-time developers with The Difference Engine building projects for clients, gaining real-world experience and creating portfolios that will be impressive to prospective employers.
 
-  backgrounds (including those with no prior programming experience) to become
-
-  web developers capable of landing an entry level position. Many people want to
-
-  jump into web development through a code bootcamp, but simply can''t afford to
-
-  quit their jobs. Our part time program makes this possible for people who live
-
-  near Chicago.
-
-
-  We train our students in Ruby, Rails, HTML, CSS, JavaScript, AngularJS, SQL,
-
-  and Git, among other technologies. We also help our students land jobs through
-
-  networking with our partner companies, helping them build an impressive Github
-
-  portfolio, and helping them craft great resumes, LinkedIn profiles, and cover
-
-  letters.
-
-
-  Our pedagogical approach is to teach every single concept in plain English and
-
-  break down complex technical ideas to make them easy to understand. We don''t
-
-  just hand our students online resources and exercises and wait for them to
-
-  approach us when they get stuck. We''ll actually be switching back and forth
-
-  between interactive instruction and hands on exercises. For example, the
-
-  teacher will explain a new concept in depth for 30 minutes, and during the
-
-  following hour, the students will complete a guided hands-on programming
-
-  exercise to help crystalize that concept.
-
-
-  This approach helps our students absorb and understand the material in the
-
-  shortest possible time, as well as give them a deeper understanding of the
-
-  concepts than if they had just read an article on the topic. Our "plain
-
-  English" instruction can be sampled with our free Ruby screencasts:
-
-  (anyonecanlearntocode.com/screencasts)
-
-
-  ACLTC is committed to helping you learn how to think like a programmer and
-
-  develop the skills necessary to land your first development job.
+Actualize trains graduates to develop the mindset and skills to transition to full-time software engineering, empowering them to launch rewarding lives and careers.
 
 
   '
-display_name: Anyone Can Learn To Code
+display_name: Actualize
 founded_year: 2014
 meta-description: Read coding bootcamp reviews about Actualize, formerly known as
   Anyone Can Learn To Code. Get info about the different coding bootcamp coruses from
   Actualize from graduates.
-primary_email: hello@anyonecanlearntocode.com
+primary_email: hello@actualize.co
 programs:
   primary:
-    admissions: Application, interview, 3 weeks of prep work
+    admissions: Application, interview, five weeks of online prep work
     cities:
     - chicago
+    - new-york-city
     - san-francisco
-    commitment: full-time
+    commitment: part-time
     cost_description: $12,500
-    description: !!python/unicode 'Anyone Can Learn To Code, with campuses in Chicago
-      and San Francisco, offers a
-
-      12-week bootcamp followed by a six-week paid internship experience. The
-
-      curriculum also includes three weeks of pre-bootcamp exercises in web
-
-      development, which can be completed from any location in the world. Anyone Can
-
-      Learn To Code students get to show off their projects at an official showcase,
-
-      which includes opportunities to meet with prospective employers.
-
-
-      '
-    display_name: Bootcamp
+    description: !!python/unicode 'After five weeks of at-home prework, students complete Actualize’s 12-week part-time in-class training program to learn full-stack web development. Then, each graduate has the opportunity to join digital consultancy The Difference Engine part-time for up to four months to hone the skills and gain the experience that employers are looking for now. Actualize’s schedule (Sundays 9a-5p and Mon-Thurs 6-9:30p) allows students to keep their full-time jobs throughout the course and apprenticeship.'
+    display_name: Bootcamp & Apprenticeship
     duration: 12
     duration_units: weeks
     financing: true
@@ -96,7 +30,7 @@ programs:
     outcomes_verified: false
     placement: Undisclosed
     reports_outcomes: false
-    scholarships: 'No'
+    scholarships: Diversity in Tech Scholarship for women & ethnic minorities
     topics:
     - javascript
     - sql
@@ -107,6 +41,6 @@ programs:
     - css
     tuition: 12500
     tuition_units: USD
-tagline: Anyone Can Learn To Code
-twitter: aclearntocode
-website: http://anyonecanlearntocode.com/
+tagline: Intensive part-time programming bootcamp & apprenticeship program
+twitter: actualize
+website: http://actualize.co/
