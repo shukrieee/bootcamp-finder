@@ -1,8 +1,128 @@
+description: !!python/unicode 'Austin Coding Academy is a part time coding bootcamp
+  that is committed to affordable, accessible coding education. ACA offers full stack
+  programs that are broken up into three levels: Intro, Intermediate, and Advanced.
+  Each level is a 10 week course that meets two nights a week. By the end of the Advanced
+  class students are prepared for a full time position as a junior web developer.
+  Because classes are part time and in the evenings, they have the added benefit of
+  being taught by instructors who work as full time developers during the day at companies
+  like Continuum Analytics, General Motors, Invodo, and more. All instructors are
+  trained through ACA''s rigorous instructor development program that focuses on making
+  sure instructors know more than how to build the technology; they know how to teach
+  it as well.
+
+  '
 display_name: Austin Coding Academy
 founded_year: 2014
+meta-description: Learn about Austin Coding Academy reviews, cost, and course information.
 primary_email: info@austincodingacademy.com
-slug: austin-coding-academy
+programs:
+  advanced:
+    admissions: Application, Phone Interview, Prep Work
+    cities:
+    - Austin
+    commitment: part-time
+    cost_description: $2,990
+    description: !!python/unicode 'This is our Advanced course, designed to take our
+      Intermediate students to a level of fluency with Node.JS and React.JS that will
+      allow them to build professional, well designed web applications. You can use
+      these skills to become an entry level developer, a Javascript developer a senior
+      technical project manager, a full stack developer, or use your ability to learn
+      new languages to switch into a career with Python, Ruby, or one of the many
+      other in-demand languages in Texas. This class is designed for someone who has
+      a strong command of front end development, including HTML, CSS, and Javascript,
+      and who is interested in formalizing their back end development skill set to
+      become full stack.
+
+      '
+    display_name: Advanced Level
+    duration: 10
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - JavaScript
+    - Node.JS
+    - React.JS
+    - Mongo DB
+    - Application Deployment
+    - Unit Testing
+    - APIs
+    - Authentication
+    tuition: 2990
+    tuition_units: USD
+  intermediate:
+    admissions: Application, Phon Interview, Prep Work
+    cities:
+    - Austin
+    commitment: part-time
+    cost_description: $2,990
+    description: "In the Intermediate class, you have already developed your chops\
+      \ with HTML and CSS and can build beautiful, responsive websites that any freelancer\
+      \ would drool over. Now it\u2019s time to start building applications to give\
+      \ those pages some life. In the intermediate class, you will attend class two\
+      \ nights a week, and outside of class, do approximately 2 hours a day of homework.\
+      \ You will learn Object Oriented Programming, server calls, API integration,\
+      \ and build multiple web applications all in 10 weeks. Class is focused around\
+      \ project development and students build a new app each week. By the end of\
+      \ the course you will have 8-10 new apps in your portfolio.\n"
+    display_name: Intermediate Level
+    duration: 10
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - JavaScript
+    - Node.JS
+    - AJAX
+    - Application Development
+    - Object Oriented Programming
+    - Debugging
+    - Testing
+    tuition: 2990
+    tuition_units: USD
+  intro:
+    admissions: Application, Phone Interview
+    cities:
+    - austin
+    commitment: part-time
+    cost_description: $2,990
+    description: !!python/unicode 'In the Intro class you will learn how the internet
+      works and build your own web pages. This class is designed to take true beginners
+      to a level of fluency with HTML and CSS that will allow them to build professional,
+      well designed, responsive websites. You can use these skills to begin freelancing
+      or to get started as a web designer. This class is designed for someone who
+      is brand new to writing code or has dabbled with a few online tutorials like
+      Codecademy and have found they are ready to really solidify their knowledge
+      base in website development.
+
+      '
+    display_name: Intro Level
+    duration: 10
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: For minorities
+    topics:
+    - HTML
+    - CSS
+    - jQuery
+    - git
+    - web Design
+    - responsive Development
+    - problem Solving
+    tuition: 2990
+    tuition_units: USD $
 tagline: Affordable, Accessible Coding Education
+twitter: austincoding
 website: https://www.austincodingacademy.com
-twitter: @austincoding
-meta-description: "Learn about Austin Coding Academy reviews, cost, and course information."
