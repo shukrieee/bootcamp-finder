@@ -54,6 +54,12 @@ def main(directory):
         # No point in going any further, return
         return errors
 
+    all_cities = [
+        city.get('slug') for city in yaml.load(open('cities.yml', 'r'))]
+    all_topics = [
+        topic.get('slug') for topic in yaml.load(open('topics.yml', 'r'))]
+    all_cities_topics = all_cities + all_topics
+
     # Validate bootcamp yaml data
     data = yaml.load(open('{}data.yml'.format(directory), 'r'))
 
@@ -96,6 +102,18 @@ def main(directory):
                 errors.append(
                     '{} Incorrect format for key "{}". Should be {} but was '
                     'a {}'.format(error_msg, key, req_types, key_type))
+        # City and topic slugs must be lower case
+        cities_topics = program_data.get('cities') + program_data.get('topics')
+        for ct in cities_topics:
+            if ct.lower() != ct:
+                errors.append(
+                    '{} City/Topic slug {} must be lower cased.'.format(
+                        error_msg, ct))
+            elif ct not in all_cities_topics:
+                errors.append(
+                    '{} City/Topic {} not found in data. '
+                    'Please add it to the correct yml file.'.format(
+                        error_msg, ct))
 
     return errors
 

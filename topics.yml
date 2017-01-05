@@ -14,11 +14,6 @@
   description: "Android is the most popular mobile development platform. Write code in Java for people to use in the palm of their hands!"
   featured: true
 
-- display_name: Ionic
-  slug: ionic
-  meta_description: "Find out which bootcamps teach Ionic Framework and learn how to build hybrid applications!"
-  description: "These bootcamps teach the Ionic mobile app framework. Use it to build hybrid mobile apps."
-
 - display_name: Angular-JS
   slug: angular-js
   meta_description: "Compare bootcamps that teach AngularJS and start your web development journey today!"
@@ -29,6 +24,16 @@
   slug: apis
   meta_description: "Learn which bootcamps cover APIs, RESTful and otherwise."
   description: "APIs, or Application Programming Interfaces, allow apps to talk to each other. Learn which bootcamps teach this crucial skill."
+
+- display_name: App Development
+  slug: app-development
+  description: Discover bootcamps that teach app development
+  meta_description: Discover bootcamps that teach app development
+
+- display_name: Authentication
+  slug: authentication
+  description: Discover bootcamps that teach authentication
+  meta_description: Discover bootcamps that teach authentication
 
 - display_name: Big Data
   slug: big-data
@@ -96,6 +101,11 @@
   slug: html
   meta_description: "Compare bootcamps that offer HTML instruction and start building websites today!"
   description: "HTML is the most basic language involved in web development — every site uses it. These bootcamps take the time to cover HTML."
+
+- display_name: Ionic
+  slug: ionic
+  meta_description: "Find out which bootcamps teach Ionic Framework and learn how to build hybrid applications!"
+  description: "These bootcamps teach the Ionic mobile app framework. Use it to build hybrid mobile apps."
 
 - display_name: iOS
   slug: ios
@@ -205,6 +215,11 @@
   slug: objective-c
   meta_description: "Compare bootcamps teaching Objective-C and begin building iPhone and iPad apps for iOS"
   description: "If you want to build high-performance apps for iOS, you want Objective-C. Learn to write Objective-C code at these bootcamps."
+
+- display_name: Object-Oriented Programming
+  slug: object-oriented-programming
+  description: Discover bootcamps that teach object-oriented programming
+  meta_description: Discover bootcamps that teach object-oriented programming
 
 - display_name: PHP
   slug: php
@@ -325,6 +340,11 @@
   meta_description: "Compare bootcamps that include important product work like user research in their syllabus"
   description: "User research is an important part of the feedback loop between developers and their users. Learn to conduct user research at these bootcamps."
 
+- display_name: Unit Testing
+  slug: unit-testing
+  description: Discover bootcamps that teach unit testing
+  meta_description: Discover bootcamps that teach unit testing
+
 - display_name: Unix
   slug: unix
   meta_description: "Learn which bootcamps will set you up for success within the UNIX shell and beyond"
@@ -339,6 +359,11 @@
   slug: visual-studio
   meta_description: "Learn which bootcamps will teach you to use Visual Studio and get started with the Microsoft suite"
   description: "Microsoft Visual Studio is beloved by many programmers. Start using Visual Studio at these bootcamps."
+
+- display_name: Web Design
+  slug: web-design
+  description: Discover bootcamps that teach web design
+  meta_description: Discover bootcamps that teach web design
 
 - display_name: Windows Administrator
   slug: windows-admin

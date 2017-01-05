@@ -19,7 +19,7 @@ programs:
   advanced:
     admissions: Application, Phone Interview, Prep Work
     cities:
-    - Austin
+    - austin
     commitment: part-time
     cost_description: $2,990
     description: !!python/unicode 'This is our Advanced course, designed to take our
@@ -44,20 +44,20 @@ programs:
     reports_outcomes: false
     scholarships: 'No'
     topics:
-    - JavaScript
-    - Node.JS
-    - React.JS
-    - Mongo DB
-    - Application Deployment
-    - Unit Testing
-    - APIs
-    - Authentication
+    - javascript
+    - node-js
+    - react
+    - mongodb
+    - app-development
+    - unit-testing
+    - apis
+    - authentication
     tuition: 2990
     tuition_units: USD
   intermediate:
     admissions: Application, Phon Interview, Prep Work
     cities:
-    - Austin
+    - austin
     commitment: part-time
     cost_description: $2,990
     description: "In the Intermediate class, you have already developed your chops\
@@ -79,13 +79,12 @@ programs:
     reports_outcomes: false
     scholarships: 'No'
     topics:
-    - JavaScript
-    - Node.JS
-    - AJAX
-    - Application Development
-    - Object Oriented Programming
-    - Debugging
-    - Testing
+    - javascript
+    - node-js
+    - ajax
+    - app-development
+    - object-oriented-programming
+    - testing
     tuition: 2990
     tuition_units: USD
   intro:
@@ -114,13 +113,12 @@ programs:
     reports_outcomes: false
     scholarships: For minorities
     topics:
-    - HTML
-    - CSS
-    - jQuery
+    - html
+    - css
+    - jquery
     - git
-    - web Design
-    - responsive Development
-    - problem Solving
+    - web-design
+    - responsive-design
     tuition: 2990
     tuition_units: USD $
 tagline: Affordable, Accessible Coding Education
