@@ -48,7 +48,7 @@ programs:
     admissions: Application, interview
     cities:
     - salt-lake-city
-    commitment: null
+    commitment: unknown
     cost_description: $10,500
     description: "The iOS development bootcamp at DevMountain prepares students to\
       \ build\ninnovative applications for a variety of Apple devices. All full-time\

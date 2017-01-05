@@ -49,7 +49,7 @@ programs:
     admissions: Application, interview
     cities:
     - denver
-    commitment: null
+    commitment: unknown
     cost_description: $17,500
     description: !!python/unicode 'Over 28 weeks, the front-end development bootcamp
       at Turing School of Software

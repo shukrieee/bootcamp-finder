@@ -18,7 +18,7 @@ programs:
     admissions: Application, interview, prep work
     cities:
     - london
-    commitment: null
+    commitment: unknown
     cost_description: "\xA38000"
     description: !!python/unicode 'You''ll experience iOS development from simple
       designs to a high level of abstraction. Create user friendly applications using
@@ -50,7 +50,7 @@ programs:
     admissions: Application, interview, prep work
     cities:
     - london
-    commitment: null
+    commitment: unknown
     cost_description: "\xA38000"
     description: "We start with HTML5 and CSS3 to make your application responsive.\
       \ Improve UX by animating with jQuery and 3rd party libraries. Skill up your\

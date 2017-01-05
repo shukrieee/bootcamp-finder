@@ -94,7 +94,7 @@ programs:
     - seattle
     - sydney
     - washington-dc
-    commitment: null
+    commitment: unknown
     cost_description: $14,500
     description: "The data science immersive at General Assembly teaches the skills\
       \ necessary\nfor bootcamp recruits to successfully analyze \u2013 and present\
