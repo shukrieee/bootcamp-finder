@@ -1,8 +1,58 @@
+description: "Destination Dev gives students a chance to travel and learn to code\
+  \ for 8 weeks in Medell\xEDn, Colombia. The program provides its students with a\
+  \ proven Ruby on Rails curriculum combined with an international travel experience.\
+  \ Students are trained to build professional quality web applications in Ruby on\
+  \ Rails, and are taken on weekly excursions through the country's beautiful tourist\
+  \ attractions. Housing, transportation to and from the airport, and weekly excursions\
+  \ are all included in the tuition price.\n\nGraduates of Destination Dev can expect\
+  \ to be able to build web applications on a professional level. This is the perfect\
+  \ segue into a Digital Nomad lifestyle, or advancing a tech career while traveling\
+  \ abroad.\n\nThe interview process involves a cultural screen and concludes with\
+  \ a technical screen. Expect to complete a brief live coding challenge during the\
+  \ interview. There is a pre-course curriculum that prepares all prospective students\
+  \ for the technical interview.\n"
 display_name: Destination Dev
 founded_year: 2016
+meta-description: Get verified Destination Dev reviews about the travel and learn
+  to code bootcamp. Learn about cost, curriculum, and entrance interviews for prospective
+  students.
 primary_email: andrew@destinationdev.com
-slug: destination-dev
-tagline: Travel and Learn to Code for 8 Weeks in Medellín, Colombia
+programs:
+  primary:
+    admissions: Application, cultural screen, technical interview
+    cities:
+    - medellin
+    commitment: full-time
+    cost_description: Housing, transportation to and from the airport, and weekly
+      excursions are all included in the tuition price
+    description: !!python/unicode 'Destination Dev''s 8-week bootcamp teaches students
+      to build professional-level web applications in Ruby on Rails while traveling
+      the world. Students graduate with the skills to become professional web developers,
+      and leave with new lifelong friendships formed over nearly 60 days of international
+      travel.
+
+
+      '
+    display_name: Primary
+    duration: 8
+    duration_units: weeks
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - algorithms
+    - ruby-on-rails
+    - mvc
+    - jquery
+    - git
+    - sql
+    - css
+    - html
+    tuition: 8900
+    tuition_units: USD $
+tagline: "Travel and Learn to Code for 8 Weeks in Medell\xEDn, Colombia"
+twitter: null
 website: http://www.destinationdev.com
-twitter:
-meta-description: "Get verified Destination Dev reviews about the travel and learn to code bootcamp. Learn about cost, curriculum, and entrance interviews for prospective students."
