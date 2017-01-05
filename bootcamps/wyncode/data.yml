@@ -39,7 +39,7 @@ programs:
     financing: true
     guarantee: 'No'
     outcomes_verified: true
-    placement: 97% of job-seeking graduates land a job within 3 months of graduation
+    placement: 84% of job-seeking graduates land a job within 120 days
     reports_outcomes: true
     scholarships: 'Yes'
     topics:
