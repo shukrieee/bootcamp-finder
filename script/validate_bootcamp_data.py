@@ -3,8 +3,8 @@ import argparse
 import os
 import sys
 
-from logger import logger
 import yaml
+from logger import logger
 
 
 BOOTCAMP_REQUIRED_KEYS = {
