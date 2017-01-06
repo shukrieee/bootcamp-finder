@@ -43,16 +43,16 @@ programs:
     reports_outcomes: true
     scholarships: 'Yes'
     topics:
-    - Ruby
-    - Ruby-on-Rails
-    - JavaScript
-    - Git
-    - Agile Methodologies
-    - HTML
-    - CSS
-    - Testing
+    - ruby
+    - ruby-on-rails
+    - javascript
+    - git
+    - agile-methodologies
+    - html
+    - css
+    - testing
     tuition: $11,500
     tuition_units: USD
 tagline: The Miami Coding Bootcamp That Teaches Business Acumen.
-twitter: @wyncode
-website: 'http://www.wyncode.co '
+twitter: wyncode
+website: http://www.wyncode.co
