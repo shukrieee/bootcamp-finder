@@ -126,7 +126,7 @@
 - display_name: Hong Kong
   slug: hong-kong
   description: Hong Kong coding bootcamps help train people in one of the biggest commercial centers of East Asia. Learn to code in Hong Kong and dive into the tremendous financial industry, tech industry, or carve your own path.
-  state: null
+  state: China
 
 - display_name: Honolulu
   slug: honolulu
@@ -167,7 +167,7 @@
   meta_description: London coding bootcamps are poised to launch you into technical work in London's financial or computing companies. Learn to code in London and get a head start on your career.
   description: At a global financial and trade hub, London coding bootcamps are in a prime position to help students find exciting work. Learn to code in London to seize this opportunity.
   featured: true
-  state: England
+  state: United Kingdom
 
 - display_name: Los Angeles
   slug: los-angeles
@@ -278,10 +278,6 @@
   description: North Carolina is one of the Southeast's growing tech hubs and Raleigh is a big part. Learn to code at a Raleigh coding bootcamp to get involved in the web and mobile development industry.
   state: NC
 
-- display_name: Raleigh-Durham
-  slug: raleigh-durham
-  state: NC
-
 - display_name: Remote
   slug: remote
   meta_description: Learn to code online. No matter where you are, online coding bootcamps can help you start a developer career. Find remote coding bootcamps.
@@ -332,7 +328,7 @@
 - display_name: Singapore
   slug: singapore
   description: As a major Asian marketplace, Singapore features coding bootcamps that can get you involved in global business.  Learn to code in Singapore and work in web or mobile development, or data science.
-  state: null
+  state: Singapore
 
 - display_name: Sydney
   slug: sydney

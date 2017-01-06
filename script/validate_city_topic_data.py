@@ -7,6 +7,7 @@ from logger import logger
 CITY_REQUIRED_KEYS = {
     'display_name': {str},
     'slug': {str},
+    'state': {str},
 }
 
 CITY_OPTIONAL_KEYS = {
