@@ -54,7 +54,6 @@ programs:
     - remote
     - atlanta
     - raleigh
-    - raleigh-durham
     - washington-dc
     commitment: part-time
     cost_description: $1,500 per month
@@ -105,7 +104,6 @@ programs:
     - remote
     - atlanta
     - raleigh
-    - raleigh-durham
     - washington-dc
     commitment: full-time
     cost_description: $14,000
