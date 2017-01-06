@@ -283,6 +283,7 @@
   meta_description: Learn to code online. No matter where you are, online coding bootcamps can help you start a developer career. Find remote coding bootcamps.
   description: Remote coding bootcamps are everywhere. Students can get their education from anywhere, untethered from any physical location. In recent years, thousands of students have moved towards learning with online coding bootcamps.
   featured: True
+  state: Online
 
 - display_name: Saint Louis
   slug: saint-louis
@@ -362,6 +363,7 @@
   meta_description: Washington DC coding bootcamps will teach you to build software used in government, academia, and local industry. Learn to code in Washington DC to change your career.
   description: The United States' capital is surrounded by technical jobs and academia. Get in on the action by learning to code in these Washington DC coding bootcamps.
   featured: true
+  state: USA
 
 - display_name: Winston-Salem
   slug: winston-salem
