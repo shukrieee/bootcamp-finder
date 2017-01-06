@@ -36,6 +36,7 @@ description: !!python/unicode "<div style=\"left:0; position:fixed; width:100%; 
   \ a job.\n"
 display_name: Devschool
 founded_year: 2015
+hide_from_results: true
 meta-description: Alert! Devschool.rocks has been exposed as a fake bootcamp and a
   scam. This page exists to warn you.
 primary_email: hello@devschool.rocks
