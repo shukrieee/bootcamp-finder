@@ -118,6 +118,7 @@
   slug: ft-lauderdale
   description: Learn to code in Fort Lauderdale, Florida. The South Florida sun and strong business environment are spurring lots of tech hiring at major companies. Ride the tech wave at Fort Lauderdale programming bootcamps.
   state: FL
+  alias: fort-lauderdale
 
 - display_name: Greenville
   slug: greenville
@@ -236,6 +237,7 @@
   description: New York is known for being the financial capital of the world, but it has a rapidly growing tech scene. Coding bootcamps in New York are educating people to work in the growing software industry.
   featured: true
   state: NY
+  alias: new-york-city
 
 - display_name: Omaha
   slug: omaha
@@ -289,6 +291,7 @@
   slug: saint-louis
   description: The Rams are gone, but the tech industry is on its way. Learn to code at Saint Louis coding bootcamps to get ahead of the curve with software development.
   state: MO
+  alias: st-louis
 
 - display_name: Salt Lake City
   slug: salt-lake-city
