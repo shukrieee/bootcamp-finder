@@ -1,3 +1,8 @@
+- display_name: Agile Methodologies
+  slug: agile-methodologies
+  meta_description: Discover bootcamps that teach agile methodologies
+  description: Discover bootcamps that teach agile methodologies
+
 - display_name: Ajax
   slug: ajax
   meta_description: "Compare bootcamps that teach AJAX requests. Most web development programs will cover the basics!"
@@ -282,6 +287,12 @@
   slug: ruby-on-rails
   meta_description: "Compare between Rails bootcamps and see which one fits your interests best"
   description: "Ruby on Rails bootcamps will teach you one of the most beloved web development frameworks. Rails is still used for thousands of popular web apps and can be a good way to start learning."
+  featured: true
+
+- display_name: Ruby
+  slug: ruby
+  meta_description: "Compare between Ruby bootcamps and see which one fits your interests best"
+  description: "Discover bootcamps that teach Ruby"
   featured: true
 
 - display_name: Sass
