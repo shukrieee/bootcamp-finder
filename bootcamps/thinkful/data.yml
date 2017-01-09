@@ -36,10 +36,10 @@ description: !!python/unicode 'Thinkful''s Web Development Bootcamp combines an 
 
 
   Thinkful provides scholarships to all self-identifying women and military veterans
-  of $100 per month for Flexible Web Development Bootcamp students. The school provides
+  of $100 per month for Flexible Web Development Bootcamp students and $200 per month for Full Time Web Development students. The school provides
   these in collaboration with Girl Code It, MotherCoders, and Operation Code. The
-  women''s scholarship can be redeemed [using this link](https://www.thinkful.com/join/sign-up?scholarship=women-scholarship-200)
-  and the veteran''s scholarship [can be redeemed here](https://www.thinkful.com/join/sign-up?scholarship=veterans-scholarship-200).
+  women''s scholarship can be redeemed [using this link](https://www.thinkful.com/join/sign-up?course_code=FEWD-201&scholarship=women-scholarship-100)
+  and the veteran''s scholarship [can be redeemed here](https://www.thinkful.com/join/sign-up?course_code=FEWD-201&scholarship=veterans-scholarship-100).
 
   '
 display_name: Thinkful
