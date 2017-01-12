@@ -135,6 +135,49 @@ programs:
     - css
     tuition: 14000
     tuition_units: USD
+  flexible-data-science-bootcamp:
+    admissions: Complete prep course or coding challenge, anyone can take the prep
+      course.
+    cities:
+    - remote
+    - atlanta
+    - raleigh
+    - raleigh-durham
+    - washington-dc
+    commitment: part-time
+    cost_description: $1,500 per month, $500 prep course, prep course tuition is applied
+      to bootcamp tuition upon acceptance.
+    description: !!python/unicode 'Thinkful''s data science bootcamp is driven by
+      1-on-1 mentorship. Students learn the skills they need to get a job by working
+      closely with a professional data scientist. That includes programming in Python,
+      related Python packages for analysis, modeling, and machine learning like NumPy,
+      SciPy, pandas, and scikit-learn; plus data visualization tools like matplotlib,
+      seaborn, and Jupyter. Thinkful students get ahead with a mentor-personalized
+      experience, customizing their learning path and focusing on the skills they
+      need. Students meet with their mentor three times a week for an hour each session
+      to learn best practices, receive constant feedback, and move quickly.
+
+      '
+    display_name: Flexible Data Science Bootcamp
+    duration: 6
+    duration_units: months
+    financing: true
+    guarantee: false
+    outcomes_verified: true
+    placement: As a brand-new program, Thinkful aims to carry over its 93% success
+      rate in job placement from Web Development Bootcamp.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - data-science
+    - python
+    - numpy
+    - matplotlib
+    - regression
+    - machine-learning
+    - postgresql
+    tuition: 1500
+    tuition_units: USD
 tagline: An online program to go from beginner to engineer
 twitter: thinkful
 website: https://www.thinkful.com/bootcamp/web-development/flexible/
