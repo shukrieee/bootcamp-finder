@@ -142,7 +142,6 @@ programs:
     - remote
     - atlanta
     - raleigh
-    - raleigh-durham
     - washington-dc
     commitment: part-time
     cost_description: $1,500 per month, $500 prep course, prep course tuition is applied
