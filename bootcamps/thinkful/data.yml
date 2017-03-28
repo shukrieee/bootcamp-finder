@@ -55,6 +55,7 @@ programs:
     - atlanta
     - raleigh
     - washington-dc
+    - los-angeles
     commitment: part-time
     cost_description: $1,500 per month
     description: !!python/unicode 'Our Flexible Web Development Bootcamp provides
